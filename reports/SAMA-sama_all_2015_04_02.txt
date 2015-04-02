@@ -1,0 +1,227 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 292
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 10
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 61
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 4
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 8
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 3
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 9
+	Date: 2015-03-17 ; Times: 5
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-19 ; Times: 3
+	Date: 2015-03-20 ; Times: 3
+	Date: 2015-03-21 ; Times: 2
+	Date: 2015-03-22 ; Times: 5
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-28 ; Times: 2
+	Date: 2015-03-29 ; Times: 2
+	Date: 2015-03-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "bulla" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "stegonotus cucullatus" ; Times: 1
+	Query: "specificepithet:apicalis genus:Leporillus" ; Times: 1
+	Query: "type:specimen specificepithet:sumatranus genus:corydon" ; Times: 1
+	Query: "Macaca sinica" ; Times: 2
+	Query: "Niviventer lepturus" ; Times: 1
+	Query: "pseudocalotes tympanistriga" ; Times: 1
+	Query: "Mixophyes fleayi" ; Times: 8
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "chloropsis aurifrons type:specimen country:"sri lanka"" ; Times: 1
+	Query: "onychognathus morio" ; Times: 1
+	Query: "specificepithet:albipes genus:Conilurus" ; Times: 3
+	Query: "leptoptilos dubius" ; Times: 5
+	Query: "vulpes zerda" ; Times: 1
+	Query: "Vombatus ursinus (skeleton)" ; Times: 1
+	Query: "barrabandi" ; Times: 1
+	Query: "Chelodina pritchardi" ; Times: 1
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "Cyrtodactylus serratus" ; Times: 1
+	Query: "Elseya novaeguineae" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 2
+	Query: "macgregoria" ; Times: 1
+	Query: "Philander opossum venezuela" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "xiphiidae" ; Times: 1
+	Query: "pythonidae new britain new guinea" ; Times: 1
+	Query: "Amphisbaena vermicularis" ; Times: 1
+	Query: "hypsilurus godeffroyi" ; Times: 1
+	Query: "nyctimystes granti" ; Times: 5
+	Query: "specificepithet:prolatus genus:Bunomys" ; Times: 3
+	Query: "Panthera onca" ; Times: 2
+	Query: "monodelphis brevicaudata" ; Times: 1
+	Query: "hypsilurus modestus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 2
+	Query: "maxomys wattsi" ; Times: 2
+	Query: "rhinoceros sondaicus" ; Times: 2
+	Query: "gallus lafayetii" ; Times: 3
+	Query: "nectarinia zeylonica" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 2
+	Query: "cuttlefish" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "stegonotus modestus" ; Times: 1
+	Query: "sphenomorphus schultzei" ; Times: 1
+	Query: "Mesoplodon hectori" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "fleayi" ; Times: 2
+	Query: "coris aygula" ; Times: 1
+	Query: ""Pan troglodytes" year <= 1960" ; Times: 2
+	Query: "M1981" ; Times: 1
+	Query: "Lesbia nuna country:"Colombia"" ; Times: 1
+	Query: "type:specimen recordedby:Primrose" ; Times: 1
+	Query: "cyrtodactylus loriae" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "lamprotornis nitens" ; Times: 2
+	Query: "B47093" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 298 download events in this period)
+Total number of records downloaded: 14882 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 13916
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Belgium ; Times: 3
+	Country: Cyprus ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Japan ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 25
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 4
+	Date: 2015-03-03 ; Times: 4
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 2
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 3
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 3
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "genus:Megophrys" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Psarocolius" ; Times: 1
+	Query: "chiroptera uganda" ; Times: 1
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "Stachyris ruficeps" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "genus:Leptolalax" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "chiroptera madagascar" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Leptobrachium" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "ascaphus" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "country:"Indonesia" class:Reptilia mappable:1" ; Times: 1
+	Query: "candoia" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "paroedura" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 288
+Total number of records retrieved from searches: 2056
+Number of download events that retrieved data from the resource: 210
+Total number of records downloaded: 52995
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 371
+Total number of records retrieved from searches: 2312
+Number of download events that retrieved data from the resource: 210
+Total number of records downloaded: 52995
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
