@@ -1,0 +1,317 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 236
+Number of records retrieved in searches: 835
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 12
+	Country: France ; Times: 5
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Spain ; Times: 8
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 180
+	Country: Unknown ; Times: 4
+	Country: Vietnam ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 28
+	Date: 2015-06-04 ; Times: 4
+	Date: 2015-06-05 ; Times: 24
+	Date: 2015-06-06 ; Times: 3
+	Date: 2015-06-07 ; Times: 6
+	Date: 2015-06-08 ; Times: 9
+	Date: 2015-06-09 ; Times: 12
+	Date: 2015-06-10 ; Times: 14
+	Date: 2015-06-11 ; Times: 5
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-13 ; Times: 4
+	Date: 2015-06-14 ; Times: 14
+	Date: 2015-06-15 ; Times: 5
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-17 ; Times: 3
+	Date: 2015-06-18 ; Times: 6
+	Date: 2015-06-19 ; Times: 5
+	Date: 2015-06-20 ; Times: 4
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-22 ; Times: 5
+	Date: 2015-06-23 ; Times: 4
+	Date: 2015-06-24 ; Times: 8
+	Date: 2015-06-25 ; Times: 11
+	Date: 2015-06-26 ; Times: 26
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-28 ; Times: 6
+	Date: 2015-06-29 ; Times: 8
+	Date: 2015-06-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 2
+	Query: "country:"Ecuador" specificepithet:leucophyllata genus:Hyla" ; Times: 1
+	Query: "m k goddard" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:marmorata genus:Hyla" ; Times: 2
+	Query: "gorsachius melanolophus" ; Times: 2
+	Query: "Phyllobates aurotaenia" ; Times: 2
+	Query: "enhydrina" ; Times: 2
+	Query: "oreophryne curator" ; Times: 1
+	Query: "Vidua macroura" ; Times: 1
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Sporophila albogularis" ; Times: 2
+	Query: "hydromantes italicus" ; Times: 1
+	Query: "chrysococcyx maculatus" ; Times: 8
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "genus:Caenolestes" ; Times: 3
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "Foulehaio procerior" ; Times: 1
+	Query: "amandava formosa" ; Times: 4
+	Query: "conopophila whitei" ; Times: 1
+	Query: "pitta brachyura" ; Times: 2
+	Query: "specie" ; Times: 1
+	Query: "phyllobates lugubris" ; Times: 3
+	Query: "Psittacula alexandri" ; Times: 2
+	Query: "Penelope jacucaca" ; Times: 1
+	Query: "podarcis pityusensis" ; Times: 1
+	Query: "numida year >= 1990 year <= 2015" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 2
+	Query: "recordedby:ed. hill" ; Times: 1
+	Query: "Treron pompadora chloroptera" ; Times: 1
+	Query: "Sericulus aureus type:specimen" ; Times: 1
+	Query: "Ixodes" ; Times: 2
+	Query: "terpsiphone paradisi" ; Times: 2
+	Query: "decussatus" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 3
+	Query: "Saltatricula" ; Times: 1
+	Query: "Mabuya longicaudata" ; Times: 2
+	Query: "oriolus kundoo" ; Times: 1
+	Query: "64392" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "sericulus aureus" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 1
+	Query: "gerygone magnirostris" ; Times: 2
+	Query: "podiceps cristatus" ; Times: 4
+	Query: "mitu year >= 1985 year <= 2015" ; Times: 1
+	Query: "Mabuya dorsivittata" ; Times: 3
+	Query: "country:"French Guiana" class:Reptilia institutioncode:SAMA" ; Times: 1
+	Query: "Canis aureus" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (NOT leo)" ; Times: 1
+	Query: "anas formosa" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "Pristis pristis" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "12243" ; Times: 1
+	Query: "Ramphocelus bresilius" ; Times: 3
+	Query: "country:"French Guiana" class:Reptilia" ; Times: 5
+	Query: "mabuya dorsivittata" ; Times: 6
+	Query: "gallus sonneratii" ; Times: 7
+	Query: "sylvietta rufescens" ; Times: 2
+	Query: "Chionis minor" ; Times: 2
+	Query: "Agapornis canus" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "specificepithet:uncia" ; Times: 2
+	Query: "thalassoma trilobatum" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "Liotyphlops beui" ; Times: 1
+	Query: "hypsilurus modestus" ; Times: 1
+	Query: "trogon caligatus" ; Times: 1
+	Query: "acrocephalus dumetorum" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "Vidua" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "canis lupus type:specimen (skull mandible)" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "mitu mitu year >= 1985 year <= 2015" ; Times: 2
+	Query: "subcaeruleum" ; Times: 1
+	Query: "Phyllobates lugubris" ; Times: 2
+	Query: "numida year >= 1980 year <= 1989" ; Times: 1
+	Query: "septentrionalis missouri" ; Times: 2
+	Query: "ephalophis" ; Times: 1
+	Query: "theloderma asperum" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 5
+	Query: "specificepithet:bilineatus genus:Agkistrodon" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "Oena capensis" ; Times: 2
+	Query: "Macgregoria pulchra" ; Times: 1
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "manorina melanotis" ; Times: 3
+	Query: "aphelocephala pectoralis" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "Paroaria dominicana" ; Times: 1
+	Query: "Sericulus aureus" ; Times: 3
+	Query: "bird bags" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:cedrorum genus:bombycilla year >= 1837 year <= 1900" ; Times: 1
+	Query: "canis lupus type:specimen (skull mandible) AND (NOT USA NOT united )" ; Times: 1
+	Query: "specificepithet:uncia genus:panthera" ; Times: 16
+	Query: "erithacus brunneus" ; Times: 22
+	Query: "seicercus burkii" ; Times: 2
+	Query: "Sephanoides sephaniodes" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Hypsilurus spinipes" ; Times: 6
+	Query: "12956" ; Times: 1
+	Query: "Megalaima javensis" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "trogon chionurus" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "reynoldsi" ; Times: 1
+	Query: "millardia" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (leo)" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:rhodopepla genus:Hyla" ; Times: 1
+	Query: "Adelaide type:specimen (ancient)" ; Times: 1
+	Query: "Theloderma" ; Times: 2
+	Query: "ara maracana" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:bifurca genus:Hyla" ; Times: 1
+	Query: "pristis pristis" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1524 download events in this period)
+Total number of records downloaded: 1219 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1138
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Denmark ; Times: 28
+	Country: France ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 2
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 5
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 2
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 7
+	Date: 2015-06-17 ; Times: 5
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-25 ; Times: 9
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-29 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 3
+	Query: "lebanon" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Coeligena helianthea" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "type:specimen genus:Leposoma" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Tristram" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Orthorhyncus cristatus" ; Times: 2
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "enhydrina" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "amazilia franciae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Chalcostigma heteropogon" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "family:meliphagidae AND skeleton type:specimen" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "Cercomela familiaris" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Mabuya dorsivittata" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "amazilia cyanocephala" ; Times: 1
+	Query: "Hylocharis grayi" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Sephanoides sephaniodes" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 771
+Total number of records retrieved from searches: 4041
+Number of download events that retrieved data from the resource: 439
+Total number of records downloaded: 204841
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 854
+Total number of records retrieved from searches: 4297
+Number of download events that retrieved data from the resource: 439
+Total number of records downloaded: 204841
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
