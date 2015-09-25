@@ -1,0 +1,330 @@
+Report for Institution Code SAMA, Resource Herpetology
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 224
+Number of records retrieved in searches: 2384
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 224
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 13
+	Date: 2015-08-03 ; Times: 6
+	Date: 2015-08-04 ; Times: 9
+	Date: 2015-08-05 ; Times: 10
+	Date: 2015-08-06 ; Times: 12
+	Date: 2015-08-07 ; Times: 16
+	Date: 2015-08-08 ; Times: 7
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 4
+	Date: 2015-08-11 ; Times: 13
+	Date: 2015-08-12 ; Times: 2
+	Date: 2015-08-13 ; Times: 15
+	Date: 2015-08-14 ; Times: 4
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 1
+	Date: 2015-08-17 ; Times: 11
+	Date: 2015-08-18 ; Times: 4
+	Date: 2015-08-19 ; Times: 7
+	Date: 2015-08-20 ; Times: 3
+	Date: 2015-08-21 ; Times: 13
+	Date: 2015-08-22 ; Times: 4
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-24 ; Times: 15
+	Date: 2015-08-25 ; Times: 6
+	Date: 2015-08-26 ; Times: 9
+	Date: 2015-08-27 ; Times: 8
+	Date: 2015-08-28 ; Times: 13
+	Date: 2015-08-29 ; Times: 6
+	Date: 2015-08-30 ; Times: 7
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pericrocotus roseus" ; Times: 4
+	Query: "Leiopelma type:specimen" ; Times: 1
+	Query: "type:specimen class:Reptilia distance(location,geopoint(-10.785824280903845,43.87455850839615))<146835" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "dasyornis" ; Times: 2
+	Query: "varanus giganteus institutioncode:sama AND (NOT WAM)" ; Times: 1
+	Query: "astrotia stokesii" ; Times: 1
+	Query: "Ixobrychus sinensis country:"India"" ; Times: 2
+	Query: "Tragulus javanicus" ; Times: 1
+	Query: "Artamus (skel OR skeleton)" ; Times: 1
+	Query: "turdoides caudatus" ; Times: 1
+	Query: "genus:paruromys" ; Times: 1
+	Query: "type:specimen specificepithet:hochstetteri genus:Leiopelma" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 3
+	Query: "4380" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "ichthyophis glutinosus" ; Times: 4
+	Query: "7754" ; Times: 1
+	Query: ""Monticola rupestris"" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 2
+	Query: "19463" ; Times: 1
+	Query: "redunca redunca" ; Times: 4
+	Query: "Acrochordus" ; Times: 3
+	Query: "Anomalepididae" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 2
+	Query: "oenanthe deserti" ; Times: 4
+	Query: "isurus oxyrinchus" ; Times: 3
+	Query: "paradisaea year >= 1986 year <= 2015" ; Times: 1
+	Query: ""Bradypus tridactylus" mappable:1" ; Times: 1
+	Query: "neophoca cinerea" ; Times: 7
+	Query: "mummy" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "R40355" ; Times: 2
+	Query: "Phylloscopus inornatus country:"India"" ; Times: 1
+	Query: "equus burchelli" ; Times: 2
+	Query: "little genus:Mus" ; Times: 2
+	Query: "Phorusrhacidae" ; Times: 1
+	Query: "oenanthe isabellina" ; Times: 1
+	Query: "emoia caeruleocauda papua new guinea" ; Times: 2
+	Query: "Dama" ; Times: 1
+	Query: "varanus flavirufus" ; Times: 8
+	Query: "emoia caeruleocauda papua new guinea island" ; Times: 1
+	Query: "pelecanus (skel OR skeleton)" ; Times: 1
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "lichenostomus fasciogularis" ; Times: 1
+	Query: "micryletta inornata" ; Times: 1
+	Query: "emoia nigra" ; Times: 1
+	Query: "loveridgelaps" ; Times: 1
+	Query: ""Lamprotornis nitens"" ; Times: 2
+	Query: "Chiffchaff" ; Times: 1
+	Query: "Psophodes (skel OR skeleton)" ; Times: 1
+	Query: "arctocephalus tropicalis" ; Times: 2
+	Query: "rabosky" ; Times: 2
+	Query: "sphagnicola" ; Times: 1
+	Query: "spotted owl" ; Times: 3
+	Query: ""Callicebus cupreus" mappable:1" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 3
+	Query: "uvidicolus" ; Times: 2
+	Query: "gallus sonneratii" ; Times: 2
+	Query: "Dactyloidae" ; Times: 1
+	Query: "Carduelis cucullata" ; Times: 2
+	Query: "Tomistoma" ; Times: 1
+	Query: "octopus" ; Times: 2
+	Query: "Tateomys rhinogradoides" ; Times: 1
+	Query: "acanthodactylus aureus" ; Times: 1
+	Query: "Notiomystis" ; Times: 1
+	Query: "type:specimen genus:Leiopelma" ; Times: 4
+	Query: "ploceus manyar" ; Times: 3
+	Query: "76848" ; Times: 1
+	Query: "varanus giganteus AND (NOT WAM)" ; Times: 1
+	Query: "Glareolidae (skel OR skeleton)" ; Times: 1
+	Query: "Falcunculus (skel OR skeleton)" ; Times: 1
+	Query: "lichenostomus versicolor" ; Times: 1
+	Query: "Mabuya macularia" ; Times: 4
+	Query: ""Marmosa murina" mappable:1" ; Times: 1
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "varanus giganteus" ; Times: 3
+	Query: "orcinus orca" ; Times: 2
+	Query: "83487" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 3
+	Query: "Phocarctos hookeri" ; Times: 2
+	Query: "coracina tenuirostris" ; Times: 2
+	Query: "60313" ; Times: 1
+	Query: "anisomys" ; Times: 1
+	Query: "neophoca" ; Times: 1
+	Query: "Pachycephala (skel OR skeleton)" ; Times: 1
+	Query: "specificepithet:undulatus genus:melopsittacus year >= 1979" ; Times: 3
+	Query: ""Dasyprocta leporina" mappable:1" ; Times: 1
+	Query: ""Ateles paniscus" mappable:1" ; Times: 2
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "varanus gouldii flavirufus" ; Times: 2
+	Query: "rhinoderma" ; Times: 1
+	Query: ""Cacajao calvus" mappable:1" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "Daphoenositta (skel OR skeleton)" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "Anas clypeata australia" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "Lichenostomus melanops cassidix" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "manorina melanotis" ; Times: 2
+	Query: "25393" ; Times: 1
+	Query: "aphelocephala pectoralis" ; Times: 2
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Elephantulus revoili" ; Times: 2
+	Query: "varanus panoptes" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 4
+	Query: "Strigops" ; Times: 1
+	Query: ""Euphractus sexcinctus" mappable:1" ; Times: 2
+	Query: "coturnix coturnix" ; Times: 4
+	Query: ""Grallina cyanoleuca" type:specimen year >= 1972 year <= 1973" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "IP" ; Times: 2
+	Query: "remota class:Aves" ; Times: 1
+	Query: ""Monodelphis brevicaudata" mappable:1" ; Times: 1
+	Query: "dicrurus caerulescens" ; Times: 1
+	Query: "Leiopelma hochstetteri" ; Times: 2
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "haliaeetus leucogaster" ; Times: 4
+	Query: "nasalis larvatus" ; Times: 4
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "arctocephalus forsteri" ; Times: 1
+	Query: "year:1832" ; Times: 1
+	Query: "Oreoica (skel OR skeleton)" ; Times: 2
+	Query: "toxicocalamus loriae" ; Times: 1
+	Query: "Egretta garzetta (skel OR skeleton)" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1138 download events in this period)
+Total number of records downloaded: 4406 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3703
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 100
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 2
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 9
+	Date: 2015-08-06 ; Times: 5
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 7
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-19 ; Times: 6
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 5
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 7
+	Date: 2015-08-25 ; Times: 14
+	Date: 2015-08-26 ; Times: 2
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 7
+	Date: 2015-08-29 ; Times: 5
+	Date: 2015-08-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Aegothelidae" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "astrotia stokesii" ; Times: 1
+	Query: ""Ateles paniscus" mappable:1" ; Times: 1
+	Query: "venezuela reptilia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "oplurus" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: ""eclectus"" ; Times: 2
+	Query: "order: pholidota" ; Times: 1
+	Query: ""Caluromys lanatus" mappable:1" ; Times: 1
+	Query: "Pitheciidae" ; Times: 2
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "Eugongylus" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: ""Philander opossum" mappable:1" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Troglodytidae" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: ""Callicebus cupreus" mappable:1" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: ""Nasua nasua" mappable:1" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Atelidae" ; Times: 2
+	Query: "paradisaeidae" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "carnivora country:"Mexico" mappable:1" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: ""Potos flavus" mappable:1" ; Times: 1
+	Query: "lichenostomus versicolor" ; Times: 1
+	Query: "country:"Mexico" class:Actinopterygii" ; Times: 1
+	Query: ""Marmosa murina" mappable:1" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "atelopus chiriquiensis" ; Times: 1
+	Query: ""Didelphis marsupialis" mappable:1" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "lichenostomus fasciogularis" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: ""Dasyprocta leporina" mappable:1" ; Times: 1
+	Query: "Morelia class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Dasyurus hallucatus" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "mykiss" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: ""Cuniculus paca" mappable:1" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Psychrolutes" ; Times: 1
+	Query: ""Panthera onca" mappable:1" ; Times: 1
+	Query: ""Metachirus nudicaudatus" mappable:1" ; Times: 1
+	Query: ""Monodelphis brevicaudata" mappable:1" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: ""Cacajao calvus" mappable:1" ; Times: 1
+	Query: "year:1832" ; Times: 1
+	Query: "Apteryx australis" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "class:aves (feather)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 224
+Total number of records retrieved from searches: 2384
+Number of download events that retrieved data from the resource: 100
+Total number of records downloaded: 4406
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 224
+Total number of records retrieved from searches: 2384
+Number of download events that retrieved data from the resource: 100
+Total number of records downloaded: 4406
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
