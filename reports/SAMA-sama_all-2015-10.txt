@@ -1,0 +1,360 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 1541
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 13
+	Country: Unknown ; Times: 12
+	Country: Mexico ; Times: 22
+	Country: India ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Sri Lanka ; Times: 1
+	Country: China ; Times: 1
+	Country: United States ; Times: 94
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-17 ; Times: 5
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 6
+	Date: 2015-10-12 ; Times: 11
+	Date: 2015-10-13 ; Times: 10
+	Date: 2015-10-10 ; Times: 5
+	Date: 2015-10-11 ; Times: 8
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 13
+	Date: 2015-10-28 ; Times: 6
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 6
+	Date: 2015-10-22 ; Times: 6
+	Date: 2015-10-21 ; Times: 6
+	Date: 2015-10-20 ; Times: 7
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 6
+	Date: 2015-10-07 ; Times: 12
+	Date: 2015-10-06 ; Times: 3
+	Date: 2015-10-01 ; Times: 10
+	Date: 2015-10-03 ; Times: 3
+	Date: 2015-10-02 ; Times: 7
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 13
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "bos grunniens" ; Times: 3
+	Query: "Nyctimystes calcaratus" ; Times: 1
+	Query: "Asellia tridens country:&#34;Egypt&#34; continent:Africa" ; Times: 1
+	Query: "nactus institutioncode:SAMA" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 6
+	Query: "victoria regia" ; Times: 1
+	Query: "Litoria barringtonensis" ; Times: 1
+	Query: "crax alector alector" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "Trioceros jacksonii" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "Rhipidura dryas" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "morelia viridis" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "francolinus levaillantoides" ; Times: 2
+	Query: "country:&#34;Indonesia&#34; year &gt;= 1880 year &lt;= 1886" ; Times: 1
+	Query: "Cyclorana cryptotis" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 2
+	Query: "rheobatrachus vitellinus type:specimen" ; Times: 1
+	Query: "genus:acinonyx" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1920" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Nestor meridionalis" ; Times: 1
+	Query: "Motacilla citreola country:&#34;india&#34;" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "Rheobatrachus" ; Times: 4
+	Query: "platymantis macrosceles" ; Times: 2
+	Query: "sama R35601 samoa" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "polygrammicus" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "tribolonotus institutioncode:SAMA" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "type:specimen genus:acinonyx" ; Times: 5
+	Query: "catalognumber:R5886" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "arctocephalus tropicalis" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "jugger" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 2
+	Query: "gekko gecko institutioncode:SAMA" ; Times: 1
+	Query: "pachycephala rufogularis" ; Times: 1
+	Query: "Motacilla flava country:&#34;india&#34;" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "Diplodactylus pulcher institutioncode:SAMA" ; Times: 1
+	Query: "Malayemys" ; Times: 2
+	Query: "rudolfi" ; Times: 1
+	Query: "Nyctereutes procyonoides mappable:1" ; Times: 1
+	Query: "phalacrocorax coronatus" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "genus:Tretioscincus" ; Times: 1
+	Query: "Diplodactylus institutioncode:SAMA" ; Times: 1
+	Query: "Coleonyx institutioncode:SAMA" ; Times: 1
+	Query: "francolinus vulgaris" ; Times: 3
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "gekko institutioncode:SAMA" ; Times: 2
+	Query: "type:specimen genus:Dasyornis" ; Times: 2
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 1
+	Query: "Asellia tridens continent:Africa" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "snook" ; Times: 1
+	Query: "Bradypodion thamnobates" ; Times: 1
+	Query: "Probosciger aterrimus" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 1
+	Query: "Hoolock hoolock" ; Times: 3
+	Query: "Garrulax chinensis" ; Times: 1
+	Query: "Diplodactylus galeatus institutioncode:SAMA" ; Times: 1
+	Query: "Nyctimystes eucavatus" ; Times: 1
+	Query: "manucodia" ; Times: 1
+	Query: "sama stegonotus" ; Times: 1
+	Query: "crax globulosa" ; Times: 2
+	Query: "gnypetoscincus institutioncode:SAMA" ; Times: 1
+	Query: "Strophurus institutioncode:SAMA" ; Times: 1
+	Query: "Probosciger aterrimus (skel OR skeleton)" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "mass mammalia" ; Times: 2
+	Query: "Gekko institutioncode:SAMA" ; Times: 1
+	Query: "mabuya macularia type:specimen" ; Times: 1
+	Query: "J Foster 1954" ; Times: 1
+	Query: "parus major mahrattarum" ; Times: 1
+	Query: "sama R24229" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "megalaima rubricapilla" ; Times: 1
+	Query: "carduelis cucullata" ; Times: 8
+	Query: "dama.dama" ; Times: 1
+	Query: "paroedura institutioncode:SAMA" ; Times: 1
+	Query: "EWENS" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 8
+	Query: "oryx gazella" ; Times: 1
+	Query: "rheobatrachus type:specimen" ; Times: 1
+	Query: "Litoria eurynastes" ; Times: 1
+	Query: "aspidites ramsayi" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "Zosterops palpebrosus" ; Times: 2
+	Query: "coturnix skeleton" ; Times: 2
+	Query: "Panthera tigris" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "elephas maximus" ; Times: 3
+	Query: "vipera berus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 4
+	Query: "Platymantis ingeri" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 139 (out of 823 download events in this period)
+Total number of records downloaded: 4011
+Number of different countries: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Peru ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 75
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Thailand ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 14
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 4
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 9
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 10
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-07 ; Times: 9
+	Date: 2015-10-06 ; Times: 3
+	Date: 2015-10-01 ; Times: 5
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 27
+	Date: 2015-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis NOT nigrolineata NOT megaspila NOT longicaudatus NOT Daru)" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Litoria barringtonensis" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Cyclorana cultripes" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Cyclorana cryptotis" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Cyclorana longipes" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Calyptorhynchus latirostris" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Cyclorana alboguttata" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Lipinia noctua noctua" ; Times: 1
+	Query: "arctocephalus tropicalis" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Cyclorana platycephala" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Cyclorana maini" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Cyclorana brevipes" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Bradypodion thamnobates" ; Times: 2
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "Hoolock hoolock" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "Garrulax chinensis" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "sama stegonotus" ; Times: 1
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus )" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Nyctimystes cheesmani" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "boiga irregularis mappable:1" ; Times: 1
+	Query: "motacilla citreola" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Litoria eurynastes" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Sphenomorphus New Guinea" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Fritziana ohausi" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "genetta genetta" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cyclorana novaehollandiae" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
