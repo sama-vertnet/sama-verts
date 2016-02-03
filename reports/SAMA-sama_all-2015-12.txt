@@ -1,0 +1,293 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 752
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Turkey ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 69
+	Country: Switzerland ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 16
+	Country: Unknown ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 13
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-09 ; Times: 4
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 6
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 6
+	Date: 2015-12-07 ; Times: 11
+	Date: 2015-12-06 ; Times: 10
+	Date: 2015-12-05 ; Times: 11
+	Date: 2015-12-04 ; Times: 7
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 8
+	Date: 2015-12-23 ; Times: 3
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 10
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 10
+	Date: 2015-12-16 ; Times: 4
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-12 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Thapsinillas" ; Times: 1
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "Gehyra vorax" ; Times: 2
+	Query: "chrysopelea" ; Times: 2
+	Query: "Syma torotoro" ; Times: 1
+	Query: "moth" ; Times: 1
+	Query: "rana kreffti" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Bradypodion damaranum" ; Times: 2
+	Query: "Hoplodactylus" ; Times: 3
+	Query: "Philemon year &gt;= 1954 year &lt;= 1954" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes (personatus)" ; Times: 1
+	Query: "gallus sonneratii india" ; Times: 2
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Oligosoma" ; Times: 2
+	Query: "Aprasia parapulchella" ; Times: 1
+	Query: "AMNH 62276" ; Times: 1
+	Query: "Pluvianus" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 7
+	Query: "monster" ; Times: 10
+	Query: "vipera aspis" ; Times: 1
+	Query: "mola ramsayi" ; Times: 2
+	Query: "pseudopus apodus" ; Times: 8
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "notiomystis" ; Times: 1
+	Query: "laticauda laticaudata" ; Times: 1
+	Query: "arctictis binturong" ; Times: 1
+	Query: "genus:Tateomys" ; Times: 1
+	Query: "class:aves recordedby:harris year &gt;= 1895 year &lt;= 1899" ; Times: 1
+	Query: "Liopholis montana" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "chrysopelea ornata" ; Times: 12
+	Query: "mitu year &gt;= 1985 year &lt;= 2015" ; Times: 1
+	Query: "Lerista cinerea" ; Times: 1
+	Query: "Ctenophorus mckenziei" ; Times: 1
+	Query: "catreus wallichi india" ; Times: 1
+	Query: "Remora australis" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "threskiornis molucca" ; Times: 2
+	Query: "kiwi" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Bradypodion thamnobates" ; Times: 1
+	Query: "Aprasia pseudopulchella" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "genus:Pelobates specificepithet:syriacus" ; Times: 2
+	Query: "anas platyrhynchos india" ; Times: 1
+	Query: "amnh 62276" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "trioceros jacksonii" ; Times: 1
+	Query: "Iole virescens" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 3
+	Query: "caprimulgus atripennis" ; Times: 1
+	Query: "recordedby:tuna" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 2
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "Oplurus fierinensis" ; Times: 1
+	Query: "Chrysopelea ornata mappable:1" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "Lemur catta" ; Times: 2
+	Query: "purpureomaculatus" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "87581" ; Times: 1
+	Query: "Pachycephala olivacea" ; Times: 1
+	Query: "Egernia guthega" ; Times: 1
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "73952" ; Times: 1
+	Query: "Bufo parvus" ; Times: 1
+	Query: "Hemiergis millewae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 130 (out of 889 download events in this period)
+Total number of records downloaded: 13831
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: United States ; Times: 109
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 9
+	Date: 2015-12-07 ; Times: 11
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-20 ; Times: 5
+	Date: 2015-12-23 ; Times: 4
+	Date: 2015-12-17 ; Times: 8
+	Date: 2015-12-25 ; Times: 10
+	Date: 2015-12-24 ; Times: 8
+	Date: 2015-12-27 ; Times: 4
+	Date: 2015-12-26 ; Times: 3
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 6
+	Date: 2015-12-16 ; Times: 17
+	Date: 2015-12-31 ; Times: 2
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 15
+	Date: 2015-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Elaphe longissima" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 1
+	Query: "Lucasium stenodactylum" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "aethomys" ; Times: 1
+	Query: "Oedura castelnaui" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "Ctenophorus decresii" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "Tribolonotus pseudoponceleti" ; Times: 1
+	Query: "Myotis septentrionalis AND (keenii ) mappable:1" ; Times: 1
+	Query: "Lerista zonulata" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "Bradypodion damaranum" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "specificepithet:leucogaster genus:Onychomys" ; Times: 1
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "alauda" ; Times: 1
+	Query: "Saproscincus mustelinus" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "Aprasia repens" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "Laudakia caucasia" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Hemiergis quadrilineata" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "Lygisaurus novaeguineae" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Lygisaurus tanneri" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Hemiergis decresiensis" ; Times: 1
+	Query: "Hemiergis millewae" ; Times: 1
+	Query: "Lialis jicari" ; Times: 1
+	Query: "specificepithet:gulo genus:Gulo" ; Times: 2
+	Query: "Tribolonotus gracilis" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "Ctenophorus scutulatus" ; Times: 1
+	Query: "Oligosoma" ; Times: 1
+	Query: "Lerista praepedita" ; Times: 1
+	Query: "Saltuarius cornutus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 2
+	Query: "specificepithet:leucurus genus:Ammospermophilus" ; Times: 1
+	Query: "Nephrurus deleani" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Ctenophorus fionni" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "Lerista connivens" ; Times: 1
+	Query: "Tribolonotus ponceleti" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Lygisaurus aeratus" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Ctenophorus vadnappa" ; Times: 1
+	Query: "Lucasium damaeum" ; Times: 1
+	Query: "Lerista cinerea" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Egernia guthega" ; Times: 1
+	Query: "Lerista terdigitata" ; Times: 1
+	Query: "Ctenophorus femoralis" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "Strophurus ciliaris" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "Hemiergis peronii" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Aprasia pseudopulchella" ; Times: 1
+	Query: "Strophurus assimilis" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis" ; Times: 2
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Chrysopelea ornata mappable:1" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Lygisaurus laevis" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Lerista wilkinsi" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
