@@ -1,0 +1,251 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 706
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 7
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 10
+	Country: Russia ; Times: 16
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: United States ; Times: 75
+	Country: Thailand ; Times: 1
+	Country: Denmark ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 33
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 8
+	Date: 2016-01-26 ; Times: 9
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-25 ; Times: 11
+	Date: 2016-01-28 ; Times: 6
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 11
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-14 ; Times: 11
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-23 ; Times: 4
+	Date: 2016-01-20 ; Times: 5
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-07 ; Times: 6
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 5
+	Date: 2016-01-11 ; Times: 7
+	Date: 2016-01-10 ; Times: 7
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-31 ; Times: 5
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-18 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "SAMA B56156" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Boa nicaragua" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 3
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 2
+	Query: "CAENOLESTES" ; Times: 5
+	Query: "urine" ; Times: 2
+	Query: "herpetofauna" ; Times: 2
+	Query: "cichlid" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "zoothera heinei" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "bacteria" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 8
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+	Query: "dicrurus adsimilis india" ; Times: 1
+	Query: "connochaetes" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "anas aucklandica" ; Times: 1
+	Query: "Coleodactylus" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "Trioceros jacksonii" ; Times: 2
+	Query: "Suricatta" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Dolichotis" ; Times: 2
+	Query: "&#34;naja kaouthia&#34;" ; Times: 1
+	Query: "eudyptes robustus" ; Times: 6
+	Query: "Panthera uncia" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "laos AND (gecko)" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "leucistic" ; Times: 1
+	Query: "euryceros prevostii" ; Times: 2
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "SAMA B56143" ; Times: 2
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "bothrochilus boa" ; Times: 3
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "Spotted Owl" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 8
+	Query: "anas chlorotis" ; Times: 2
+	Query: "mud snake" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 5
+	Query: "Panthera tigris" ; Times: 1
+	Query: "arborophila mandelli" ; Times: 1
+	Query: "spotted owl" ; Times: 3
+	Query: "eryx jaculus" ; Times: 1
+	Query: "Acanthodactylus longipes" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "Goodall" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "cuttlefish" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "specificepithet:proboscideus genus:Hemiphractus family:Hemiphractidae country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Chrysocyon" ; Times: 1
+	Query: "genus:georychus" ; Times: 1
+	Query: "&#34;stomach contents preserved&#34; class:Aves" ; Times: 1
+	Query: "lichenostomus leucotis type:specimen (egg)" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "lichenostomus leucotis egg type:specimen" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "monster" ; Times: 11
+	Query: "Eudyptes robustus" ; Times: 1
+	Query: "Echis pyramidum" ; Times: 1
+	Query: "laos gekko gecko" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 2
+	Query: "SAMA B39217" ; Times: 2
+	Query: "cnemophilus" ; Times: 1
+	Query: "Oreophryne brachypus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 507 download events in this period)
+Total number of records downloaded: 880
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 53
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 5
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 6
+	Date: 2016-01-02 ; Times: 8
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 9
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "Hyperolius marmoratus" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "&#34;Masius chrysopterus&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "&#34;Tangara vassorii&#34;" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:sutor" ; Times: 1
+	Query: "&#34;Trogon personatus&#34;" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "&#34;Pseudocolaptes boissonneautii&#34;" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "&#34;Margarornis squamiger&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:wilsmorei" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Premnoplex brunnescens&#34;" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
