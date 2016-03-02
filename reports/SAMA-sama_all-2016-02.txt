@@ -1,0 +1,241 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 1081
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 87
+	Country: Madagascar ; Times: 5
+	Country: Netherlands ; Times: 7
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 9
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-22 ; Times: 8
+	Date: 2016-02-18 ; Times: 18
+	Date: 2016-02-19 ; Times: 13
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-10 ; Times: 24
+	Date: 2016-02-11 ; Times: 6
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-15 ; Times: 8
+	Date: 2016-02-03 ; Times: 7
+	Date: 2016-02-09 ; Times: 9
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 9
+	Date: 2016-02-24 ; Times: 5
+	Date: 2016-02-01 ; Times: 4
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 9
+	Date: 2016-02-05 ; Times: 8
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-06 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Cycloramphus asper" ; Times: 2
+	Query: "anhima" ; Times: 1
+	Query: "indri" ; Times: 2
+	Query: "varanus salvator" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "cursorius coromandelicus" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "hoplodactylus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "80729" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 2
+	Query: "Trachylepis perrotetii" ; Times: 1
+	Query: "family:leptotyphlopidae country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anas gibberifrons" ; Times: 4
+	Query: "suricata" ; Times: 3
+	Query: "sterna dougalli" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "irediparra" ; Times: 1
+	Query: "bucharest" ; Times: 1
+	Query: "Istiophoridae" ; Times: 1
+	Query: "gbifdatasetid:fa375330-6c8a-11de-8226-b8a03c50a862" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "Laticauda distance(location,geopoint(7.420573822209921,134.208984375))&lt;385677" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "homalopsis" ; Times: 1
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Cophixalus balbus" ; Times: 1
+	Query: "monster" ; Times: 5
+	Query: "Anomalepididae" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "Chrysocyon" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "panthera tigris" ; Times: 1
+	Query: "polypterus bichir" ; Times: 1
+	Query: "ara militaris" ; Times: 7
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "Liotyphlops beui" ; Times: 3
+	Query: "wasp" ; Times: 1
+	Query: "Myotis septentrionalis (Michigan)" ; Times: 2
+	Query: "bothrochilus boa" ; Times: 2
+	Query: "Diomedea bulleri" ; Times: 1
+	Query: "Anas institutioncode:SAMA" ; Times: 1
+	Query: "hierococcyx sparverioides" ; Times: 1
+	Query: "indri indri" ; Times: 3
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "felis concolor" ; Times: 1
+	Query: "Theloderma asperum" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "himantopus himantopus india" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 2
+	Query: "Caperea marginata" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Phalacrocorax coronatus" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Oreophryne brachypus" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 3
+	Query: "Orcinus orca" ; Times: 2
+	Query: "gyps bengalensis" ; Times: 1
+	Query: "penelope jacucaca" ; Times: 1
+	Query: "platanista gangetica" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "Lycaon pictus institutioncode:SAMA" ; Times: 1
+	Query: "Diomedea cauta" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "Calumma parsonii" ; Times: 2
+	Query: "Pitta brachyura type:specimen" ; Times: 2
+	Query: "chiroptera baculum" ; Times: 19
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Pezoporus occidentalis" ; Times: 1
+	Query: "Petrogale godmani" ; Times: 2
+	Query: "anastomus oscitans" ; Times: 2
+	Query: "spizaetus limnaeetus" ; Times: 3
+	Query: "sipodotus" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "vipera berus" ; Times: 2
+	Query: "P-3992" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "genus:Atrichornis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 512 download events in this period)
+Total number of records downloaded: 2136
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 4
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-04 ; Times: 18
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "lestoros" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "Delphinidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "phrynomedusa" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "class:amphibia country:Haiti" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "heleophryne" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Saltator" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
