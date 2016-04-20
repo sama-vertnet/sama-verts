@@ -1,0 +1,129 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 255
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 25
+	Country: Australia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 9
+	Date: 2016-03-13 ; Times: 5
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "alseonax latirostris" ; Times: 1
+	Query: "chrysococcyx minutillus" ; Times: 3
+	Query: "megalaima zeylanica" ; Times: 3
+	Query: "Gerbillurus tytonis" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "Ampelis" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 2
+	Query: "draco maculatus" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "Gehyra brevipalmata" ; Times: 3
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Dacodraco hunteri" ; Times: 2
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Barnardius Eyre" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Antimora" ; Times: 1
+	Query: "Rana johnsi" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "ASTRAPIA SPLENDIDISSIMA" ; Times: 1
+	Query: "Ptyodactylus guttatus" ; Times: 1
+	Query: "pycnonotus jocosus australia" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "heinrichia" ; Times: 1
+	Query: "coracina melanoptera" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "Gerbillurus setzeri" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "11054" ; Times: 1
+	Query: "Oriolus xanthornus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 230 download events in this period)
+Total number of records downloaded: 16395
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 42
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "tissue" ; Times: 35
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Duellman Amphibia Ecuador" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
