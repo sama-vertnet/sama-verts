@@ -1,0 +1,176 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 1690
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 57
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 12
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-13 ; Times: 5
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 6
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 38
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 6
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-27 ; Times: 4
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 8
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "R-67076" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 5
+	Query: "phyllomedusa bahiana" ; Times: 1
+	Query: "extinction" ; Times: 1
+	Query: "Pedionomus torquatus" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "threskiornis molucca" ; Times: 2
+	Query: "lerwa" ; Times: 1
+	Query: "anhima cornuta" ; Times: 4
+	Query: "Scincidae (Skeleton) institutioncode:SAMA" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "litoria tyleri" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:lugubris" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "B55542" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "parapriacanthus" ; Times: 4
+	Query: "monster" ; Times: 3
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "Cacophis harriettae" ; Times: 3
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "B41992" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "caenolestes fuliginosus" ; Times: 1
+	Query: "Halcyon leucocephala Kenya" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "64234" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "Myzomela cardinalis sanctaecrucis" ; Times: 1
+	Query: "Anguis" ; Times: 4
+	Query: "Myzomela erythrocephala" ; Times: 2
+	Query: "ara militaris" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 327 download events in this period)
+Total number of records downloaded: 7787
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 53
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 43
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "uta stansburiana" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Litoria angiana" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Python reticulatus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "phyllomedusa trinitatis" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Peromyscus" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
