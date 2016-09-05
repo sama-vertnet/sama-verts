@@ -1,0 +1,272 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 257
+Number of records retrieved in searches: 1678
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 12
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 13
+	Country: India ; Times: 3
+	Country: United States ; Times: 188
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 14
+	Date: 2016-08-12 ; Times: 10
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 12
+	Date: 2016-08-15 ; Times: 13
+	Date: 2016-08-16 ; Times: 12
+	Date: 2016-08-17 ; Times: 14
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-19 ; Times: 25
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-31 ; Times: 7
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 4
+	Date: 2016-08-25 ; Times: 11
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 6
+	Date: 2016-08-21 ; Times: 10
+	Date: 2016-08-20 ; Times: 89
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Myzomela cardinalis sanctaecrucis" ; Times: 1
+	Query: "specificepithet:speciosus genus:Gnathanodon" ; Times: 2
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "Thayeria" ; Times: 1
+	Query: "specificepithet:cyprinoides genus:Megalops" ; Times: 2
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "arctictis binturong" ; Times: 1
+	Query: "specificepithet:calligyna" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "specificepithet:australis genus:Taphozous" ; Times: 3
+	Query: "varanus nebulosus" ; Times: 3
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 1
+	Query: "pitta brachyura" ; Times: 5
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "tyto longimembris" ; Times: 1
+	Query: "Litoria pygmaea" ; Times: 1
+	Query: "type:specimen specificepithet:versicolor genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Callithrix jacchus 1" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "type:specimen specificepithet:bourcieri genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Oxyuranus microlepidotus" ; Times: 1
+	Query: "chlorostilbon alice" ; Times: 4
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "genus:pseudopus" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:brevipinna genus:Carcharhinus" ; Times: 1
+	Query: "brune" ; Times: 1
+	Query: "specificepithet:cornutus genus:Zanclus" ; Times: 2
+	Query: "monster" ; Times: 6
+	Query: "grampus griseus" ; Times: 4
+	Query: "acanthocephala" ; Times: 1
+	Query: "specificepithet:colletti genus:Rattus" ; Times: 1
+	Query: "trachinocephalus japan" ; Times: 7
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 3
+	Query: "Cacophis harriettae" ; Times: 1
+	Query: "Brachypteryx montana type:specimen (india)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "Clarke Aves Australia year &gt;= 1880 year &lt;= 1935" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "Chroicocephalus novaehollandiae" ; Times: 2
+	Query: "Saxicola oenanthe" ; Times: 1
+	Query: "specificepithet:volans genus:Cynocephalus" ; Times: 1
+	Query: "Trimeresurus erythrurus" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 47
+	Query: "21820" ; Times: 1
+	Query: "type:specimen genus:apteryx" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "eulemur mongoz" ; Times: 2
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "genus:heinrichia" ; Times: 1
+	Query: "genus:anilius" ; Times: 1
+	Query: "Varanus nebulosus type:specimen" ; Times: 1
+	Query: "Prasinohaema prehensicauda" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Aegithina lafresnayei" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 8
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Egernia frerei" ; Times: 1
+	Query: "type:specimen genus:Leucochloris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:taurus genus:Carcharias" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Pseudocheirus" ; Times: 1
+	Query: "type:specimen specificepithet:glaucopis genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "genus:Oryctolagus lengthinmm &gt;= 20 lengthinmm &lt;= 600 haslength:1" ; Times: 2
+	Query: "64030" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 2
+	Query: "10923 australia" ; Times: 1
+	Query: "Egernia hosmeri" ; Times: 2
+	Query: "10929" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:albicapillus genus:spreo" ; Times: 1
+	Query: "specificepithet:pedunculatus genus:Zyzomys" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "specificepithet:jordani genus:Mycteroperca" ; Times: 1
+	Query: "Hemitragus" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "type:specimen genus:clytolaema class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "hippocampus gulf" ; Times: 1
+	Query: "Varanus dumerili" ; Times: 2
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "Varanus mitchelli" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "type:specimen specificepithet:nigricollis genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:baverstocki genus:Vespadelus" ; Times: 2
+	Query: "uncia uncia" ; Times: 1
+	Query: "Brachypteryx montana cruralis type:specimen (india)" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 2
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 5
+	Query: "specificepithet:apodemoides genus:Pseudomys" ; Times: 1
+	Query: "type:specimen specificepithet:eurynome genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Oryctolagus lengthinmm &gt;= 20 lengthinmm &lt;= 600 lengthtype:total length haslength:1" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "13787" ; Times: 1
+	Query: "specificepithet:indica genus:Makaira" ; Times: 1
+	Query: "type:specimen genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Acontias" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "hydrurga" ; Times: 2
+	Query: "genus:Corucia" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "Elliott AND ISland" ; Times: 1
+	Query: "M-8974" ; Times: 1
+	Query: "specificepithet:higginsi genus:Pseudomys" ; Times: 2
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 3
+	Query: "specificepithet:hilli genus:Taphozous" ; Times: 1
+	Query: "Aepyceros" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 924 download events in this period)
+Total number of records downloaded: 1159
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 28
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 7
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-30 ; Times: 8
+	Date: 2016-08-31 ; Times: 7
+	Date: 2016-08-25 ; Times: 5
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "Mitchelli" ; Times: 1
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Galictis vittata" ; Times: 2
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Brachypteryx montana type:specimen (india)" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 1
+
+
+End of report.
