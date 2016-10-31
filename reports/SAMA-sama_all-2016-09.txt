@@ -1,0 +1,297 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 272
+Number of records retrieved in searches: 1302
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 96
+	Country: Portugal ; Times: 107
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 29
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 6
+	Date: 2016-09-07 ; Times: 35
+	Date: 2016-09-01 ; Times: 5
+	Date: 2016-09-13 ; Times: 9
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 3
+	Date: 2016-09-08 ; Times: 75
+	Date: 2016-09-09 ; Times: 42
+	Date: 2016-09-14 ; Times: 32
+	Date: 2016-09-04 ; Times: 7
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-05 ; Times: 28
+	Date: 2016-09-21 ; Times: 5
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-06 ; Times: 10
+	Date: 2016-09-24 ; Times: 2
+	Date: 2016-09-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;giraffa&#34; &#34;camelopardalis&#34; mappable:1" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "Cacatua galerita 1" ; Times: 1
+	Query: "kangaroos mappable:1" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 2
+	Query: "falco jugger india" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 3
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "Carpodacus erythrinus 1" ; Times: 1
+	Query: "scientificname:&#34;smilodectes gracilis&#34; OR scientificname:&#34;platychoerops daubrei&#34; OR scientificname:&#34;bustylus marandati&#34; OR scientificname:&#34;afrodon gheerbranti&#34; OR scientificname:&#34;nasalis larvatus&#34; OR scientificname:&#34;miopithecus talapoin&#34; OR scientificname:&#34;galeopterus variegatus&#34; OR scientificname:&#34;leptadapis magnus&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;ptilocercus lowii&#34; OR scientificname:&#34;adapis parisiensis&#34; OR scientificname:&#34;[not referred] [not referred]&#34; OR scientificname:&#34;titanoboa cerrejonensis&#34; OR scientificname:&#34;callithrix argentata&#34; OR scientificname:&#34;callithrix humeralifera&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix sp.&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;calippus cerasinus&#34; OR scientificname:&#34;calippus elachistus&#34; OR scientificname:&#34;anchitherium clarencei&#34; OR scientificname:&#34;parahippus leonensis&#34; OR scientificname:&#34;parahippus barbouri&#34; OR scientificname:&#34;archaeohippus blackbergi&#34; OR scientificname:&#34;sifrhippus sandrae&#34; OR scientificname:&#34;nannippus peninsulatus&#34; OR scientificname:&#34;dinohippus mexicanus&#34;" ; Times: 1
+	Query: "Copsychus year &lt;= 1877" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "B42988" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 29
+	Query: "scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;varecia variegata&#34;" ; Times: 1
+	Query: "Aratinga aurea 1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 8
+	Query: "Aplonis metallica 1" ; Times: 1
+	Query: "Centropus andamanensis" ; Times: 2
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 2
+	Query: "Nyctereutes procyonoides" ; Times: 3
+	Query: "Cynocephalus volans" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 1
+	Query: "Cinclodes fuscus 1" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 5
+	Query: "Trichoglossus haematodus 1" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Geopelia placida 1" ; Times: 1
+	Query: "Corvus splendens" ; Times: 3
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Dendrobates minutus 1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 4
+	Query: "Aprosmictus erythropterus 1" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "Cygnus olor 1" ; Times: 2
+	Query: "82991" ; Times: 1
+	Query: "Dromaius novaehollandiae 1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "Agapornis roseicollis 1" ; Times: 2
+	Query: "eos bornea type:specimen" ; Times: 1
+	Query: "Alisterus scapularis 1" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 1
+	Query: "Agapornis canus 1" ; Times: 1
+	Query: "scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;galago alleni&#34; OR scientificname:&#34;galago demidovii&#34; OR scientificname:&#34;indri indri&#34; OR scientificname:&#34;lepilemur mustelinus&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;microcebus coquereli&#34; OR scientificname:&#34;phaner furcifer&#34; OR scientificname:&#34;propithecus diadema&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;tarsius bancanus&#34; OR scientificname:&#34;tarsius borneanus&#34;" ; Times: 6
+	Query: "Cairina moschata 1" ; Times: 4
+	Query: "Taeniopygia guttata 1" ; Times: 3
+	Query: "Euplectes axillaris 1" ; Times: 2
+	Query: "Cacatua roseicapilla 1" ; Times: 1
+	Query: "9759 class:Aves" ; Times: 1
+	Query: "Cacatua leadbeateri 1" ; Times: 1
+	Query: "Pycnonotus cafer 1" ; Times: 3
+	Query: "Brotogeris jugularis 1" ; Times: 1
+	Query: "Euplectes orix 1" ; Times: 1
+	Query: "Brotogeris versicolurus 1" ; Times: 1
+	Query: "Salamandrina" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "specificepithet:lebetina genus:vipera" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "Anser cygnoides 1" ; Times: 1
+	Query: "Colius striatus 1" ; Times: 1
+	Query: "Gracula religiosa 1" ; Times: 1
+	Query: "Phleocryptes melanops 1" ; Times: 1
+	Query: "Geopelia striata 1" ; Times: 2
+	Query: "&#34;Panthera tigris&#34; mappable:1" ; Times: 1
+	Query: "Ploceus manyar 1" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "Lonchura striata 1" ; Times: 1
+	Query: "Erythrura trichroa 1" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Aptenodytes patagonicus 1" ; Times: 1
+	Query: "Remora remora" ; Times: 5
+	Query: "Erythrura prasina 1" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "Anas castanea 1" ; Times: 1
+	Query: "Geopelia humeralis 1" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "&#34;Acinonyx jubatus&#34;" ; Times: 1
+	Query: "Barnardius zonarius 1" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "Oena capensis 1" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "Todiramphus chloris 1" ; Times: 1
+	Query: "Eudyptes chrysocome 1" ; Times: 1
+	Query: "Dendrobates minutus minutus 1" ; Times: 1
+	Query: "Numida meleagris 1" ; Times: 2
+	Query: "basiliscus plumifrons" ; Times: 2
+	Query: "77230" ; Times: 1
+	Query: "Serinus canaria 1" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Crossoptilon auritum 1" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 2
+	Query: "circus assimilis type:specimen" ; Times: 1
+	Query: "B45089" ; Times: 1
+	Query: "cynocephalus volans" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "Chloephaga picta 1" ; Times: 2
+	Query: "Anser indicus 1" ; Times: 1
+	Query: "orcinus orca" ; Times: 3
+	Query: "nycticebus coucang" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 4
+	Query: "72673" ; Times: 1
+	Query: "Copsychus malabaricus 1" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "genus:Aparasphenodon country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Bubo scandiaca 1" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "scientificname:&#34;cacajao melanocephalus&#34; OR scientificname:&#34;callicebus donacophilus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;callicebus torquatus&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;chiropotes albinasus&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;lagothrix lagotricha&#34; OR scientificname:&#34;pithecia monachus&#34; OR scientificname:&#34;pithecia pithecia&#34; OR scientificname:&#34;saimiri boliviensis&#34; OR scientificname:&#34;saimiri sciureus&#34; OR scientificname:&#34;asiadapis cambayensis&#34; OR scientificname:&#34;marcgodinotius indicus&#34; OR scientificname:&#34;incertae sedis&#34; OR scientificname:&#34;necrolemur antiquus&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;stirtonia tatacoensis&#34; OR scientificname:&#34;tupaia glis&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;aegyptopithecus zeuxis&#34;" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "(panthera tigris tigris ) mappable:1" ; Times: 1
+	Query: "scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;phaner furcifer&#34; OR scientificname:&#34;propithecus diadema&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;tarsius bancanus&#34; OR scientificname:&#34;tarsius borneanus&#34; OR scientificname:&#34;tarsius spectrum&#34; OR scientificname:&#34;tarsius syricta&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;eulemur fulvus&#34;" ; Times: 1
+	Query: "Chrysolophus pictus 1" ; Times: 2
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+	Query: "Chrysococcyx CM" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "Acridotheres cristatellus 1" ; Times: 2
+	Query: "Platanista gangetica" ; Times: 3
+	Query: "Haematopus bachmani 1" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "Lamprotornis chalybaeus 1" ; Times: 3
+	Query: "Mergellus albellus 1" ; Times: 1
+	Query: "lemur catta" ; Times: 1
+	Query: "Columba livia 1" ; Times: 1
+	Query: "Platycercus icterotis 1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Ploceus intermedius 1" ; Times: 2
+	Query: "Euplectes progne 1" ; Times: 1
+	Query: "Accipiter badius 1" ; Times: 2
+	Query: "Ara ararauna 1" ; Times: 1
+	Query: "specificepithet:pinnatibarbatus genus:Cheilopogon" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "Falco jugger 1" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "Poephila acuticauda 1" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 3
+	Query: "Leiothrix lutea 1" ; Times: 2
+	Query: "Phasianus colchicus 1" ; Times: 3
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "Cockerell AND ISland" ; Times: 2
+	Query: "Geophaps plumifera 1" ; Times: 1
+	Query: "&#34;Helarctos malayanus&#34; mappable:1" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 2
+	Query: "Aratinga jandaya 1" ; Times: 1
+	Query: "Lemur catta mappable:1" ; Times: 1
+	Query: "bos taurus taurus" ; Times: 1
+	Query: "Phyllomedusa burmeisteri" ; Times: 1
+	Query: "Anas rhynchotis 1" ; Times: 2
+	Query: "Acridotheres tristis 1" ; Times: 2
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "Calyptorhynchus banksii 1" ; Times: 1
+	Query: "Dendrobates truncatus 1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "Anseranas semipalmata 1" ; Times: 1
+	Query: "Cyanoramphus auriceps 1" ; Times: 1
+	Query: "9795 class:Aves" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 130 (out of 811 download events in this period)
+Total number of records downloaded: 696
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 113
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 9
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-08 ; Times: 24
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 5
+	Date: 2016-09-05 ; Times: 9
+	Date: 2016-09-06 ; Times: 23
+	Date: 2016-09-07 ; Times: 32
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 10
+	Date: 2016-09-03 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "taipehensis" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 1
+	Query: "oriolus sagittatus type:specimen" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "Merops leschenaulti" ; Times: 1
+	Query: "circus assimilis type:specimen" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "Dendroica pensylvanica year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Troglodytes year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "Natalus" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "&#34;Cynocephalidae&#34; mappable:1" ; Times: 1
+	Query: "Vireo olivaceus year &gt;= 1980" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 23
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "Rhinophrynus" ; Times: 1
+	Query: "aves and Guinea type:specimen" ; Times: 1
+	Query: "giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 1
+	Query: "&#34;Plecotus auritus&#34; mappable:1" ; Times: 1
+	Query: "circus approximans type:specimen" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 47
+	Query: "Dermoptera" ; Times: 1
+	Query: "Troglodytes troglodytes year &gt;= 1980" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "atelopus ignescens" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "eos bornea type:specimen" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Cynocephalidae mappable:1" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "Platanista gangetica" ; Times: 1
+	Query: "Certhia americana year &gt;= 1980" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "(panthera tigris tigris ) mappable:1" ; Times: 1
+
+
+End of report.
