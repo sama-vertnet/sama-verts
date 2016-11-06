@@ -1,0 +1,54 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 88
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: Portugal ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-03 ; Times: 8
+	Date: 2016-10-19 ; Times: 3
+	Date: 2016-10-26 ; Times: 1
+	Date: 2016-10-04 ; Times: 4
+	Date: 2016-10-05 ; Times: 3
+	Date: 2016-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Nyctereutes procyonoides " ; Times: 2
+	Query: "Nyctereutes procyonoides mappable:1" ; Times: 2
+	Query: "Anser cygnoides 1" ; Times: 1
+	Query: "Carcharodon carcharias mappable:1" ; Times: 3
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon mappable:1" ; Times: 1
+	Query: " Nyctereutes procyonoides" ; Times: 2
+	Query: "monster" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
