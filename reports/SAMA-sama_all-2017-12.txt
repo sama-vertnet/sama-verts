@@ -1,0 +1,347 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 432
+Number of records retrieved in searches: 1947
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 17
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 22
+	Country: India ; Times: 1
+	Country: France ; Times: 183
+	Country: United States ; Times: 115
+	Country: China ; Times: 9
+	Country: United Kingdom ; Times: 16
+	Country: Gambia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 10
+	Country: Spain ; Times: 1
+	Country: Venezuela ; Times: 20
+	Country: Russia ; Times: 1
+	Country: Denmark ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 8
+	Date: 2017-12-31 ; Times: 12
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 11
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 18
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 227
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 4
+	Date: 2017-12-28 ; Times: 4
+	Date: 2017-12-25 ; Times: 4
+	Date: 2017-12-24 ; Times: 13
+	Date: 2017-12-23 ; Times: 7
+	Date: 2017-12-22 ; Times: 10
+	Date: 2017-12-21 ; Times: 12
+	Date: 2017-12-20 ; Times: 32
+	Date: 2017-12-05 ; Times: 8
+	Date: 2017-12-04 ; Times: 16
+	Date: 2017-12-07 ; Times: 8
+	Date: 2017-12-06 ; Times: 11
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Xiphophorus variatus&#34;" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Figaro boardmani" ; Times: 5
+	Query: "bos grunniens" ; Times: 2
+	Query: "Orectolobus ornatus" ; Times: 2
+	Query: "Parascyllium ferrugineum" ; Times: 5
+	Query: "Urolophus cruciatus" ; Times: 1
+	Query: "Abudefduf septemfasciatus mappable:1" ; Times: 3
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "genus:Callaeas country:&#34;New Zealand&#34;" ; Times: 2
+	Query: "Carcharhinus sealei" ; Times: 2
+	Query: "Trygonoptera mucosa" ; Times: 4
+	Query: "Pastinachus sephen" ; Times: 2
+	Query: "Upeneichthys vlamingii mappable:1" ; Times: 1
+	Query: "Amphiprion perideraion mappable:1" ; Times: 1
+	Query: "Asymbolus submaculatus" ; Times: 6
+	Query: "4953 Aves" ; Times: 1
+	Query: "emoia adspersa" ; Times: 1
+	Query: "Aptychotrema rostrata" ; Times: 3
+	Query: "aratinga erythrogenys" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 2
+	Query: "Scomberesox saurus mappable:1" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "Hemiscyllium trispeculare" ; Times: 5
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "Urolophus paucimaculatus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "Negaprion acutidens" ; Times: 2
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Furgaleus macki" ; Times: 5
+	Query: "Scomber colias mappable:1" ; Times: 1
+	Query: "Irolita waitii" ; Times: 5
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "Galeorhinus galeus mappable:1" ; Times: 1
+	Query: "specificepithet:mossambica genus:naja" ; Times: 1
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "Naja sumatrana" ; Times: 2
+	Query: "Trygonoptera imitata" ; Times: 4
+	Query: "himantopus novaezelandiae" ; Times: 3
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 2
+	Query: "h 8289" ; Times: 1
+	Query: "Parupeneus barberinoides" ; Times: 1
+	Query: "Abudefduf sexfasciatus mappable:1" ; Times: 2
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Ansonia mcgregori mappable:1" ; Times: 2
+	Query: "Eusphyra blochii" ; Times: 3
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "F12611" ; Times: 2
+	Query: "Narcine tasmaniensis" ; Times: 2
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 4
+	Query: "Urolophus bucculentus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Urolophus gigas" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "Pseudupeneus jeffi" ; Times: 1
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Remilegia australis" ; Times: 4
+	Query: "Trygonoptera testacea" ; Times: 2
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Maurolicus muelleri mappable:1" ; Times: 1
+	Query: "Orectolobus halei" ; Times: 2
+	Query: "Remora australis" ; Times: 16
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "genus:Mallomys" ; Times: 3
+	Query: "Megophrys major mappable:1" ; Times: 2
+	Query: "F12609" ; Times: 1
+	Query: "Otocompsa" ; Times: 1
+	Query: "Asymbolus vincenti" ; Times: 6
+	Query: "Chromis hypsilepis" ; Times: 1
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 1
+	Query: "Carcharhinus fitzroyensis" ; Times: 2
+	Query: "remora australis" ; Times: 3
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "Naja mossambica" ; Times: 2
+	Query: "boydii" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Parascyllium collare" ; Times: 5
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Hypnos monopterygius" ; Times: 3
+	Query: "himantopus novaezelandiae vntype:specimen" ; Times: 1
+	Query: "Centroscymnus owstonii" ; Times: 3
+	Query: "Pseudorca crassidens" ; Times: 3
+	Query: "Asymbolus analis" ; Times: 6
+	Query: "Upeneichthys porosus mappable:1" ; Times: 2
+	Query: "Parascyllium variolatum" ; Times: 3
+	Query: "Parupeneus spilurus mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Chionis minor" ; Times: 8
+	Query: "Amphiprion clarkii mappable:1" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "Centrophorus harrissoni" ; Times: 2
+	Query: "genus:Cannomys institutioncode:SAMA" ; Times: 2
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "specificepithet:cocincinus genus:Physignathus mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "specificepithet:barbata genus:Pogona mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "genus:Thinornis" ; Times: 1
+	Query: "weevil" ; Times: 1
+	Query: "18756 Aves" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "specificepithet:cocincinus genus:Physignathus  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Urolophus expansus" ; Times: 1
+	Query: "specificepithet:barbata  genus:pogona  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "Amphiprion bifasciatus mappable:1" ; Times: 1
+	Query: "Lutjanus fulviflamma mappable:1" ; Times: 1
+	Query: "Amphiprion rubrocinctus mappable:1" ; Times: 1
+	Query: "Hemiscyllium ocellatum" ; Times: 3
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "Aptychotrema vincentiana" ; Times: 3
+	Query: "Glyphisodon septemfasciatus" ; Times: 1
+	Query: "Calliophis bivirgatus" ; Times: 1
+	Query: "Squatina tergocellata" ; Times: 1
+	Query: "Atelomycterus macleayi" ; Times: 3
+	Query: "Deania quadrispinosa" ; Times: 2
+	Query: "Parupeneus spilurus" ; Times: 2
+	Query: "Upeneus signatus" ; Times: 1
+	Query: "pseudocalotes" ; Times: 2
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 2
+	Query: "Amphiprion clarkii" ; Times: 1
+	Query: "Dipturus acrobelus" ; Times: 2
+	Query: "Lepidopus caudatus mappable:1" ; Times: 1
+	Query: "Abudefduf bengalensis mappable:1" ; Times: 1
+	Query: "Trygonorrhina fasciata" ; Times: 2
+	Query: "Amphiprion bifasciatus" ; Times: 1
+	Query: "Upeneichthys porosus" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "parrots" ; Times: 2
+	Query: "Heleophryne" ; Times: 1
+	Query: "Abudefduf vaigiensis mappable:1" ; Times: 2
+	Query: "Squalus chloroculus" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 3
+	Query: "Dipturus canutus" ; Times: 2
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "vntype:specimen genus:Canis continent:Asia" ; Times: 1
+	Query: "Upeneichthys vlamingii" ; Times: 1
+	Query: "Glyphisodon septemfasciatus mappable:1" ; Times: 1
+	Query: "specificepithet:wilsoni genus:Callaeas country:&#34;New Zealand&#34;" ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Coris julis mappable:1" ; Times: 1
+	Query: "Rhynchobatus australiae" ; Times: 1
+	Query: "mungo mungos" ; Times: 2
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+	Query: "Hexanchus griseus mappable:1" ; Times: 1
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "mandelli" ; Times: 1
+	Query: "Urolophus lobatus" ; Times: 1
+	Query: "Halargyreus johnsonii mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 8
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Naja siamensis" ; Times: 1
+	Query: "Pristis zijsron" ; Times: 2
+	Query: "Heterodontus galeatus" ; Times: 2
+	Query: "16622" ; Times: 1
+	Query: "cacomantis merulinus vntype:specimen country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "Anthias anthias mappable:1" ; Times: 2
+	Query: "Dilophus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Acrocephalus australis" ; Times: 2
+	Query: "Motacilla capensis" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 1
+	Query: "Squatina australis" ; Times: 1
+	Query: "Urolophus orarius" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 2
+	Query: "Euphractus sexcinctus" ; Times: 14
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Upeneus porosus" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Amphiprion rubrocinctus" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "19886 Aves" ; Times: 2
+	Query: "Atrichornis rufescens" ; Times: 2
+	Query: "lepidopus caudatus" ; Times: 3
+	Query: "Asymbolus occiduus" ; Times: 6
+	Query: "Mulloidichthys flavolineatus" ; Times: 3
+	Query: "Abudefduf sordidus mappable:1" ; Times: 1
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "mirafra affinis" ; Times: 2
+	Query: "Acutotyphlops subocularis" ; Times: 3
+	Query: "Cephaloscyllium albipinnum" ; Times: 2
+	Query: "Upeneus tragula mappable:1" ; Times: 4
+	Query: "Amphiprion frenatus" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 6
+	Query: "dilophus" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "Chromis hypsilepis mappable:1" ; Times: 1
+	Query: "Upeneus porosus mappable:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Sutorectus tentaculatus" ; Times: 4
+	Query: "Pagrus pagrus mappable:1" ; Times: 1
+	Query: "Pseudupeneus jeffi mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 674 download events in this period)
+Total number of records downloaded: 1927
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 24
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-27 ; Times: 3
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-13 ; Times: 6
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-12 ; Times: 5
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-18 ; Times: 3
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "eumeces inexpectatus" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "vntype:specimen (Dobroyde)" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 2
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "Dilophus" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Acutotyphlops subocularis" ; Times: 1
+	Query: "hyla smaragdina" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 2
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+
+
+End of report.
