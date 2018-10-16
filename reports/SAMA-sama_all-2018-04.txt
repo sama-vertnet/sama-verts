@@ -1,0 +1,338 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 1094
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 21
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 14
+	Country: Czechia ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: China ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 3
+	Country: United States ; Times: 119
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Uruguay ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 7
+	Date: 2018-04-28 ; Times: 4
+	Date: 2018-04-23 ; Times: 26
+	Date: 2018-04-22 ; Times: 6
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 8
+	Date: 2018-04-27 ; Times: 8
+	Date: 2018-04-26 ; Times: 13
+	Date: 2018-04-24 ; Times: 10
+	Date: 2018-04-01 ; Times: 5
+	Date: 2018-04-03 ; Times: 5
+	Date: 2018-04-02 ; Times: 10
+	Date: 2018-04-05 ; Times: 15
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 5
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-16 ; Times: 14
+	Date: 2018-04-12 ; Times: 9
+	Date: 2018-04-13 ; Times: 6
+	Date: 2018-04-10 ; Times: 14
+	Date: 2018-04-11 ; Times: 8
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-17 ; Times: 19
+	Date: 2018-04-14 ; Times: 4
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 4
+	Date: 2018-04-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "genus:Metachirus specificepithet:nudicaudatus mappable:1" ; Times: 1
+	Query: "oreotragus oreotragus" ; Times: 1
+	Query: "recordedby:Mowat" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "genus:Bradypus specificepithet:tridactylus mappable:1" ; Times: 1
+	Query: "egg genus:Pygoscelis" ; Times: 4
+	Query: "Anomalepididae" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "genus:Caenolestes " ; Times: 2
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Tropidonophis doriae" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "pareas" ; Times: 1
+	Query: "hemidactylus flaviviridis" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus" ; Times: 1
+	Query: "Gymnobelideus leadbeateri mappable:1" ; Times: 7
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1940 year &lt;= 1960" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca mappable:1" ; Times: 1
+	Query: "genus:Ateles specificepithet:paniscus mappable:1" ; Times: 1
+	Query: "lobodon" ; Times: 2
+	Query: "specificepithet:trutta genus:salmo hasmass:1" ; Times: 1
+	Query: "75309" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 4
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "eumeces schneiderii" ; Times: 7
+	Query: "ailuroedus melanotis" ; Times: 2
+	Query: "75025" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 3
+	Query: "Dactylopsila trivirgata mappable:1" ; Times: 5
+	Query: "genus:Monodelphis specificepithet:brevicaudata mappable:1" ; Times: 1
+	Query: "Corvus cornix" ; Times: 1
+	Query: "phycodurus eques" ; Times: 1
+	Query: "genus:Chrysocyon specificepithet:brachyurus mappable:1" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris mappable:1" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;New Guinea&#34;" ; Times: 1
+	Query: "B45145" ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 2
+	Query: "specificepithet:concolor genus:Felis" ; Times: 4
+	Query: "genus:Cacajao specificepithet:calvus mappable:1" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "echis pyramidum" ; Times: 2
+	Query: "specificepithet:cucullatus genus:Stegonotus country:&#34;Australia&#34;" ; Times: 1
+	Query: "genus:lagenorhynchus obliquidens" ; Times: 1
+	Query: "genus:Caluromys specificepithet:lanatus mappable:1" ; Times: 1
+	Query: "nocturnal" ; Times: 1
+	Query: "(extinct) isfossil:1" ; Times: 1
+	Query: "specificepithet:papuensis genus:Platymantis institutioncode:SAMA" ; Times: 2
+	Query: "79965" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 4
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "amethistina" ; Times: 4
+	Query: "laetior" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "genus:Pithecia specificepithet:monachus mappable:1" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "specificepithet:vegrandis genus:crotalus" ; Times: 1
+	Query: "genus:Choloepus specificepithet:didactylus mappable:1" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "genus:Ansonia specificepithet:mcgregori" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "72648" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 1
+	Query: "tree swallows" ; Times: 3
+	Query: "sphyrna zygaena" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "genus:Callithrix specificepithet:jacchus mappable:1" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla mappable:1" ; Times: 2
+	Query: "grampus" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "Eubalaena" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "specificepithet:fischeri genus:Agapornis" ; Times: 3
+	Query: "genus:Lestoros specificepithet:inca mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "genus:Euphractus specificepithet:sexcinctus mappable:1" ; Times: 1
+	Query: "specificepithet:aureus genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 4
+	Query: "genus:Callicebus specificepithet:cupreus mappable:1" ; Times: 1
+	Query: "genus:papuascincus institutioncode:SAMA" ; Times: 1
+	Query: "genus:Dasyprocta specificepithet:leporina mappable:1" ; Times: 1
+	Query: "genus:Theloderma specificepithet:asperum" ; Times: 1
+	Query: "plague" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Marmosa specificepithet:murina mappable:1" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 4
+	Query: "specificepithet:muntjak genus:Muntiacus mappable:1" ; Times: 1
+	Query: "specificepithet:cruciger genus:Lagenorhynchus" ; Times: 2
+	Query: "allenichthys glauerti" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1961 year &lt;= 1980" ; Times: 2
+	Query: "genus:Caenolestes specificepithet:fuliginosus mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "genus:Cebus specificepithet:capucinus mappable:1" ; Times: 1
+	Query: "gold finch" ; Times: 1
+	Query: "genus:Marmosa specificepithet:robinsoni mappable:1" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "Cephalophus natalensis" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "specificepithet:papuensis institutioncode:SAMA" ; Times: 2
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "Xenodon merremii" ; Times: 1
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "genus:Dasypus specificepithet:hybridus mappable:1" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "genus:Didelphis specificepithet:albiventris mappable:1" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1898" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua mappable:1" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;Guinea&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1900 year &lt;= 1920" ; Times: 1
+	Query: "Delma impar" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "Echis pyramidum" ; Times: 6
+	Query: "genus:Oreamnos specificepithet:americanus mappable:1" ; Times: 1
+	Query: "bubalus bubalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 1359 download events in this period)
+Total number of records downloaded: 2307
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 46
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 7
+	Date: 2018-04-22 ; Times: 4
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 5
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 18
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Spheniscidae" ; Times: 2
+	Query: "recordedby:Mowat" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "sceloporus malachiticus" ; Times: 1
+	Query: "vntype:specimen order:apodiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "bufo boreas" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "specificepithet:muntjak genus:Muntiacus mappable:1" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "(colobus guereza)" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "genus:papuascincus institutioncode:SAMA" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "locality:armidale country:&#34;australia&#34;" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Basileuterus coronatus" ; Times: 1
+	Query: "echis pyramidum" ; Times: 1
+
+
+End of report.
