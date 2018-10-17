@@ -1,0 +1,299 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 208
+Number of records retrieved in searches: 1400
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: India ; Times: 13
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 104
+	Country: Malaysia ; Times: 2
+	Country: Sweden ; Times: 5
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 9
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: China ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Thailand ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-23 ; Times: 12
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 17
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-01 ; Times: 5
+	Date: 2018-09-20 ; Times: 13
+	Date: 2018-09-21 ; Times: 27
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 7
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 5
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 10
+	Date: 2018-09-14 ; Times: 16
+	Date: 2018-09-17 ; Times: 8
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 11
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-24 ; Times: 10
+	Date: 2018-09-25 ; Times: 26
+	Date: 2018-09-27 ; Times: 6
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterophanes" ; Times: 3
+	Query: "Emoia ponapea" ; Times: 1
+	Query: "Queensland gymnorhina" ; Times: 1
+	Query: "kokako" ; Times: 2
+	Query: "nactus multicarinatus new britain" ; Times: 1
+	Query: "Polymetme illustris" ; Times: 1
+	Query: "Aipysurus" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "tk country:&#34;peru&#34;" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "specificepithet:kingii genus:Chlamydosaurus stateprovince:&#34;Northern Territory&#34; institutioncode:SAMA" ; Times: 1
+	Query: "specificepithet:superciliaris genus:drymodes" ; Times: 8
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "sterna dougallii" ; Times: 2
+	Query: "falco rupicolus" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "specificepithet:heathi genus:Mabuya continent:South America" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 2
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 4
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 2
+	Query: "Mabuya frenata" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "northiella narethae" ; Times: 1
+	Query: "Bunomys penitus" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:SAMA" ; Times: 1
+	Query: "tropidophorus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "megophrys major" ; Times: 4
+	Query: "rhino" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 7
+	Query: "South Brother AVES" ; Times: 1
+	Query: "seal teeth" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "14042" ; Times: 1
+	Query: "Osmaston 1907" ; Times: 1
+	Query: "class:aves catalognumber:b29214" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "Lepidothyris" ; Times: 1
+	Query: "calamaria china" ; Times: 1
+	Query: "amytornis oweni" ; Times: 1
+	Query: "macgregoria pulchra" ; Times: 1
+	Query: "genus:Naja specificepithet:mossambica" ; Times: 1
+	Query: "hemiphractus proboscideus" ; Times: 2
+	Query: "specificepithet:aeneus genus:Oxybelis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:badius genus:Cannomys" ; Times: 2
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "octopus" ; Times: 1
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "ara macao" ; Times: 8
+	Query: "kogia breviceps" ; Times: 1
+	Query: "specificepithet:ornata genus:Rhynchoedura catalognumber:R47456 institutioncode:SAMA" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "specificepithet:anetianus genus:Pteropus" ; Times: 2
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "Pteropus caniceps" ; Times: 3
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "specificepithet:frenata genus:Mabuya continent:South America" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "Nyctixalus pictus" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "Panthera tigris tigris" ; Times: 1
+	Query: "B12108" ; Times: 1
+	Query: "emoia ponapea" ; Times: 2
+	Query: "amalosia lesueurii" ; Times: 1
+	Query: "genus:caenolestes " ; Times: 1
+	Query: "nactus multicarinatus new guinea" ; Times: 2
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Iole virescens" ; Times: 3
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 8
+	Query: "Giraffa camelopardalis" ; Times: 12
+	Query: "class:Aves recordedby:Hoare" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "Tropidophorus" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "specificepithet:fiber genus:Castor" ; Times: 4
+	Query: "Aipysurus fuscus" ; Times: 1
+	Query: "specificepithet:papua genus:Pygoscelis locality:Macquarie" ; Times: 2
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 4
+	Query: "melithreptus chloropsis" ; Times: 1
+	Query: "nactus new britain" ; Times: 1
+	Query: "specificepithet:ornata genus:Rhynchoedura institutioncode:SAMA" ; Times: 1
+	Query: "Idiacanthus atlanticus" ; Times: 1
+	Query: "amytornis modestus" ; Times: 9
+	Query: "Opostomias micripnus" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "cinclosoma clarum" ; Times: 2
+	Query: "amytornis whitei" ; Times: 2
+	Query: "specificepithet:kingii genus:Chlamydosaurus catalognumber:R54347 institutioncode:SAMA" ; Times: 1
+	Query: "Panthera tigris" ; Times: 9
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "Salomonelaps par" ; Times: 1
+	Query: "Giraffa camelopardalis}" ; Times: 1
+	Query: "hippocampus abdominalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 846 download events in this period)
+Total number of records downloaded: 1928
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-13 ; Times: 6
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 16
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-17 ; Times: 7
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 7
+	Date: 2018-09-18 ; Times: 18
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-27 ; Times: 11
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "class:Mammalia (bacula)" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:gazella genus:Oryx mappable:1" ; Times: 1
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "genus:Atelopus country:&#34;Ecuador&#34; year &gt;= 1840 year &lt;= 1970" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "specificepithet:papua genus:Pygoscelis locality:Macquarie" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "oedura lesueurii" ; Times: 1
+	Query: "Trachylepis striata" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mabuya continent:South America" ; Times: 1
+	Query: "specificepithet:anetianus genus:Pteropus" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "specificepithet:gnou genus:Connochaetes mappable:1" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "lupus dingo" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "Lestoros inca" ; Times: 1
+	Query: "specificepithet:niger genus:Hippotragus mappable:1" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "tk country:&#34;peru&#34;" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "specificepithet:leo genus:Panthera mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Trachylepis perrotetii" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "giant salamander" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "genus:mabuya continent:South America" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes mappable:1" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Arctocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:heathi genus:Mabuya continent:South America" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Micrurus diastema diastema" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Trachylepis varia" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:cervicapra genus:Antilope mappable:1" ; Times: 3
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "carlia rubrigularis" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
