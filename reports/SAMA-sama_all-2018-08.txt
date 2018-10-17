@@ -1,0 +1,331 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 258
+Number of records retrieved in searches: 981
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 6
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 5
+	Country: Colombia ; Times: 22
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: India ; Times: 8
+	Country: Cuba ; Times: 4
+	Country: United States ; Times: 153
+	Country: Germany ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 5
+	Country: Czechia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 7
+	Date: 2018-08-31 ; Times: 6
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-09 ; Times: 28
+	Date: 2018-08-14 ; Times: 5
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 9
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-08 ; Times: 13
+	Date: 2018-08-02 ; Times: 8
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-17 ; Times: 4
+	Date: 2018-08-06 ; Times: 15
+	Date: 2018-08-27 ; Times: 34
+	Date: 2018-08-26 ; Times: 6
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-22 ; Times: 17
+	Date: 2018-08-21 ; Times: 13
+	Date: 2018-08-20 ; Times: 18
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 8
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-01 ; Times: 27
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "22010 psittacidae" ; Times: 1
+	Query: "specificepithet:poweri genus:Breviceps" ; Times: 2
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "B41612" ; Times: 1
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "hair samples" ; Times: 2
+	Query: "Acerodon" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "fierinensis" ; Times: 1
+	Query: "Crotalus vegrandis" ; Times: 2
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 6
+	Query: "specificepithet:moluccensis genus:Upeneus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:colubrina genus:Laticauda institutioncode:SAMA" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "Family Streblidae" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "61905" ; Times: 2
+	Query: "Goura victoria" ; Times: 4
+	Query: "bradypus tridactylus" ; Times: 22
+	Query: "25891" ; Times: 1
+	Query: "lagenorhynchus cruciger" ; Times: 3
+	Query: "r57046" ; Times: 1
+	Query: "cinclosoma fordianum" ; Times: 1
+	Query: "B49831" ; Times: 1
+	Query: "11472" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "ophiophagus thailand" ; Times: 2
+	Query: "family:apodidae continent:Africa" ; Times: 1
+	Query: "B35444" ; Times: 2
+	Query: "northiella narethae" ; Times: 4
+	Query: "66407 o" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 2
+	Query: "60030" ; Times: 1
+	Query: "falco biarmicus" ; Times: 6
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "emoia flavigularis" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "B7373" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "B55866" ; Times: 2
+	Query: "V 1128" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "nexipus" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 2
+	Query: "specificepithet:swaini genus:Saltuarius" ; Times: 2
+	Query: "B52981" ; Times: 1
+	Query: "B55378" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "Lagenorhynchus cruciger" ; Times: 6
+	Query: "picta victoria" ; Times: 1
+	Query: "Poicephalus robustus" ; Times: 1
+	Query: "South Sentinel" ; Times: 1
+	Query: "B30857" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "genus:Naja specificepithet:mossambica" ; Times: 4
+	Query: "B19279" ; Times: 1
+	Query: "genus:Barbourula specificepithet:busuangensis" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "B33147 class:aves" ; Times: 1
+	Query: "Sphenodon" ; Times: 2
+	Query: "Locustella naevia" ; Times: 1
+	Query: "rats" ; Times: 1
+	Query: "B48518" ; Times: 2
+	Query: "specificepithet:biarmicus genus:falco" ; Times: 1
+	Query: "rhipidura rufifrons year &gt;= 1985 year &lt;= 2018" ; Times: 2
+	Query: "drymodes superciliaris" ; Times: 3
+	Query: "B31371" ; Times: 2
+	Query: "family:Anomalepididae" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 3
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 4
+	Query: "B24105" ; Times: 1
+	Query: "genus:Laticauda institutioncode:SAMA" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "Phyllobates vittatus" ; Times: 2
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 8
+	Query: "B-3403" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "Panthera leo mappable:1" ; Times: 5
+	Query: "60257" ; Times: 2
+	Query: "82383" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 4
+	Query: "B39306" ; Times: 1
+	Query: "specificepithet:shropshirei genus:Pseustes" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "allenichthys glauerti" ; Times: 15
+	Query: "gallirallus australis" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 3
+	Query: "genus:lampornis country:&#34;panama&#34;" ; Times: 1
+	Query: "ephalophis greyi" ; Times: 1
+	Query: "rhinoceros unicornis" ; Times: 1
+	Query: "B4039" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "Capra pyrenaica" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "heteralocha" ; Times: 2
+	Query: "togoensis" ; Times: 2
+	Query: "genus:Xiphophorus" ; Times: 1
+	Query: "argyrogaster" ; Times: 1
+	Query: "B49205" ; Times: 1
+	Query: "Funambulus pennanti" ; Times: 1
+	Query: "tumor" ; Times: 1
+	Query: "didunculus" ; Times: 3
+	Query: "cinclosoma clarum" ; Times: 2
+	Query: "strophurus taenicauda" ; Times: 1
+	Query: "genus:Hirundapus class:Aves" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "Streblidae" ; Times: 2
+	Query: "B9635" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "B13397" ; Times: 1
+	Query: "genus:rhipidura country:&#34;new zealand&#34;" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "melithreptus chloropsis" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "bivalve" ; Times: 1
+	Query: "Sufflamen chrysopterum" ; Times: 1
+	Query: "Lepidodactylus new britain" ; Times: 2
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 1416 download events in this period)
+Total number of records downloaded: 1433
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 26
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 9
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-28 ; Times: 3
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 8
+	Date: 2018-08-09 ; Times: 13
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-27 ; Times: 3
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-23 ; Times: 7
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 7
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "ursus arctos" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "rhabdophis (japan)" ; Times: 1
+	Query: "Crotalus vegrandis" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 2
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "Agalychnis callidryas year &gt;= 1930 year &lt;= 1999" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "proceratophrys" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "genus:Sibynophis" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Hyla euphorbiacea" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "vntype:specimen genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Anolis country:jamaica year&gt;1950 year&lt;2014" ; Times: 1
+	Query: "allenichthys glauerti" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "genus:anolis country:jamaica year&gt;1950 year&lt;2014" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "niue" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+
+
+End of report.
