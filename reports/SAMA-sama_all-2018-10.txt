@@ -1,0 +1,493 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 426
+Number of records retrieved in searches: 3433
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 373
+	Country: Australia ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Czechia ; Times: 3
+	Country: Peru ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: China ; Times: 2
+	Country: New Zealand ; Times: 3
+	Country: Nicaragua ; Times: 1
+	Country: Botswana ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-04 ; Times: 31
+	Date: 2018-10-05 ; Times: 19
+	Date: 2018-10-06 ; Times: 4
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-01 ; Times: 18
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 22
+	Date: 2018-10-30 ; Times: 5
+	Date: 2018-10-22 ; Times: 13
+	Date: 2018-10-23 ; Times: 14
+	Date: 2018-10-20 ; Times: 5
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 10
+	Date: 2018-10-27 ; Times: 6
+	Date: 2018-10-24 ; Times: 11
+	Date: 2018-10-25 ; Times: 14
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 36
+	Date: 2018-10-08 ; Times: 14
+	Date: 2018-10-09 ; Times: 4
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-13 ; Times: 5
+	Date: 2018-10-12 ; Times: 6
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-10 ; Times: 4
+	Date: 2018-10-17 ; Times: 5
+	Date: 2018-10-16 ; Times: 3
+	Date: 2018-10-15 ; Times: 150
+	Date: 2018-10-14 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbiana" ; Times: 1
+	Query: "Vanacampus vercoi mappable:1" ; Times: 1
+	Query: "Chelus fimbriatus" ; Times: 5
+	Query: "Filicampus tigris mappable:1" ; Times: 1
+	Query: "Rhynchostracion nasus" ; Times: 2
+	Query: "Ostracion cornutus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Pezoporus" ; Times: 2
+	Query: "Phycodurus eques" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Maroubra perserrata" ; Times: 1
+	Query: "Vanacampus phillipi" ; Times: 1
+	Query: "Kaupus costatus mappable:1" ; Times: 1
+	Query: "Hypselognathus rostratus mappable:1" ; Times: 1
+	Query: "(Sterna nereis)" ; Times: 1
+	Query: "Repomucenus calcaratus mappable:1" ; Times: 1
+	Query: "specificepithet:boa genus:Bothrochilus" ; Times: 4
+	Query: "Campichthys tryoni mappable:1" ; Times: 1
+	Query: "Oostethus lineatus" ; Times: 1
+	Query: "Hirundapus caudacutus" ; Times: 1
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 4
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Tiliqua adelaidensis" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "Hippocampus tristis mappable:1" ; Times: 1
+	Query: "Histiogamphelus maculatus robensis mappable:1" ; Times: 1
+	Query: "Solegnathus spinosissimus mappable:1" ; Times: 1
+	Query: "Corythoichthys flindersi" ; Times: 1
+	Query: "Histiogamphelus maculatus robensis" ; Times: 1
+	Query: "Histiogamphelus cristatus mappable:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Stigmatopora argus" ; Times: 1
+	Query: "Hippocampus denise" ; Times: 1
+	Query: "Stigmatopora argus mappable:1" ; Times: 1
+	Query: "Eocallionymus papilio mappable:1" ; Times: 1
+	Query: "Ostracion tuberculatus" ; Times: 1
+	Query: "specificepithet:fiber genus:Castor" ; Times: 8
+	Query: "Syngnathus vercoi" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:nigromaculatus" ; Times: 1
+	Query: "Hippocampus abdominalis mappable:1" ; Times: 1
+	Query: "Hippocampus taeniopterus mappable:1" ; Times: 1
+	Query: "Leptoichthys fistularius" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "A. Whyte" ; Times: 1
+	Query: "procellariiformes (plastic)" ; Times: 2
+	Query: "Cosmocampus arctus arctus" ; Times: 1
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "80729" ; Times: 1
+	Query: "Micrablepharus maximiliani" ; Times: 1
+	Query: "calidris tenuirostris" ; Times: 2
+	Query: "Ostracion diaphanus" ; Times: 1
+	Query: "Hoplodactylus pacificus" ; Times: 1
+	Query: "Varecia variegata" ; Times: 1
+	Query: "Solegnathus spinosissimus" ; Times: 1
+	Query: "sula leucogaster india" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "Ostracion ornatus mappable:1" ; Times: 1
+	Query: "pitta brachyura" ; Times: 2
+	Query: "Hippocampus tristis" ; Times: 1
+	Query: "genus:gyps himalayensis" ; Times: 4
+	Query: "Siokunichthys herrei" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Ostracion diaphanus mappable:1" ; Times: 1
+	Query: "Lissocampus caudalis mappable:1" ; Times: 1
+	Query: "Corythoichthys flindersi mappable:1" ; Times: 1
+	Query: "Dibamus" ; Times: 1
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 8
+	Query: "Acentronura australe" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 1
+	Query: "discodeles guppyi" ; Times: 2
+	Query: "Syngnathus curtirostris mappable:1" ; Times: 1
+	Query: "Urocampus carinirostris" ; Times: 1
+	Query: "Ostracion tuberculatus mappable:1" ; Times: 1
+	Query: "Histiogamphelus briggsii mappable:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 8
+	Query: "Papio hamadryas" ; Times: 2
+	Query: "Egernia formosa" ; Times: 1
+	Query: "Callionymus csiro mappable:1" ; Times: 1
+	Query: "Felis concolor year &lt;= 1970" ; Times: 1
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Vanacampus poecilolaemus" ; Times: 1
+	Query: "b1496" ; Times: 1
+	Query: "Hippocampus fuscus" ; Times: 1
+	Query: "Apus caffer" ; Times: 1
+	Query: "Nannocampus ruber mappable:1" ; Times: 1
+	Query: "Hippocampus abdominalis" ; Times: 1
+	Query: "Vanacampus poecilolaemus mappable:1" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 2
+	Query: "Filicampus tigris" ; Times: 1
+	Query: "Syngnathus poecilolaemus" ; Times: 1
+	Query: "Ichthyocampus cristatus" ; Times: 1
+	Query: "Hippocampus whitei mappable:1" ; Times: 3
+	Query: "specificepithet:cristata genus:Hystrix" ; Times: 4
+	Query: "Ostracion quadricornis" ; Times: 5
+	Query: "Ichthyocampus tryoni mappable:1" ; Times: 1
+	Query: "Histiogamphelus briggsii" ; Times: 1
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Moschus" ; Times: 3
+	Query: "specificepithet:tetraporophora genus:Tympanocryptis" ; Times: 4
+	Query: "Corythoichthys intestinalis mappable:1" ; Times: 2
+	Query: "Cordylus cataphractus" ; Times: 1
+	Query: "Rhynchostracion nasus mappable:1" ; Times: 2
+	Query: "Lipinia leptosoma" ; Times: 2
+	Query: "specificepithet:leporina genus:Dasyprocta" ; Times: 2
+	Query: "Semioptera" ; Times: 1
+	Query: "Ichthyocampus cristatus mappable:1" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "Hippocampus sp. 5" ; Times: 1
+	Query: "Egernia richardi" ; Times: 1
+	Query: "loveridgelaps" ; Times: 1
+	Query: "Lissocampus runa mappable:1" ; Times: 1
+	Query: "Solegnathus robustus" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Egernia saxatilis" ; Times: 1
+	Query: "Hippocampus paradoxus mappable:1" ; Times: 1
+	Query: "genus:Tamandua " ; Times: 2
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 8
+	Query: "specificepithet:indica genus:Hystrix" ; Times: 1
+	Query: "Pezoporus" ; Times: 2
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Lissocampus caudalis" ; Times: 1
+	Query: "Leptonotus costatus mappable:1" ; Times: 1
+	Query: "Egernia depressa" ; Times: 2
+	Query: "Eulemur coronatus" ; Times: 1
+	Query: "Leptonotus costatus" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "Ophiophagus thailand" ; Times: 2
+	Query: "B5235" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:SAMA" ; Times: 1
+	Query: "Pterosynchiropus splendidus" ; Times: 1
+	Query: "22061" ; Times: 2
+	Query: "Aulostomus chinensis mappable:1" ; Times: 2
+	Query: "Vanacampus phillipi mappable:1" ; Times: 1
+	Query: "Hippocampus bleekeri" ; Times: 1
+	Query: "Ostracion ornatus" ; Times: 1
+	Query: "specificepithet:badius genus:Cannomys" ; Times: 8
+	Query: "Phyllopezus pollicaris" ; Times: 1
+	Query: "specificepithet:orca genus:Orcinus" ; Times: 4
+	Query: "specificepithet:mimicus genus:platymantis" ; Times: 4
+	Query: "sula sula india" ; Times: 2
+	Query: "Lissocampus affinis" ; Times: 1
+	Query: "Callionymus calauropomus mappable:1" ; Times: 1
+	Query: "genus:Echinosorex" ; Times: 1
+	Query: "miliaria" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Coleodactylus amazonicus" ; Times: 1
+	Query: "Heraldia nocturna mappable:1" ; Times: 1
+	Query: "Corythoichthys intestinalis intestinalis mappable:1" ; Times: 1
+	Query: "Stipecampus cristatus" ; Times: 1
+	Query: "Hippocampus whitei" ; Times: 3
+	Query: "Kaupus costatus" ; Times: 1
+	Query: "Stigmatopora nigra" ; Times: 1
+	Query: "Hyla subocularis" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 2
+	Query: "Stigmatopora nigra mappable:1" ; Times: 1
+	Query: "Callionymus japonicus japonicus" ; Times: 1
+	Query: "Pugnaso curtirostris" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Phycodurus eques mappable:1" ; Times: 1
+	Query: "Cosmocampus arctus" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "Egernia major" ; Times: 1
+	Query: "Hippichthys penicillus" ; Times: 1
+	Query: "Foetorepus calauropomus mappable:1" ; Times: 1
+	Query: "Synchiropus ocellatus mappable:1" ; Times: 1
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Ichthyocampus tryoni" ; Times: 1
+	Query: "specificepithet:sumatrana genus:naja" ; Times: 1
+	Query: "Pugnaso curtirostris mappable:1" ; Times: 1
+	Query: "Stipecampus cristatus mappable:1" ; Times: 1
+	Query: "Campichthys tryoni" ; Times: 1
+	Query: "Solegnathus robustus mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "ploceus capensis" ; Times: 3
+	Query: "Stigmatopora narinosa mappable:1" ; Times: 1
+	Query: "Siphonostoma typhle" ; Times: 1
+	Query: "platymantis mimicus" ; Times: 1
+	Query: "Hippocampus paradoxus" ; Times: 1
+	Query: "Hypselognathus horridus" ; Times: 1
+	Query: "Corythoichthys intestinalis intestinalis" ; Times: 1
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "genus:Nasalis" ; Times: 1
+	Query: "Vanacampus margaritifer" ; Times: 1
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "Egernia stokesii" ; Times: 2
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "Acontias plumbeus" ; Times: 2
+	Query: "Callionymus calcaratus mappable:1" ; Times: 1
+	Query: "Campichthys galei mappable:1" ; Times: 1
+	Query: "Syngnathus phillipi" ; Times: 1
+	Query: "Hippocampus breviceps mappable:1" ; Times: 1
+	Query: "Hippocampus bleekeri mappable:1" ; Times: 1
+	Query: "Urocampus carinirostris mappable:1" ; Times: 1
+	Query: "Hippichthys penicillus mappable:1" ; Times: 1
+	Query: "Egernia kingii" ; Times: 1
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 10
+	Query: "limnonectes grunniens" ; Times: 1
+	Query: "Hypselognathus horridus mappable:1" ; Times: 1
+	Query: "Syngnathus phillipi mappable:1" ; Times: 1
+	Query: "Vanacampus vercoi" ; Times: 1
+	Query: "specificepithet:novaeguinea genus:lepidodactylus" ; Times: 1
+	Query: "class:Aves recordedby:Hoare" ; Times: 1
+	Query: "Repomucenus calcaratus" ; Times: 1
+	Query: "Platanista gangetica" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "Heraldia nocturna" ; Times: 1
+	Query: "Egernia hosmeri" ; Times: 1
+	Query: "Synchiropus ocellatus" ; Times: 1
+	Query: "Dolphins" ; Times: 1
+	Query: "specificepithet:maximus genus:Lagostomus" ; Times: 1
+	Query: "Notiocampus ruber" ; Times: 1
+	Query: "emoia ponapea" ; Times: 1
+	Query: "Egernia coventryi" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "Egernia margaretae" ; Times: 4
+	Query: "Histiogamphelus maculatus" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "Felis concolor" ; Times: 1
+	Query: "Syngnathus curtirostris" ; Times: 1
+	Query: "vickary" ; Times: 1
+	Query: "uncia uncia" ; Times: 1
+	Query: "Stigmatopora narinosa" ; Times: 1
+	Query: "morelia amethistina" ; Times: 1
+	Query: "Campichthys galei" ; Times: 1
+	Query: "iole olivacea" ; Times: 1
+	Query: "Hypselognathus rostratus" ; Times: 1
+	Query: "Leptoichthys fistularius mappable:1" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "Histiogamphelus rostratus mappable:1" ; Times: 1
+	Query: "specificepithet:hottentotus genus:Cryptomys" ; Times: 2
+	Query: "Ostracion cornutus mappable:1" ; Times: 1
+	Query: "Eocallionymus papilio" ; Times: 1
+	Query: "physignathus cocincinus" ; Times: 1
+	Query: "Phyllopteryx taeniolatus mappable:1" ; Times: 1
+	Query: "Hippocampus sp. 1 mappable:1" ; Times: 1
+	Query: "Foetorepus phasis" ; Times: 1
+	Query: "Egernia frerei" ; Times: 2
+	Query: "Vanacampus margaritifer mappable:1" ; Times: 1
+	Query: "varanus doreanus" ; Times: 2
+	Query: "Syngnathoides biaculeatus mappable:1" ; Times: 1
+	Query: "Dactylopus dactylopus mappable:1" ; Times: 1
+	Query: "Phil Foster (Phil Foster)" ; Times: 1
+	Query: "Histiogamphelus maculatus mappable:1" ; Times: 1
+	Query: "specificepithet:piscivorous genus:agkistrodon" ; Times: 1
+	Query: "Acentronura australe mappable:1" ; Times: 1
+	Query: "Phenacogrammus interruptus" ; Times: 1
+	Query: "Syngnathus poecilolaemus mappable:1" ; Times: 1
+	Query: "Phyllopteryx taeniolatus" ; Times: 1
+	Query: "Egernia kintorei" ; Times: 1
+	Query: "Maroubra perserrata mappable:1" ; Times: 1
+	Query: "equestrian" ; Times: 1
+	Query: "Egernia inornata" ; Times: 6
+	Query: "Foetorepus phasis mappable:1" ; Times: 1
+	Query: "procellariiformes plastic" ; Times: 1
+	Query: "genus:gyps bengalensis" ; Times: 3
+	Query: "Hippocampus sp. 5 mappable:1" ; Times: 1
+	Query: "Histiogamphelus cristatus" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Egernia luctuosa" ; Times: 1
+	Query: "Caloenas" ; Times: 2
+	Query: "Hippocampus denise mappable:1" ; Times: 1
+	Query: "Corucia zebrata" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "Callionymus japonicus" ; Times: 2
+	Query: "Foetorepus calauropomus" ; Times: 1
+	Query: "Callionymus calauropomus" ; Times: 1
+	Query: "Histiogamphelus rostratus" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "Fordonia" ; Times: 2
+	Query: "Sufflamen chrysopterum" ; Times: 1
+	Query: "Syngnathus vercoi mappable:1" ; Times: 1
+	Query: "Cacajao calvus" ; Times: 1
+	Query: "Chalybura" ; Times: 1
+	Query: "Ostracion cubicus mappable:1" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Notiocampus ruber mappable:1" ; Times: 1
+	Query: "Lissocampus affinis mappable:1" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Hippocampus taeniopterus" ; Times: 1
+	Query: "scleropages" ; Times: 2
+	Query: "Callionymus calcaratus" ; Times: 1
+	Query: "Tribolonotus gracilis" ; Times: 1
+	Query: "Nannocampus ruber" ; Times: 1
+	Query: "Mabuya heathi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1300 download events in this period)
+Total number of records downloaded: 1655
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 45
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 24
+	Country: India ; Times: 4
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 19
+	Date: 2018-10-04 ; Times: 13
+	Date: 2018-10-22 ; Times: 8
+	Date: 2018-10-23 ; Times: 4
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 8
+	Date: 2018-10-29 ; Times: 6
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 4
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-10 ; Times: 4
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 6
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Petaurus australis" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "Liotyphlops beui" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Plica plica" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "Mabuya heathi" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "specificepithet:orca genus:Orcinus" ; Times: 1
+	Query: "Coleodactylus amazonicus" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "felis catus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Plica umbra" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "Stachyris nigriceps" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "genus:Lycodonomorphus" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "Myotis sodalis genus:myotis" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "A. Whyte" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Pezoporus" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "Gonatodes humeralis" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Corucia zebrata" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Tropidurus torquatus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Mabuya frenata" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "calumma" ; Times: 1
+	Query: "emoia" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Acanthogobius flavimanus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Phyllopezus pollicaris" ; Times: 1
+	Query: "Siphamia" ; Times: 1
+	Query: "Micrablepharus maximiliani" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "trioceros" ; Times: 2
+
+
+End of report.
