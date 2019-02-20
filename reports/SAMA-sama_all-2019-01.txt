@@ -1,0 +1,397 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 451
+Number of records retrieved in searches: 2444
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 31
+	Country: Peru ; Times: 73
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 3
+	Country: Ecuador ; Times: 13
+	Country: Benin ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 3
+	Country: Germany ; Times: 4
+	Country: Belgium ; Times: 21
+	Country: Spain ; Times: 4
+	Country: Netherlands ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 185
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 6
+	Country: Switzerland ; Times: 6
+	Country: New Zealand ; Times: 31
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 37
+	Date: 2019-01-23 ; Times: 17
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 52
+	Date: 2019-01-15 ; Times: 19
+	Date: 2019-01-30 ; Times: 40
+	Date: 2019-01-17 ; Times: 8
+	Date: 2019-01-10 ; Times: 14
+	Date: 2019-01-11 ; Times: 19
+	Date: 2019-01-12 ; Times: 12
+	Date: 2019-01-13 ; Times: 10
+	Date: 2019-01-02 ; Times: 30
+	Date: 2019-01-29 ; Times: 13
+	Date: 2019-01-28 ; Times: 10
+	Date: 2019-01-01 ; Times: 5
+	Date: 2019-01-07 ; Times: 18
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 16
+	Date: 2019-01-04 ; Times: 26
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-09 ; Times: 25
+	Date: 2019-01-22 ; Times: 15
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 15
+	Date: 2019-01-27 ; Times: 8
+	Date: 2019-01-08 ; Times: 16
+	Date: 2019-01-16 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cyanoptila" ; Times: 1
+	Query: "Phylloscopus humei" ; Times: 2
+	Query: "Eubucco bourcierii" ; Times: 1
+	Query: "84998" ; Times: 1
+	Query: "Phylloscopus maculipennis" ; Times: 2
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Didunculus" ; Times: 2
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "pongo pygmaeus" ; Times: 6
+	Query: "&#34;ailurus fulgens&#34;" ; Times: 2
+	Query: "loddigesia mirabilis" ; Times: 12
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "20371" ; Times: 1
+	Query: "Tiliqua institutioncode:SAMA" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "eos bornea" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 3
+	Query: "22237" ; Times: 1
+	Query: "cervus axis" ; Times: 7
+	Query: "Ara macao" ; Times: 1
+	Query: "trygonorrhina" ; Times: 1
+	Query: "&#34;Capra pyrenaica&#34;" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "Amazilia viridicauda" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "Corucia institutioncode:SAMA" ; Times: 2
+	Query: "(dermoptera)" ; Times: 4
+	Query: "16264" ; Times: 1
+	Query: "M 62423" ; Times: 1
+	Query: "rhynochetos" ; Times: 1
+	Query: "Chloroceryle inda" ; Times: 1
+	Query: "15059" ; Times: 2
+	Query: "Mesembrinibis cayennensis" ; Times: 1
+	Query: "72 ornata" ; Times: 1
+	Query: "genus:Tyto catalognumber:B1326 institutioncode:SAMA" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 4
+	Query: "genus:Tyto catalognumber:B24064 institutioncode:SAMA" ; Times: 1
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "stuff" ; Times: 1
+	Query: "Phleocryptes melanops" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "genus:Tenrec" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "Alcelaphus buselaphus" ; Times: 1
+	Query: "Phaethornis ruber" ; Times: 1
+	Query: "genus:Litoria specificepithet:albolabris" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Rheobatrachus" ; Times: 1
+	Query: "occiduus" ; Times: 1
+	Query: "M-62423" ; Times: 2
+	Query: "Eugenes spectabilis" ; Times: 1
+	Query: "specificepithet:jaculus genus:Eryx country:&#34;Egypt&#34;" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "papio hamadryas" ; Times: 10
+	Query: "77105" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Taudactylus diurnus" ; Times: 1
+	Query: "Moschus" ; Times: 3
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "&#34;Panthera tigris&#34;" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 1
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:SAMA" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Equus zebra zebra" ; Times: 2
+	Query: "Eubucco richardsoni" ; Times: 1
+	Query: "Tropidophorus institutioncode:SAMA" ; Times: 2
+	Query: "Patagona gigas" ; Times: 2
+	Query: "(Ailurus fulgens)" ; Times: 1
+	Query: "Egernia institutioncode:SAMA" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Hoplocercus spinosus" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "Kyarranus sphagnicolus" ; Times: 1
+	Query: "Laudakia caucasia" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "psephotus pulcherrimus" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 31
+	Query: "Platysternon megacephalum" ; Times: 5
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 28
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 4
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "specificepithet:guanicoe genus:lama" ; Times: 2
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "Pseudomys shortridgei" ; Times: 1
+	Query: "cryptoblepharus xenikos" ; Times: 1
+	Query: "Accipiter albogularis" ; Times: 1
+	Query: "genus:Tyto catalognumber:B49411 institutioncode:SAMA" ; Times: 1
+	Query: "little egret" ; Times: 2
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Penelope jacquacu" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "NMS" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Pterophanes cyanopterus" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "mabuya frenata" ; Times: 1
+	Query: "depressa institutioncode:SAMA" ; Times: 1
+	Query: "B42820" ; Times: 2
+	Query: "Trogon melanurus" ; Times: 1
+	Query: "Chalcostigma stanleyi" ; Times: 1
+	Query: "cacajao" ; Times: 2
+	Query: "Gallinula melanops" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "Galbalcyrhynchus leucotis" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Phylloscopus trochiloides" ; Times: 2
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "opposum" ; Times: 1
+	Query: "Trygonorrhina fasciata" ; Times: 7
+	Query: "elephas maximus" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "parrots" ; Times: 1
+	Query: "anoxypristis" ; Times: 2
+	Query: "Kogia sima" ; Times: 2
+	Query: "26287" ; Times: 1
+	Query: "genus:Prosthemadera month &lt;= 1910 enddayofyear &lt;= 1880" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "vntype:specimen (dermoptera)" ; Times: 1
+	Query: "owenii" ; Times: 2
+	Query: "Psittacula sri lanka" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Equus hemionus" ; Times: 2
+	Query: "Lophornis verreauxii" ; Times: 1
+	Query: "Gonocephalus kuhlii" ; Times: 1
+	Query: "euplectes orix" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "Indonesia Chalcophaps stephani" ; Times: 1
+	Query: "(&#34;Suricata suricatta&#34;)" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "Varanus primordius" ; Times: 1
+	Query: "B48586" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Varanus panoptes" ; Times: 1
+	Query: "Geranoaetus melanoleucus" ; Times: 1
+	Query: "apteryx owenii" ; Times: 2
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 2
+	Query: "panthera tigris" ; Times: 2
+	Query: "Ophisurus serpens mappable:1" ; Times: 2
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 2
+	Query: "tiliqua rugosa institutioncode:SAMA" ; Times: 1
+	Query: "genus:Tyto institutioncode:SAMA" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "Brachypteryx montana india vntype:specimen" ; Times: 1
+	Query: "Anas georgica" ; Times: 1
+	Query: "specificepithet:penicillata genus:Petrogale country:&#34;New Zealand&#34;" ; Times: 1
+	Query: "varanus giganteus" ; Times: 3
+	Query: "genus:Tyto catalognumber:B24747 institutioncode:SAMA" ; Times: 1
+	Query: "M-62942" ; Times: 2
+	Query: "66527" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Calloselasma" ; Times: 1
+	Query: "81173" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "(&#34;ailurus fulgens&#34;)" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "Indonesia Chalcophaps" ; Times: 1
+	Query: "Campephilus haematogaster" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Dermoptera" ; Times: 9
+	Query: "specificepithet:stellaris genus:Cistothorus class:Aves" ; Times: 3
+	Query: "Fregetta tropica" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Deania calcea mappable:1" ; Times: 4
+	Query: "(Giraffa camelopardalis)" ; Times: 1
+	Query: "elephantulus revoili" ; Times: 2
+	Query: "Varanus rosenbergi" ; Times: 1
+	Query: "81094" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Circus cinereus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "thylacine" ; Times: 1
+	Query: "tarsius spectrum" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 4
+	Query: "b48520" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 2
+	Query: "Chaetocercus mulsant" ; Times: 1
+	Query: "70516" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 138 (out of 962 download events in this period)
+Total number of records downloaded: 969
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 104
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-22 ; Times: 6
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-30 ; Times: 16
+	Date: 2019-01-31 ; Times: 23
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-28 ; Times: 10
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-08 ; Times: 8
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cyanoptila" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "vntype:specimen carettochelys" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "genus:Alces isfossil:1" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Trachylepis striata" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Hemiphractidae" ; Times: 1
+	Query: "Kogia sima" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia hasmass:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:inflatus genus:Miniopterus" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Carettochelys" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+
+
+End of report.
