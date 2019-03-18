@@ -1,0 +1,364 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 357
+Number of records retrieved in searches: 3675
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 98
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 16
+	Country: Czechia ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 5
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 121
+	Country: Morocco ; Times: 1
+	Country: New Zealand ; Times: 18
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 17
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 17
+	Country: Colombia ; Times: 7
+	Country: Fiji ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 4
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-11 ; Times: 8
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 13
+	Date: 2019-02-12 ; Times: 23
+	Date: 2019-02-15 ; Times: 9
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-19 ; Times: 8
+	Date: 2019-02-18 ; Times: 8
+	Date: 2019-02-02 ; Times: 4
+	Date: 2019-02-03 ; Times: 7
+	Date: 2019-02-26 ; Times: 6
+	Date: 2019-02-01 ; Times: 25
+	Date: 2019-02-20 ; Times: 5
+	Date: 2019-02-07 ; Times: 12
+	Date: 2019-02-04 ; Times: 29
+	Date: 2019-02-23 ; Times: 4
+	Date: 2019-02-08 ; Times: 24
+	Date: 2019-02-09 ; Times: 5
+	Date: 2019-02-28 ; Times: 11
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-25 ; Times: 32
+	Date: 2019-02-27 ; Times: 73
+	Date: 2019-02-06 ; Times: 22
+	Date: 2019-02-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Masturus lanceolatus" ; Times: 2
+	Query: "Xenochrophis mappable:1" ; Times: 1
+	Query: "specificepithet:assimilis genus:Circus" ; Times: 1
+	Query: "pseudocordylus microlepidotus" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 6
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "terns" ; Times: 1
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "anodorhynchus hyacinthinus" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "nycticebus" ; Times: 1
+	Query: "85469" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "genus:lates" ; Times: 2
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 2
+	Query: "Balaenoptera edeni mappable:1" ; Times: 9
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:ignita genus:lophura" ; Times: 1
+	Query: "SAMA 79280" ; Times: 2
+	Query: "Ptilinopus luteovirens" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Procellaria westlandica" ; Times: 2
+	Query: "Antechinus flavipes (Antechinus flavipes) institutioncode:SAMA" ; Times: 1
+	Query: "rattle snake" ; Times: 1
+	Query: "genus:erythrura country:&#34;vanuatu&#34;" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "Nactus new Britain" ; Times: 1
+	Query: "vntype:specimen order:Cetacea institutioncode:SAMA" ; Times: 2
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "Platymantis vitiensis" ; Times: 2
+	Query: "Ardea sumatrana" ; Times: 5
+	Query: "specificepithet:alexandrae genus:Polytelis" ; Times: 1
+	Query: "Pseudotrapelus sinaitus" ; Times: 1
+	Query: "Deania calcea mappable:1" ; Times: 1
+	Query: "jugger India" ; Times: 1
+	Query: "17499" ; Times: 1
+	Query: "Penelope jacucaca" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "phycodurus eques" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 5
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "CM-4601" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "tiliqua gigas" ; Times: 1
+	Query: "Phyllobates aurotaenia" ; Times: 1
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "recordedby:Barratt" ; Times: 1
+	Query: "oligodon arnensis sri lanka" ; Times: 1
+	Query: "pseudemydura" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Moschus" ; Times: 2
+	Query: "specificepithet:pacificus genus:apus" ; Times: 3
+	Query: "12010" ; Times: 1
+	Query: "genus:Hymenolaimus" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "18081" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "specificepithet:uncia genus:Panthera" ; Times: 3
+	Query: "Pongo pygmaeus" ; Times: 2
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+	Query: "Eumeces schneiderii" ; Times: 6
+	Query: "specificepithet:prasina genus:erythrura class:aves" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Ptyodactylus guttatus" ; Times: 2
+	Query: "Crax rubra" ; Times: 3
+	Query: "specificepithet:cucullatus genus:Stegonotus institutioncode:SAMA" ; Times: 1
+	Query: "specificepithet:catesbiana genus:Rana" ; Times: 3
+	Query: "Feresa attenuata mappable:1" ; Times: 11
+	Query: "Charadrius novaeseelandiae" ; Times: 11
+	Query: "Cetorhinus maximus mappable:1" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:funereus genus:calyptorhynchus (skeleton)" ; Times: 1
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 1
+	Query: "polytelis alexandrae" ; Times: 6
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Diomedea antipodensis" ; Times: 2
+	Query: "polytelis alexandrae year &gt; 1995" ; Times: 1
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 6
+	Query: "genus:Parus country:(Russia)" ; Times: 1
+	Query: "79677" ; Times: 1
+	Query: "ABTC" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "specificepithet:psittacea genus:erythrura class:aves" ; Times: 1
+	Query: "specificepithet:aegyptia genus:Uromastyx" ; Times: 1
+	Query: "Tangara fastuosa" ; Times: 1
+	Query: "R19410" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Thalassarche chrysostoma" ; Times: 2
+	Query: "Lagothrix lagothricha" ; Times: 1
+	Query: "Amazona auropalliata" ; Times: 2
+	Query: "vntype:specimen specificepithet:lathami genus:calyptorhynchus (skeleton)" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "Chelodina pritchardi" ; Times: 1
+	Query: "vntype:specimen family:Phocidae institutioncode:SAMA" ; Times: 1
+	Query: "country:(Kyrgyzstan)" ; Times: 1
+	Query: "panthera tigris." ; Times: 2
+	Query: "vntype:specimen family:Otariidae institutioncode:SAMA" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "Phyllobates vittatus" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae institutioncode:SAMA" ; Times: 1
+	Query: "Gymnophthalmus leucomystax" ; Times: 3
+	Query: "Auxis thazard mappable:1" ; Times: 1
+	Query: "pinus radiata" ; Times: 1
+	Query: "Sypheotides family:Otididae" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "Phyllobates lugubris" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "aptychotrema" ; Times: 1
+	Query: "Erythrura pealii" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Crax alector" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 6
+	Query: "73020" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes country:&#34;Egypt&#34;" ; Times: 1
+	Query: "Phoebetria fusca" ; Times: 2
+	Query: "Garrulax austeni" ; Times: 1
+	Query: "B57952" ; Times: 2
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 5
+	Query: "B55958" ; Times: 3
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+	Query: "SAMA Antechinus flavipes" ; Times: 1
+	Query: "nautilus" ; Times: 2
+	Query: "REDWOOD TREE" ; Times: 5
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Legge Sri Lanka" ; Times: 1
+	Query: "varanus spenceri" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "carduelis cucullata" ; Times: 1
+	Query: "Ophisurus serpens mappable:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "varanus giganteus" ; Times: 1
+	Query: "B45812" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Ratufa bicolor" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 10
+	Query: "SAMA 79280 Antechinus flavipes" ; Times: 1
+	Query: "vntype:specimen specificepithet:bornea genus:eos" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 8
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "Kogia sima mappable:1" ; Times: 6
+	Query: "B53525" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 9
+	Query: "Thinornis" ; Times: 7
+	Query: "Crocodylus johnstoni" ; Times: 1
+	Query: "cairina moschata" ; Times: 1
+	Query: "genus:Ichthyophis specificepithet:glutinosus" ; Times: 1
+	Query: "sanctaecrucis" ; Times: 1
+	Query: "Falco jugger India" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 6
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen class:Mammalia locality:Thompson* isfossil:1" ; Times: 1
+	Query: "Antechinus flavipes institutioncode:SAMA" ; Times: 4
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "Pelecanoides garnotii" ; Times: 2
+	Query: "Metavelifer multiradiatus" ; Times: 3
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:SAMA" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "25 june 1886" ; Times: 1
+	Query: "specificepithet:zebrata genus:Corucia" ; Times: 2
+	Query: "Echis pyramidum" ; Times: 1
+	Query: "Antechinus flavipes vntype:specimen (Antechinus flavipes) institutioncode:SAMA" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 7
+	Query: "B56068" ; Times: 2
+	Query: "SAMA Antechinus flavipes 79280" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1227 download events in this period)
+Total number of records downloaded: 2000
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: United States ; Times: 32
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 30
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 3
+	Date: 2019-02-11 ; Times: 15
+	Date: 2019-02-13 ; Times: 16
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-14 ; Times: 13
+	Date: 2019-02-17 ; Times: 5
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-24 ; Times: 3
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 5
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 6
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "specificepithet:lathami genus:calyptorhynchus" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Varanus panoptes" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND ruficapilla AND massing" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Butorides AND virescens OR striata AND massing" ; Times: 1
+	Query: "Chelodina pritchardi" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:foudia" ; Times: 1
+	Query: "genus:Chlamydotis" ; Times: 1
+	Query: "Dendroica OR Setophaga AND pensylvanica AND massing" ; Times: 1
+	Query: "specificepithet:ignita genus:lophura" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vntype:specimen specificepithet:sagittatus genus:oriolus" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "specificepithet:boulboul genus:turdus" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "dermoptera" ; Times: 3
+	Query: "Oligodon cinereus" ; Times: 1
+	Query: "Lamprolaima rhami" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavocinctus genus:oriolus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Phalloceros" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Girardinus" ; Times: 1
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "Dendroica OR Setophaga AND ruticilla AND massing" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+	Query: "rynchops niger" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
