@@ -1,0 +1,327 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 233
+Number of records retrieved in searches: 1234
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 130
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 11
+	Country: Panama ; Times: 2
+	Country: India ; Times: 3
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 12
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 6
+	Country: New Zealand ; Times: 12
+	Country: Norway ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 6
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-10 ; Times: 23
+	Date: 2019-09-11 ; Times: 10
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 12
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 27
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 38
+	Date: 2019-09-05 ; Times: 17
+	Date: 2019-09-04 ; Times: 12
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-20 ; Times: 9
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-22 ; Times: 4
+	Date: 2019-09-25 ; Times: 4
+	Date: 2019-09-24 ; Times: 10
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Cacajao calvus mappable:1" ; Times: 2
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Hitchcock creek" ; Times: 1
+	Query: "arvalis Rana" ; Times: 1
+	Query: "genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "Calidris canutus" ; Times: 15
+	Query: "Rhinoderma darwinii" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "loddigesia" ; Times: 1
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:SAMA" ; Times: 5
+	Query: "Lophornis chalybeus verreauxii" ; Times: 1
+	Query: "Mordacia mordax" ; Times: 4
+	Query: "Psephotus pulcherrimus" ; Times: 2
+	Query: "Myotis sodalis haslength:1" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "Beryx splendens mappable:1" ; Times: 1
+	Query: "genus:Philoria specificepithet:frosti" ; Times: 1
+	Query: "specificepithet:arfaki genus:Rana" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "Rattus tiomanicus" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 1
+	Query: "Pristiophorus" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "bradypodion" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "Lissodelphis peronii" ; Times: 2
+	Query: "Ara ararauna" ; Times: 1
+	Query: "bourne w.r.p." ; Times: 1
+	Query: "specificepithet:arfaki  genus:Rana" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "genus:Pseudomys hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:picta genus:Grantiella" ; Times: 2
+	Query: "B32361" ; Times: 2
+	Query: "72764" ; Times: 1
+	Query: "Lophornis verreauxii" ; Times: 2
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:SAMA" ; Times: 5
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "specificepithet:viridis genus:Bufo" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:SAMA" ; Times: 3
+	Query: "Chalinolobus gouldii haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 4
+	Query: "16994." ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "Nyctophilus geoffroyi haslength:1" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:fuscigula genus:Rana" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "LUSCINIA brunnea vntype:specimen" ; Times: 1
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "Geotria australis" ; Times: 1
+	Query: "palumbus Columba" ; Times: 4
+	Query: "specificepithet:maculatus genus:Spilocuscus" ; Times: 1
+	Query: "Aipysurus laevis" ; Times: 2
+	Query: "1816 turner" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Ateles paniscus mappable:1" ; Times: 1
+	Query: "specificepithet:uruguayensis genus:Homonota institutioncode:SAMA" ; Times: 5
+	Query: "dendrolagus goodfellowi" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 2
+	Query: "M18409" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Chalcophaps indica india" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+	Query: "Apteryx" ; Times: 4
+	Query: "Callicebus cupreus mappable:1" ; Times: 2
+	Query: "specificepithet:nasuta genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "B27482" ; Times: 1
+	Query: "cavity nesting birds" ; Times: 1
+	Query: "atelopus chiriquiensis" ; Times: 2
+	Query: "67424" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 5
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "Phyllopezus lutzae" ; Times: 8
+	Query: "Acontias plumbeus" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "alcelaphus" ; Times: 1
+	Query: "specificepithet:lutzae genus:Phyllopezus institutioncode:SAMA" ; Times: 5
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "Heteralocha" ; Times: 2
+	Query: "Mordacia" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "genus:cyanolanius class:aves" ; Times: 1
+	Query: "Popelairia langsdorffi" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "&#34;Allocyttus verrucosus&#34;" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "Sphenomorphus muelleri" ; Times: 2
+	Query: "Barbourisia rufa mappable:1" ; Times: 1
+	Query: "Myotis keenii haslength:1" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "varanus giganteus" ; Times: 2
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "B45812" ; Times: 1
+	Query: "Pelecanus philippensis" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 3
+	Query: "myrtae" ; Times: 1
+	Query: "Liotyphlops beui mappable:1" ; Times: 1
+	Query: "Heliactin cornuta" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "tenrec" ; Times: 1
+	Query: "Discosura longicauda" ; Times: 1
+	Query: "Amytornis textilis sama" ; Times: 1
+	Query: "Scarus psittacus" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:SAMA" ; Times: 5
+	Query: "B1362" ; Times: 1
+	Query: "Anilius scytale mappable:1" ; Times: 1
+	Query: "Pinguinus" ; Times: 2
+	Query: "anilius scytale" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 4
+	Query: "67501" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 1073 download events in this period)
+Total number of records downloaded: 1219
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 36
+	Country: United States ; Times: 38
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 39
+	Date: 2019-09-11 ; Times: 18
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 5
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 12
+	Date: 2019-09-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pelecanoides" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Lophornis chalybeus verreauxii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+	Query: "Aglaiocercus kingii" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Lissodelphis peronii" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Phaethornis ruber" ; Times: 2
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "centrolene" ; Times: 2
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "Lophornis verreauxii" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "dendrolagus goodfellowi" ; Times: 2
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Polytmus thaumantias" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Popelairia langsdorffi" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "Heliactin cornuta" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Discosura longicauda" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliothryx aurita" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
