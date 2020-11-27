@@ -1,0 +1,373 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 4748
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 164
+	Country: Russia ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Singapore ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 95
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 14
+	Country: Slovakia ; Times: 1
+	Country: Vietnam ; Times: 16
+	Country: Puerto Rico ; Times: 2
+	Country: Belgium ; Times: 6
+	Country: Germany ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Thailand ; Times: 24
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 17
+	Date: 2019-12-24 ; Times: 10
+	Date: 2019-12-27 ; Times: 4
+	Date: 2019-12-26 ; Times: 24
+	Date: 2019-12-21 ; Times: 23
+	Date: 2019-12-20 ; Times: 12
+	Date: 2019-12-23 ; Times: 4
+	Date: 2019-12-22 ; Times: 22
+	Date: 2019-12-29 ; Times: 3
+	Date: 2019-12-28 ; Times: 8
+	Date: 2019-12-18 ; Times: 6
+	Date: 2019-12-19 ; Times: 5
+	Date: 2019-12-10 ; Times: 74
+	Date: 2019-12-11 ; Times: 4
+	Date: 2019-12-12 ; Times: 7
+	Date: 2019-12-13 ; Times: 9
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-16 ; Times: 8
+	Date: 2019-12-17 ; Times: 10
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 7
+	Date: 2019-12-09 ; Times: 13
+	Date: 2019-12-08 ; Times: 11
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-05 ; Times: 11
+	Date: 2019-12-04 ; Times: 9
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-02 ; Times: 43
+	Date: 2019-12-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 7
+	Query: "Lampropholis delicata haslength:1" ; Times: 1
+	Query: "demansia psammophis institutioncode:SAMA" ; Times: 1
+	Query: "Syngnathidae haslength:1 sex:male" ; Times: 1
+	Query: "B52713" ; Times: 1
+	Query: "Amphibolurus muricatus haslength:1" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "liasis olivaceus institutioncode:SAMA" ; Times: 1
+	Query: "institutioncode:SAMA" ; Times: 1
+	Query: "Macgregoria" ; Times: 2
+	Query: "furina institutioncode:SAMA" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "austrelaps labialis institutioncode:SAMA" ; Times: 1
+	Query: "boydii" ; Times: 2
+	Query: "SP 3030" ; Times: 1
+	Query: "austrelaps institutioncode:SAMA" ; Times: 2
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "furina ornata institutioncode:SAMA" ; Times: 1
+	Query: "rhinoplocephalus bicolor institutioncode:SAMA" ; Times: 1
+	Query: "austrelaps labialis" ; Times: 1
+	Query: "myron institutioncode:SAMA" ; Times: 1
+	Query: "Lialis burtonis haslength:1" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 2
+	Query: "Varanus timorensis" ; Times: 6
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 5
+	Query: "mixophyes coggeri" ; Times: 2
+	Query: "suta punctata institutioncode:SAMA" ; Times: 1
+	Query: "Diploglossus fasciatus" ; Times: 1
+	Query: "acanthophis pyrrhus institutioncode:SAMA" ; Times: 1
+	Query: "&#34;P. J. Darlington&#34; year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "elapognathus institutioncode:SAMA" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "drysdalia institutioncode:SAMA" ; Times: 1
+	Query: "Tokudaia" ; Times: 1
+	Query: "simoselaps bimaculatus institutioncode:SAMA" ; Times: 1
+	Query: "Hoplocephalus bitorquatus institutioncode:SAMA" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "calumma parsonii" ; Times: 4
+	Query: "specificepithet:chiriquiensis genus:Atelopus" ; Times: 2
+	Query: "cacophis harriettae institutioncode:SAMA" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Ameiva ameiva haslength:1" ; Times: 1
+	Query: "Egernia saxatilis haslength:1" ; Times: 1
+	Query: "NA mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Hemiaspis damelii institutioncode:SAMA" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "Howella brodiei  mappable:1" ; Times: 4
+	Query: "Lampropholis guichenoti haslength:1" ; Times: 1
+	Query: "drysdalia mastersii institutioncode:SAMA" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 3
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 2
+	Query: "Thunnus maccoyii" ; Times: 3
+	Query: "pseudonaja modesta institutioncode:SAMA" ; Times: 1
+	Query: "furcifer verrucosus" ; Times: 1
+	Query: "Litoria ewingii mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "simoselaps littoralis institutioncode:SAMA" ; Times: 1
+	Query: "Caranx lugubris mappable:1" ; Times: 3
+	Query: "Ashbyia lovensis" ; Times: 11
+	Query: "Ctenotus robustus haslength:1" ; Times: 1
+	Query: "SAMA mammalogy 7575" ; Times: 1
+	Query: "specificepithet:mcgregori genus:Ansonia" ; Times: 2
+	Query: "20195" ; Times: 1
+	Query: "rhinoplocephalus institutioncode:SAMA" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Tridentiger trigonocephalus" ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 2
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "vntype:specimen specificepithet:corythaix genus:Tauraco country:&#34;South Africa&#34;" ; Times: 1
+	Query: "dendrelaphis calligastra institutioncode:SAMA" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 2
+	Query: "Planigale ingrami" ; Times: 1
+	Query: "Eulamprus quoyii haslength:1" ; Times: 1
+	Query: "austrelaps superbus institutioncode:SAMA" ; Times: 1
+	Query: "morelia viridis institutioncode:SAMA" ; Times: 1
+	Query: "morelia bredli institutioncode:SAMA" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "amethistina" ; Times: 5
+	Query: "drysdalia coronata institutioncode:SAMA" ; Times: 1
+	Query: "demansia atra institutioncode:SAMA" ; Times: 1
+	Query: "pseudonaja textilis institutioncode:SAMA" ; Times: 1
+	Query: "cacophis squamulosus institutioncode:SAMA" ; Times: 1
+	Query: "vermicella annulata institutioncode:SAMA" ; Times: 1
+	Query: "austrelaps ramsayi institutioncode:SAMA" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "genus:ailurus" ; Times: 1
+	Query: "fordonia leucobalia institutioncode:SAMA" ; Times: 1
+	Query: "Amalosia lesueurii haslength:1" ; Times: 1
+	Query: "Pelamis platurus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Feresa attenuata mappable:1" ; Times: 2
+	Query: "morelia bredli" ; Times: 1
+	Query: "Tiliqua scincoides haslength:1" ; Times: 1
+	Query: "simoselaps anomalus institutioncode:SAMA" ; Times: 1
+	Query: "Remora osteochir mappable:1" ; Times: 2
+	Query: "Naucrates ductor mappable:1" ; Times: 3
+	Query: "Cutia nipalensis" ; Times: 1
+	Query: "demansia papuensis institutioncode:SAMA" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "genus:hirundapus class:aves year &gt;= 1980" ; Times: 1
+	Query: "domestic chicken" ; Times: 1
+	Query: "cerberus rynchops institutioncode:SAMA" ; Times: 1
+	Query: "brachyurophis fasciolatus institutioncode:SAMA" ; Times: 1
+	Query: "specificepithet:peregrinus class:aves year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "&#34;P. J. Darlington&#34;" ; Times: 1
+	Query: "Morelia variegata" ; Times: 1
+	Query: "hoplocephalus bungaroides institutioncode:SAMA" ; Times: 1
+	Query: "Cyclodomorphus gerrardii haslength:1" ; Times: 1
+	Query: "Apus pacificus" ; Times: 1
+	Query: "Pogona barbata haslength:1" ; Times: 1
+	Query: "liasis fuscus institutioncode:SAMA" ; Times: 1
+	Query: "liasis fuscus" ; Times: 1
+	Query: "Hemidactylus frenatus haslength:1" ; Times: 1
+	Query: "Underwoodisaurus milii haslength:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "17045" ; Times: 1
+	Query: "Ameiva ameiva ameiva haslength:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Teius teyou haslength:1" ; Times: 1
+	Query: "notechis scutatus institutioncode:SAMA" ; Times: 1
+	Query: "brachyurophis australis institutioncode:SAMA" ; Times: 1
+	Query: "Calotes calotes haslength:1" ; Times: 1
+	Query: "hoplocephalus institutioncode:SAMA" ; Times: 1
+	Query: "oxyuranus microlepidotus institutioncode:SAMA" ; Times: 1
+	Query: "male Syngnathidae haslength:1" ; Times: 1
+	Query: "genus:Litoria specificepithet:richardsi" ; Times: 1
+	Query: "pseudechis porphyriacus institutioncode:SAMA" ; Times: 1
+	Query: "13208" ; Times: 1
+	Query: "morelia spilota institutioncode:SAMA" ; Times: 1
+	Query: "68443" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 1
+	Query: "pseudonaja guttata institutioncode:SAMA" ; Times: 1
+	Query: "emoia ponapea" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 16
+	Query: "simoselaps bertholdi institutioncode:SAMA" ; Times: 1
+	Query: "Platymantis boulengeri" ; Times: 1
+	Query: "Cyclorana australis haslength:1" ; Times: 1
+	Query: "hemiaspis signata institutioncode:SAMA" ; Times: 1
+	Query: "morelia amethistina institutioncode:SAMA" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "pseudechis australis institutioncode:SAMA" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 2
+	Query: "specificepithet:leucocephala genus:Halcyon class:Aves country:&#34;Kenya&#34; continent:Africa" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "hoplocephalus stephensii institutioncode:SAMA" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "cacophis institutioncode:SAMA" ; Times: 1
+	Query: "tropidonophis mairii institutioncode:SAMA" ; Times: 1
+	Query: "vntype:specimen genus:micryletta" ; Times: 2
+	Query: "Pygopus lepidopodus haslength:1" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "tropidechis carinatus institutioncode:SAMA" ; Times: 1
+	Query: "demansia torquata institutioncode:SAMA" ; Times: 1
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "13110" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Diploglossus" ; Times: 2
+	Query: "echiopsis curta institutioncode:SAMA" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "76706" ; Times: 1
+	Query: "Turnagra capensis" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "18569" ; Times: 1
+	Query: "emoia ponapea SAMA" ; Times: 1
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "genus:Leiopelma" ; Times: 1
+	Query: "Pteropus admiralitatum" ; Times: 3
+	Query: "Balaenoptera edeni  mappable:1" ; Times: 3
+	Query: "bothrochilus institutioncode:SAMA" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "Basiliscus vittatus haslength:1" ; Times: 1
+	Query: "extended wings" ; Times: 4
+	Query: "Uperoleia littlejohni" ; Times: 1
+	Query: "Syngnathidae sex:male haslength:1" ; Times: 1
+	Query: "oxyuranus scutellatus institutioncode:SAMA" ; Times: 1
+	Query: "specificepithet:bufoniformis genus:discodeles (Richards)" ; Times: 1
+	Query: "brachyurophis semifasciatus institutioncode:SAMA" ; Times: 1
+	Query: "Proceratophrys appendiculata" ; Times: 1
+	Query: "spinipes" ; Times: 1
+	Query: "Notechis scutatus haslength:1" ; Times: 1
+	Query: "pseudonaja nuchalis institutioncode:SAMA" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "suta fasciata institutioncode:SAMA" ; Times: 1
+	Query: "Heterophasia annectens" ; Times: 2
+	Query: "Calumma parsonii" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 18
+	Query: "Chelonia mydas haslength:1" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 2
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "simoselaps institutioncode:SAMA" ; Times: 1
+	Query: "Litoria raniformis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "enhydris institutioncode:SAMA" ; Times: 1
+	Query: "cyrtodactylus loriae" ; Times: 1
+	Query: "Furina diadema institutioncode:SAMA" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "genus:Varanus institutioncode:SAMA" ; Times: 1
+	Query: "rhinoplocephalus pallidiceps institutioncode:SAMA" ; Times: 1
+	Query: "platymantis pelewensis" ; Times: 2
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "specificepithet:tristis genus:Varanus institutioncode:SAMA" ; Times: 1
+	Query: "heterophasia annectens" ; Times: 2
+	Query: "dilophus" ; Times: 3
+	Query: "demansia olivacea institutioncode:SAMA" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "Acanthophis antarcticus haslength:1" ; Times: 1
+	Query: "genus:Flectonotus specificepithet:fissilis" ; Times: 1
+	Query: "Pseudonaja textilis haslength:1" ; Times: 1
+	Query: "nyctixalus pictus" ; Times: 1
+	Query: "liasis mackloti institutioncode:SAMA" ; Times: 1
+	Query: "Barbus tropidolepis" ; Times: 3
+	Query: "Platymantis bufonulus" ; Times: 4
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+	Query: "Bacteria" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 596 download events in this period)
+Total number of records downloaded: 1666
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 16
+	Country: Paraguay ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 23
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 4
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "spinipes" ; Times: 3
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Diploglossus fasciatus" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "ansonia" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "nyctixalus pictus" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "genus:Varanus institutioncode:SAMA" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "specificepithet:tristis genus:Varanus institutioncode:SAMA" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Diploglossus" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
