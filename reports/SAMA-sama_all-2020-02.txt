@@ -1,0 +1,409 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 348
+Number of records retrieved in searches: 1888
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 4
+	Country: Ireland ; Times: 4
+	Country: Norway ; Times: 2
+	Country: Saudi Arabia ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 259
+	Country: Sweden ; Times: 11
+	Country: Vietnam ; Times: 5
+	Country: Taiwan ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 27
+	Country: Malaysia ; Times: 1
+	Country: Japan ; Times: 7
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 36
+	Date: 2020-02-23 ; Times: 4
+	Date: 2020-02-02 ; Times: 13
+	Date: 2020-02-03 ; Times: 35
+	Date: 2020-02-26 ; Times: 16
+	Date: 2020-02-01 ; Times: 25
+	Date: 2020-02-20 ; Times: 10
+	Date: 2020-02-21 ; Times: 25
+	Date: 2020-02-22 ; Times: 5
+	Date: 2020-02-05 ; Times: 43
+	Date: 2020-02-08 ; Times: 4
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 5
+	Date: 2020-02-11 ; Times: 23
+	Date: 2020-02-10 ; Times: 8
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 10
+	Date: 2020-02-14 ; Times: 9
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 10
+	Date: 2020-02-18 ; Times: 5
+	Date: 2020-02-24 ; Times: 17
+	Date: 2020-02-25 ; Times: 5
+	Date: 2020-02-27 ; Times: 13
+	Date: 2020-02-06 ; Times: 11
+	Date: 2020-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "taeromys arcuatus" ; Times: 2
+	Query: "39343" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "astrapia nigra" ; Times: 2
+	Query: "Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "(dermoptera Cynocephalidae)" ; Times: 1
+	Query: "scientificname:Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "Podiceps cristatus" ; Times: 4
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:SAMA" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 2
+	Query: "Sphenoeacus afer" ; Times: 2
+	Query: "pongo pygmaeus" ; Times: 1
+	Query: "epimachus fastuosus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:truncatus" ; Times: 2
+	Query: "Rheobatrachus" ; Times: 2
+	Query: "Polymetme illustris" ; Times: 1
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "bradypus &#34;tridactylus&#34;" ; Times: 1
+	Query: "Litoria electrica" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Anura institutioncode:SAMA" ; Times: 1
+	Query: "(dermoptera)" ; Times: 3
+	Query: "scientificname:Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 4
+	Query: "82104" ; Times: 2
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "calumma parsonii" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "R.T.M" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 5
+	Query: "(Dermoptera)" ; Times: 5
+	Query: "genus:Oreophryne specificepithet:oviprotector" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "20991" ; Times: 1
+	Query: "lagorchestes leporides" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Drymodes superciliaris" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:SAMA" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1997 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:SAMA" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "astrapia splendidissima" ; Times: 2
+	Query: "specificepithet:doreanus genus:varanus" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:SAMA" ; Times: 1
+	Query: "genus:Agkistrodon basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:SAMA" ; Times: 1
+	Query: "draco maculatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "amethistina" ; Times: 6
+	Query: "mummy" ; Times: 2
+	Query: "22179" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "rhinogobius" ; Times: 2
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "bunomys andrewsi" ; Times: 1
+	Query: "barbourula busuangensis" ; Times: 1
+	Query: "&#34;Panthera tigris&#34;" ; Times: 3
+	Query: "nestor notabilis" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 4
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Lagenorhynchus cruciger" ; Times: 4
+	Query: "specificepithet:albicauda genus:mirafra" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "M8312" ; Times: 1
+	Query: "Nasalis larvatus" ; Times: 1
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34; year &gt;= 1970" ; Times: 1
+	Query: "Bunomys" ; Times: 1
+	Query: "euphractus sexcinctus" ; Times: 2
+	Query: "order:dermoptera" ; Times: 2
+	Query: "17132" ; Times: 2
+	Query: "accipiter novaehollandiae country:&#34;australia&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 4
+	Query: "Platysternon megacephalum" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "epimachus albertisi" ; Times: 2
+	Query: "Varanus salvator" ; Times: 1
+	Query: "&#34;Lama glama&#34;" ; Times: 1
+	Query: "fulmarus spitzbergen" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Saudi Arabia&#34; continent:Asia" ; Times: 1
+	Query: "Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "specificepithet:uruguayensis genus:Homonota institutioncode:SAMA" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 2
+	Query: "elanus scriptus vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 1
+	Query: "pelecanoides urinatrix exsul" ; Times: 1
+	Query: "Litoria jervisiensis" ; Times: 1
+	Query: "litoria littlejohni" ; Times: 1
+	Query: "astrapia rothschildi" ; Times: 2
+	Query: "M4430" ; Times: 1
+	Query: "paradigalla carunculata" ; Times: 1
+	Query: "elanus scriptus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "pachyptila eatoni" ; Times: 1
+	Query: "oceanites oceanicus australia" ; Times: 1
+	Query: "Gekko smithi" ; Times: 18
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "pterodroma nigripennis" ; Times: 1
+	Query: "Pteruthius flaviscapis India" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 1
+	Query: "Uperoleia tyleri" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 1
+	Query: "assimilis tunneyi" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "NT 376" ; Times: 3
+	Query: "vntype:specimen specificepithet:siamensis genus:naja" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "Gallus varius" ; Times: 2
+	Query: "cetorhinus" ; Times: 1
+	Query: "Astrapia rothschildi" ; Times: 1
+	Query: "oceanites oceanicus australia year &gt;= 1997 year &lt;= 2020" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "sphenomorphus jobiensis new britain" ; Times: 1
+	Query: "Hystrix cristata" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "pelecanoides urinatrix pacific" ; Times: 1
+	Query: "specificepithet:guttatus genus:Ptyodactylus institutioncode:SAMA" ; Times: 1
+	Query: "Phyllopezus lutzae" ; Times: 2
+	Query: "70808" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "&#34;Manis gigantea&#34;" ; Times: 1
+	Query: "puffinus assimilis australia year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "pachyptila crassirostris" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "Phosichthys" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Daphoenositta striata" ; Times: 1
+	Query: "specificepithet:lutzae genus:Phyllopezus institutioncode:SAMA" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:SAMA" ; Times: 1
+	Query: "riparia paludicola" ; Times: 2
+	Query: "puffinus abrolhos" ; Times: 1
+	Query: "Northern Territory genus:Moloch" ; Times: 1
+	Query: "Thymichthys" ; Times: 1
+	Query: "pachyptila heard" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon" ; Times: 2
+	Query: "order:Chiroptera country:&#34;Saudi Arabia&#34;" ; Times: 2
+	Query: "dermoptera" ; Times: 30
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:SAMA" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:SAMA" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:SAMA" ; Times: 1
+	Query: "genus:otus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Erythrotriorchis vntype:specimen country:&#34;australia&#34; year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "vntype:specimen specificepithet:mossambica genus:naja" ; Times: 1
+	Query: "Brachionichthys" ; Times: 1
+	Query: "order:chiroptera country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "&#34;Ailurus Fulgens&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "Sympterichthys" ; Times: 1
+	Query: "Gymnobelideus leadbeateri" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "molidae" ; Times: 3
+	Query: "sarcoramphus papa" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "&#34;camelus dromedarius&#34;" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "order:Anura (Richards) institutioncode:SAMA" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "puffinus assimilis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "pandion haliaetus vntype:specimen country:&#34;australia&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "17179" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "panthera tigris" ; Times: 3
+	Query: "Erythrocebus" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "vntype:specimen specificepithet:kaouthia genus:naja" ; Times: 1
+	Query: "specificepithet:smithi genus:Gekko" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:SAMA" ; Times: 1
+	Query: "RTM" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "Cyrtodactylus sermowaiensis" ; Times: 2
+	Query: "15969" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Hippopotamus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 149 (out of 1023 download events in this period)
+Total number of records downloaded: 67894
+Number of different countries: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Romania ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Norway ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Vietnam ; Times: 2
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 107
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-03 ; Times: 19
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 9
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-05 ; Times: 20
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 5
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-06 ; Times: 15
+	Date: 2020-02-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "Eira barbara" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "genus:cuniculus" ; Times: 2
+	Query: "genus:Agkistrodon basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Phascogale calura" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "order:chiroptera country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Antechinus agilis" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "order:Anura (Richards) institutioncode:SAMA" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Anniellidae" ; Times: 2
+	Query: "(dermoptera)" ; Times: 5
+	Query: "prinia inornata" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "order:dermoptera" ; Times: 3
+	Query: "centrolenidae" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "Monachus" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Gallus varius" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "lagorchestes leporides" ; Times: 1
+
+
+End of report.
