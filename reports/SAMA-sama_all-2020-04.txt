@@ -1,0 +1,587 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1578
+Number of records retrieved in searches: 27600
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 5
+	Country: Romania ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Indonesia ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 22
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 71
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1351
+	Country: Sweden ; Times: 20
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 10
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 65
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-06 ; Times: 10
+	Date: 2020-04-07 ; Times: 462
+	Date: 2020-04-22 ; Times: 6
+	Date: 2020-04-23 ; Times: 22
+	Date: 2020-04-20 ; Times: 17
+	Date: 2020-04-21 ; Times: 413
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 11
+	Date: 2020-04-24 ; Times: 7
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-28 ; Times: 4
+	Date: 2020-04-29 ; Times: 5
+	Date: 2020-04-08 ; Times: 227
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 4
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-03 ; Times: 177
+	Date: 2020-04-19 ; Times: 20
+	Date: 2020-04-18 ; Times: 13
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-11 ; Times: 4
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-17 ; Times: 43
+	Date: 2020-04-16 ; Times: 18
+	Date: 2020-04-15 ; Times: 7
+	Date: 2020-04-14 ; Times: 67
+	Date: 2020-04-30 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea leucorodia" ; Times: 3
+	Query: "Gyrinocheilus pennocki" ; Times: 5
+	Query: "Pimelodus maculatus" ; Times: 6
+	Query: "specificepithet:wattsi genus:Maxomys" ; Times: 1
+	Query: "melursus ursinus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Clarias gariepinus" ; Times: 29
+	Query: "Anous tenuirostris" ; Times: 6
+	Query: "Paracheirodon innesi" ; Times: 4
+	Query: "Panthera onca" ; Times: 4
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Thylacinus" ; Times: 1
+	Query: "rattus marmosurus" ; Times: 1
+	Query: "Ardea alba" ; Times: 9
+	Query: "Tringa glareola" ; Times: 6
+	Query: "Lampetra planeri" ; Times: 2
+	Query: "M25073" ; Times: 1
+	Query: "rats" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Culicicapa ceylonensis" ; Times: 4
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Mystacoleucus marginatus" ; Times: 5
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Axis axis" ; Times: 2
+	Query: "Astatotilapia burtoni" ; Times: 18
+	Query: "vntype:specimen (Antarctica) isfossil:1" ; Times: 4
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "18103" ; Times: 2
+	Query: "Ctenochromis" ; Times: 3
+	Query: "Peltohyas australis" ; Times: 2
+	Query: "class:aves country:mozambique" ; Times: 1
+	Query: "Corvus corone" ; Times: 9
+	Query: "15034" ; Times: 1
+	Query: "Brachypteryx cruralis India" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "Elminia longicauda" ; Times: 4
+	Query: "oceanites oceanicus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Eophona personata" ; Times: 8
+	Query: "Garrulax caerulatus india" ; Times: 1
+	Query: "Anser indicus" ; Times: 5
+	Query: "Felis catus year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "Ixobrychus minutus" ; Times: 6
+	Query: "Tragelaphus oryx" ; Times: 4
+	Query: "Oenanthe deserti India" ; Times: 1
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Fulica atra" ; Times: 3
+	Query: "coturnix chinensis" ; Times: 2
+	Query: "Pseudomugil signifer mappable:1" ; Times: 1
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "Actitis hypoleucos" ; Times: 6
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "rattus andamanensis" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 3
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "Lophura ignita" ; Times: 3
+	Query: "pavo cristatus" ; Times: 4
+	Query: "Gerres oyena" ; Times: 5
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "Passer montanus India" ; Times: 1
+	Query: "Cyornis rubeculoides India" ; Times: 1
+	Query: "Lalage tricolor" ; Times: 2
+	Query: "Lanius vittatus India" ; Times: 1
+	Query: "Thalassarche melanophris" ; Times: 1
+	Query: "Chionis" ; Times: 1
+	Query: "Mormopterus planiceps" ; Times: 10
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "ziphius cavirostris isfossil:1" ; Times: 1
+	Query: "order:cetacea basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Pisodonophis boro" ; Times: 5
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Phylloscopus inornatus" ; Times: 7
+	Query: "Seicercus burkii" ; Times: 4
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Cephalophus natalensis" ; Times: 4
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "Oreochromis tanganicae" ; Times: 23
+	Query: "Turdus atrogularis India" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Anas formosa" ; Times: 13
+	Query: "Manis temminckii" ; Times: 4
+	Query: "Heterophasia picaoides india" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "Panthera tigris" ; Times: 7
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Aonyx cinerea" ; Times: 7
+	Query: "Hypsipetes leucocephalus" ; Times: 4
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "Grus antigone" ; Times: 7
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 3
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Mergellus albellus" ; Times: 5
+	Query: "Cutia nipalensis india" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 5
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "Gallicolumba jobiensis" ; Times: 10
+	Query: "Hirundapus caudacutus" ; Times: 2
+	Query: "M22321" ; Times: 1
+	Query: "India leucogenys" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "phylum:chordata country:mozambique" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Cynocephalus volans" ; Times: 2
+	Query: "vntype:specimen genus:Tropidurus haslength:1" ; Times: 1
+	Query: "Gnathonemus longibarbis" ; Times: 9
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "D. Sim" ; Times: 2
+	Query: "Ozotoceros bezoarticus" ; Times: 5
+	Query: "Atherinosoma microstoma" ; Times: 2
+	Query: "Agapornis nigrigenis" ; Times: 1
+	Query: "(18647)" ; Times: 2
+	Query: "Regulus regulus India" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "helarctos malayanus" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "Hyla phrynoderma" ; Times: 2
+	Query: "Ficedula strophiata India" ; Times: 1
+	Query: "Mitu tuberosa" ; Times: 3
+	Query: "(18677)" ; Times: 1
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "monster" ; Times: 2
+	Query: "moschus" ; Times: 3
+	Query: "python reticulatus" ; Times: 3
+	Query: "Leptoptilos dubius" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Rallus aquaticus" ; Times: 4
+	Query: "Arborophila torqueola" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Sprattus sprattus" ; Times: 5
+	Query: "Felis catus" ; Times: 4
+	Query: "Leucocarbo atriceps" ; Times: 4
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "Paratilapia polleni" ; Times: 3
+	Query: "Ducula spilorrhoa" ; Times: 2
+	Query: "Astrapia nigra" ; Times: 7
+	Query: "Apus pacificus" ; Times: 10
+	Query: "Heterophasia pulchella india" ; Times: 1
+	Query: "Columba oenas" ; Times: 3
+	Query: "Epimachus fastuosus" ; Times: 2
+	Query: "Turdus philomelos" ; Times: 15
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "Pycnonotus leucogenys India" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+	Query: "Pavo muticus" ; Times: 1
+	Query: "Pimelodus ornatus" ; Times: 3
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Prinia atrogularis India" ; Times: 2
+	Query: "genimaculata" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "Mimagoniates inequalis" ; Times: 6
+	Query: "B5659" ; Times: 1
+	Query: "Xema sabini" ; Times: 6
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "pachyptila crassirostris" ; Times: 13
+	Query: "Gampsorhynchus rufulus india" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Decapterus russelli" ; Times: 5
+	Query: "61477" ; Times: 1
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Larus crassirostris" ; Times: 6
+	Query: "Sorubim lima" ; Times: 5
+	Query: "Yuhina gularis india" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "13890" ; Times: 2
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "P. aleuticus" ; Times: 6
+	Query: "Babyrousa babyrussa" ; Times: 4
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Pycnonotus finlaysoni" ; Times: 4
+	Query: "Phylloscopus maculipennis India" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 9
+	Query: "Aythya ferina" ; Times: 11
+	Query: "26816" ; Times: 3
+	Query: "specificepithet:parapulchella genus:aprasia" ; Times: 3
+	Query: "Criniger phaeocephalus" ; Times: 4
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Argyrosomus japonicus" ; Times: 6
+	Query: "(18642)" ; Times: 2
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Epimachus bruijnii" ; Times: 6
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "pelecanoides garnotii" ; Times: 2
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "Chironax melanocephalus" ; Times: 4
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "Tinca tinca" ; Times: 7
+	Query: "Amazilia candida" ; Times: 3
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Lymnocryptes minimus" ; Times: 2
+	Query: "Tursiops aduncus" ; Times: 3
+	Query: "Spicospina flammocaerulea" ; Times: 1
+	Query: "Felis catus year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Amazilia viridicauda" ; Times: 3
+	Query: "Tylochromis polylepis" ; Times: 5
+	Query: "Rattus tiomanicus" ; Times: 6
+	Query: "Corvus splendens" ; Times: 9
+	Query: "Pangasius pangasius" ; Times: 9
+	Query: "Ducula spilorrhoa institutioncode:SAMA" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "penguins" ; Times: 1
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Tachybaptus novaehollandiae" ; Times: 9
+	Query: "Spilornis cheela" ; Times: 7
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "pterodroma lessonii year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "co2" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "AMNH 63839" ; Times: 1
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Climacteris picumnus" ; Times: 4
+	Query: "specificepithet:fasciatus genus:Diploglossus" ; Times: 2
+	Query: "Madoqua kirkii" ; Times: 4
+	Query: "Crax rubra" ; Times: 3
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Todus todus" ; Times: 3
+	Query: "Manis tetradactyla" ; Times: 4
+	Query: "Microcarbo melanoleucos" ; Times: 4
+	Query: "Equus asinus" ; Times: 2
+	Query: "Arius arius" ; Times: 8
+	Query: "Anas penelope" ; Times: 11
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "Scaturiginichthys vermeilipinnis mappable:1" ; Times: 1
+	Query: "Chionis minor" ; Times: 2
+	Query: "B6146" ; Times: 2
+	Query: "Syma torotoro" ; Times: 5
+	Query: "specificepithet:putorius genus:mustela haslength:1" ; Times: 2
+	Query: "Sturnus vulgaris india" ; Times: 2
+	Query: "Manis javanica" ; Times: 3
+	Query: "Chalcophaps stephani" ; Times: 6
+	Query: "oceanites oceanicus antarctica" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Anas poecilorhyncha" ; Times: 13
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Carassius auratus" ; Times: 14
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Gallinago stenura" ; Times: 6
+	Query: "phoebetria palpebrata" ; Times: 1
+	Query: "Miniopterus inflatus" ; Times: 4
+	Query: "vntype:specimen genus:tropidurus haslength:1" ; Times: 1
+	Query: "Kryptopterus bicirrhis" ; Times: 7
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 3
+	Query: "Lophornis magnificus" ; Times: 4
+	Query: "Panurus biarmicus" ; Times: 7
+	Query: "B2116" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 5
+	Query: "Carpodacus erythrinus India" ; Times: 1
+	Query: "Pelecanus philippensis" ; Times: 2
+	Query: "Microhierax caerulescens india" ; Times: 1
+	Query: "Garrulax gularis india" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Lagenorhynchus obliquidens" ; Times: 3
+	Query: "Phylloscopus humei India" ; Times: 1
+	Query: "francolinus francolinus india" ; Times: 2
+	Query: "Gyrinocheilus aymonieri" ; Times: 5
+	Query: "cheiromeles" ; Times: 2
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "Phalacrocorax fuscescens" ; Times: 4
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Cormobates leucophaeus" ; Times: 4
+	Query: "Salmo salar" ; Times: 5
+	Query: "Ovis aries" ; Times: 10
+	Query: "Bubo bubo india" ; Times: 1
+	Query: "Cervus axis" ; Times: 3
+	Query: "Muscicapa sibirica India" ; Times: 1
+	Query: "astrapia nigra" ; Times: 3
+	Query: "Anomalepididae" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "pelecanoides georgicus" ; Times: 2
+	Query: "Falco chicquera india" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "Aphrodroma brevirostris" ; Times: 3
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "Dama dama" ; Times: 3
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "surniculus dicruroides" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 4
+	Query: "Nematalosa come" ; Times: 4
+	Query: "Paradigalla carunculata" ; Times: 2
+	Query: "F. domesticus" ; Times: 5
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Plotosus canius" ; Times: 5
+	Query: "Papio hamadryas" ; Times: 4
+	Query: "Gyps himalayensis" ; Times: 4
+	Query: "Neosilurus hyrtlii" ; Times: 8
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "Quelea quelea" ; Times: 8
+	Query: "Apus caffer" ; Times: 3
+	Query: "moschus moschiferus" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "(10009)" ; Times: 1
+	Query: "vntype:specimen specificepithet:ameiva genus:Ameiva haslength:1" ; Times: 1
+	Query: "Arborophila rufogularis" ; Times: 2
+	Query: "Pomatorhinus ruficollis india" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "B. marmoratus" ; Times: 5
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "Equus caballus" ; Times: 2
+	Query: "spotted crake" ; Times: 2
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "Phylloscopus proregulus" ; Times: 7
+	Query: "oriolus oriolus India" ; Times: 3
+	Query: "Anguilla australis" ; Times: 6
+	Query: "Heterophasia gracilis india" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 2
+	Query: "Cypsiurus balasiensis" ; Times: 3
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "aonyx cinerea" ; Times: 1
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "Cladorhynchus leucocephalus" ; Times: 2
+	Query: "Triacanthus biaculeatus" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "Rhea americana" ; Times: 3
+	Query: "Minla cyanouroptera" ; Times: 3
+	Query: "Hippotragus niger" ; Times: 4
+	Query: "Scomberomorus commerson" ; Times: 5
+	Query: "Thayeria boehlkei" ; Times: 5
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Ocyceros birostris india" ; Times: 1
+	Query: "84344" ; Times: 1
+	Query: "Circus macrourus india" ; Times: 1
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "Lophura leucomelanos" ; Times: 3
+	Query: "Tyto capensis" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 4
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Procellaria cinerea" ; Times: 9
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Bucharest" ; Times: 1
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "vntype:specimen family:Indridae" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 2
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Ardea modesta" ; Times: 9
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Minla ignotincta india" ; Times: 2
+	Query: "25093" ; Times: 1
+	Query: "26886" ; Times: 2
+	Query: "Turdus pallidus" ; Times: 9
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Oreochromis niloticus" ; Times: 22
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "Xiphophorus variatus" ; Times: 9
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "Falco jugger india" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 2
+	Query: "Litoria genimaculata" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 109 (out of 1171 download events in this period)
+Total number of records downloaded: 91654
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Turkey ; Times: 2
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Indonesia ; Times: 2
+	Country: India ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 70
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 14
+	Country: France ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-06 ; Times: 3
+	Date: 2020-04-07 ; Times: 5
+	Date: 2020-04-22 ; Times: 6
+	Date: 2020-04-05 ; Times: 4
+	Date: 2020-04-20 ; Times: 8
+	Date: 2020-04-21 ; Times: 3
+	Date: 2020-04-26 ; Times: 5
+	Date: 2020-04-27 ; Times: 7
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 14
+	Date: 2020-04-29 ; Times: 11
+	Date: 2020-04-08 ; Times: 4
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 5
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-17 ; Times: 6
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampanyctus alatus" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34; continent:Africa" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Lymnocryptes minimus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "Ozotoceros bezoarticus" ; Times: 2
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "class:Mammalia country:&#34;Cameroon&#34; OR &#34;Cameroun&#34; OR &#34;Kamerun&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:erythronota" ; Times: 1
+	Query: "Gallinago megala" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "vntype:specimen (Antarctica) isfossil:1" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 12
+	Query: "Lacerta agilis germany" ; Times: 2
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "specificepithet:putorius genus:mustela haslength:1" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "emoia atrocostata" ; Times: 1
+	Query: "Gallinago hardwickii" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "genimaculata" ; Times: 1
+	Query: "Tyto capensis" ; Times: 1
+	Query: "Gallinago stenura" ; Times: 1
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Tyto novaehollandiae" ; Times: 1
+	Query: "specificepithet:bilineatus genus:Agkistrodon" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "vntype:specimen family:Indridae" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "Tyto alba delicatula" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Gallinago media" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "Litoria genimaculata" ; Times: 1
+
+
+End of report.
