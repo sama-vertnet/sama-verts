@@ -1,0 +1,308 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 2235
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: Brazil ; Times: 13
+	Country: Australia ; Times: 40
+	Country: Ireland ; Times: 10
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 5
+	Country: India ; Times: 6
+	Country: Luxembourg ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 89
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 4
+	Country: Germany ; Times: 8
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 11
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 17
+	Date: 2020-05-24 ; Times: 16
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 13
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-20 ; Times: 7
+	Date: 2020-05-23 ; Times: 8
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-29 ; Times: 7
+	Date: 2020-05-28 ; Times: 7
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 16
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 5
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-15 ; Times: 8
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 11
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-07 ; Times: 33
+	Date: 2020-05-06 ; Times: 12
+	Date: 2020-05-05 ; Times: 11
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-03 ; Times: 10
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "64668" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 3
+	Query: "Eulampis holosericeus" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "(schuster)" ; Times: 1
+	Query: "Litoria pronimia" ; Times: 2
+	Query: "class:Aves catalognumber:B24322" ; Times: 1
+	Query: "Litoria havina" ; Times: 3
+	Query: "Anomalepididae" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 2
+	Query: "melursus ursinus" ; Times: 5
+	Query: "Litoria impura" ; Times: 1
+	Query: "B51361" ; Times: 1
+	Query: "Emoia aurulenta" ; Times: 1
+	Query: "genus:calyptommatus institutioncode:SAMA" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "18482" ; Times: 1
+	Query: "Sturnus contra" ; Times: 1
+	Query: "lycocorax" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "Sphenomorphus woodfordi" ; Times: 1
+	Query: "Nyctimystes humeralis" ; Times: 1
+	Query: "B38592" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 5
+	Query: "64968" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "Litoria pygmaea" ; Times: 2
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Nyctimystes pulchra" ; Times: 1
+	Query: "foetorepus calauropomus" ; Times: 2
+	Query: "64705" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:SAMA" ; Times: 2
+	Query: "genus:calyptommatus" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 3
+	Query: "Abalistes stellaris mappable:1" ; Times: 6
+	Query: "63237" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Sterna caspia ws OR wingspan OR wing+span" ; Times: 8
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Trachylepis punctatissima" ; Times: 1
+	Query: "Nyctimystes trachydermis" ; Times: 6
+	Query: "Litoria richardsi" ; Times: 3
+	Query: "Chrysolophus x" ; Times: 1
+	Query: "histiodraco velifer" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "Grampus griseus" ; Times: 1
+	Query: "litoria lutea" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "B38633" ; Times: 1
+	Query: "genus:Rheobatrachus specificepithet:silus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "specificepithet:lepidopodus genus:pygopus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 2
+	Query: "Litoria amboinensis" ; Times: 1
+	Query: "Yellow-billed duck" ; Times: 1
+	Query: "order:Carnivora country:&#34;saudi arabia&#34;" ; Times: 1
+	Query: "Apus pacificus" ; Times: 4
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 2
+	Query: "leiopelma hochstetteri" ; Times: 2
+	Query: "16881" ; Times: 1
+	Query: "specificepithet:peronii genus:hemiergis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Sphenodon" ; Times: 7
+	Query: "Falco peregrinus ws OR wingspan OR wing+span" ; Times: 8
+	Query: "16804" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "lepidocybium" ; Times: 1
+	Query: "naja kaouthia" ; Times: 1
+	Query: "Lycocorax" ; Times: 1
+	Query: "“Very heavy” incubation" ; Times: 1
+	Query: "Litoria lutea" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "B26405" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "parvicrepis" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "Acontias plumbeus" ; Times: 1
+	Query: "heraldia nocturna" ; Times: 1
+	Query: "argent" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "vntype:specimen class:Aves continent:Antarctica year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "class:Mammalia country:&#34;saudi arabia&#34;" ; Times: 1
+	Query: "orange fronted parakeet" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "Sphenomorphus papuae" ; Times: 1
+	Query: "favonigobius lateralis" ; Times: 2
+	Query: "64748" ; Times: 1
+	Query: "Syma torotoro" ; Times: 4
+	Query: "pachyptila vittata" ; Times: 10
+	Query: "Pareas" ; Times: 2
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "Krutzch" ; Times: 2
+	Query: "charadrius obscurus" ; Times: 4
+	Query: "73832" ; Times: 1
+	Query: "Litoria nigropunctata" ; Times: 3
+	Query: "(19565)" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "65127" ; Times: 1
+	Query: "B8645" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "P. Krutzch" ; Times: 1
+	Query: "Nyctimystes pulcher" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:occidentalis stateprovince:Utah" ; Times: 3
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "Anas platyrhynchos ws OR wingspan OR wing+span" ; Times: 8
+	Query: "genus:Crinia specificepithet:riparia" ; Times: 1
+	Query: "pelagodroma marina" ; Times: 1
+	Query: "Litoria dorsivena" ; Times: 4
+	Query: "specificepithet:lepidopodus genus:pygopus" ; Times: 4
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "79557" ; Times: 1
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "ellochelon" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1106 download events in this period)
+Total number of records downloaded: 511
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 39
+	Country: Australia ; Times: 18
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-09 ; Times: 6
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 9
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "genus:Myobatrachus" ; Times: 2
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Emoia impar" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Emoia nigra" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 3
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Trachylepis punctatissima" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Emoia aurulenta" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Homoroselaps lacteus" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "Emoia loveridgei" ; Times: 1
+	Query: "Lialis jicari" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Carlia schmeltzii" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Sphenomorphus maindroni" ; Times: 1
+	Query: "Sphenomorphus woodfordi" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Sphenomorphus papuae" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "Martes foina" ; Times: 2
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Emoia submetallica" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "Stegonotus" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+
+
+End of report.
