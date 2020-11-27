@@ -1,0 +1,463 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 438
+Number of records retrieved in searches: 6797
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 6
+	Country: Australia ; Times: 31
+	Country: Colombia ; Times: 3
+	Country: Cuba ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Indonesia ; Times: 3
+	Country: India ; Times: 5
+	Country: Mexico ; Times: 111
+	Country: United Kingdom ; Times: 29
+	Country: Sweden ; Times: 14
+	Country: Germany ; Times: 19
+	Country: Finland ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 178
+	Country: Thailand ; Times: 6
+	Country: Ecuador ; Times: 2
+	Country: Ukraine ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 12
+	Date: 2020-03-30 ; Times: 8
+	Date: 2020-03-31 ; Times: 43
+	Date: 2020-03-02 ; Times: 46
+	Date: 2020-03-18 ; Times: 73
+	Date: 2020-03-19 ; Times: 24
+	Date: 2020-03-09 ; Times: 19
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-15 ; Times: 7
+	Date: 2020-03-12 ; Times: 6
+	Date: 2020-03-13 ; Times: 7
+	Date: 2020-03-10 ; Times: 7
+	Date: 2020-03-08 ; Times: 3
+	Date: 2020-03-06 ; Times: 18
+	Date: 2020-03-27 ; Times: 22
+	Date: 2020-03-26 ; Times: 7
+	Date: 2020-03-25 ; Times: 8
+	Date: 2020-03-24 ; Times: 11
+	Date: 2020-03-23 ; Times: 16
+	Date: 2020-03-22 ; Times: 9
+	Date: 2020-03-21 ; Times: 5
+	Date: 2020-03-20 ; Times: 31
+	Date: 2020-03-05 ; Times: 12
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-11 ; Times: 27
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-29 ; Times: 4
+	Date: 2020-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla punctata" ; Times: 2
+	Query: "catalognumber:B26926" ; Times: 1
+	Query: "pelecanoides garnotii" ; Times: 1
+	Query: "brachypteryx cruralis" ; Times: 1
+	Query: "ara chloropterus" ; Times: 1
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "Craterocephalus marianae mappable:1" ; Times: 1
+	Query: "Mormopterus petersi" ; Times: 2
+	Query: "helmeted guinea fowl" ; Times: 1
+	Query: "chalcites maculatus" ; Times: 1
+	Query: "institutioncode:SAMA" ; Times: 2
+	Query: "Litoria barringtonensis" ; Times: 1
+	Query: "catalognumber:B24961" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "ozotoceros bezoarticus" ; Times: 1
+	Query: "ducula spilorrhoa" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+	Query: "genus:Gazella specificepithet:spekei" ; Times: 2
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Chalinolobus picatus" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 3
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "Craterocephalus nouhuysi mappable:1" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "catalognumber:B27082" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "Pteropus admiralitatum" ; Times: 1
+	Query: "Chalinolobus nigrogriseus" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "Miniopterus propitristis" ; Times: 2
+	Query: "24967" ; Times: 1
+	Query: "B27757" ; Times: 2
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "Coeranoscincus reticulatus" ; Times: 1
+	Query: "genus:Cophixalus specificepithet:balbus" ; Times: 2
+	Query: "Spicospina flammocaerulea" ; Times: 1
+	Query: "Miniopterus australis" ; Times: 1
+	Query: "catalognumber:B26952" ; Times: 1
+	Query: "antaresia childreni institutioncode:SAMA" ; Times: 1
+	Query: "Vespadelus darlingtoni" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "Irolita waitii" ; Times: 1
+	Query: "Miniopterus magnater" ; Times: 2
+	Query: "60756" ; Times: 1
+	Query: "genus:Caperea" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "Mormopterus kitcheneri" ; Times: 2
+	Query: "Nyctereutes" ; Times: 2
+	Query: "rattus steini" ; Times: 2
+	Query: "specificepithet:cuniculus genus:Oryctolagus haslength:1" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "Mormopterus beccarii" ; Times: 2
+	Query: "pitta brachyura" ; Times: 3
+	Query: "(84514)" ; Times: 1
+	Query: "catalognumber:B32839" ; Times: 1
+	Query: "Nyctophilus gouldi" ; Times: 1
+	Query: "catalognumber:B42920" ; Times: 1
+	Query: "Glareola maldivarum" ; Times: 4
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "Mormopterus ridei" ; Times: 2
+	Query: "specificepithet:sapphirina genus:Hylocharis" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "Tadarida australis" ; Times: 1
+	Query: "(M3014)" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "notechis ater institutioncode:SAMA" ; Times: 2
+	Query: "genus:Platanista" ; Times: 1
+	Query: "83012" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:SAMA" ; Times: 2
+	Query: "Austrelaps institutioncode:SAMA" ; Times: 2
+	Query: "13619" ; Times: 2
+	Query: "genus:Gazella specificepithet:dorcas" ; Times: 3
+	Query: "antaresia institutioncode:SAMA" ; Times: 1
+	Query: "Pteropus conspicillatus" ; Times: 1
+	Query: "Scotorepens balstoni" ; Times: 1
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 2
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 2
+	Query: "Cheiromeles torquatus" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "Craterocephalus centralis mappable:1" ; Times: 1
+	Query: "Melanotaenia australis mappable:1" ; Times: 1
+	Query: "CT scan" ; Times: 1
+	Query: "puffinus africa" ; Times: 1
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "Pteropus anetianus" ; Times: 1
+	Query: "Saccolaimus flaviventris" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "genus:Litocranius specificepithet:walleri" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "Craterocephalus cuneiceps mappable:1" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Rattus" ; Times: 1
+	Query: "Craterocephalus fluviatilis mappable:1" ; Times: 1
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "Chironax melanocephalus" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 2
+	Query: "76294" ; Times: 1
+	Query: "Austrelaps labialis institutioncode:SAMA" ; Times: 1
+	Query: "genus:Scincella stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "A.O. Hume" ; Times: 1
+	Query: "Guinea fowl" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "pelecanus philippensis" ; Times: 3
+	Query: "Vespadelus pumilus" ; Times: 1
+	Query: "Nyctophilus bifax" ; Times: 1
+	Query: "Choloepus didactylus mappable:1" ; Times: 2
+	Query: "Naja mossambica" ; Times: 2
+	Query: "cerberus institutioncode:SAMA" ; Times: 1
+	Query: "crotalus vegrandis" ; Times: 9
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "South Sentinel" ; Times: 2
+	Query: "Vipera berus" ; Times: 1
+	Query: "Aselliscus tricuspidatus" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:aethiops" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "guinea fowl" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "genus:mesoplodon densirostris" ; Times: 1
+	Query: "Emballonura nigrescens" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Vespadelus vulturnus" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "family:Dibamidae country:&#34;Philippines&#34;" ; Times: 2
+	Query: "Austrelaps superbus institutioncode:SAMA" ; Times: 1
+	Query: "Coleodactylus amazonicus" ; Times: 1
+	Query: "Bothrochilus boa" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "Austrelaps ramsayi institutioncode:SAMA" ; Times: 1
+	Query: "Uropterygius micropterus" ; Times: 1
+	Query: "Myotis macropus" ; Times: 2
+	Query: "specificepithet:gigantea genus:Manis" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "(16380)" ; Times: 1
+	Query: "Mormopterus eleryi" ; Times: 2
+	Query: "turdoides caudatus" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "Pteropus poliocephalus" ; Times: 1
+	Query: "Melanotaenia splendida tatei mappable:1" ; Times: 1
+	Query: "Notopteris macdonaldi" ; Times: 2
+	Query: "Scotorepens greyii" ; Times: 1
+	Query: "Emballonura furax" ; Times: 1
+	Query: "catalognumber:B32313" ; Times: 1
+	Query: "Chaerephon jobensis" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "Hipposideros inornatus" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "dendrelaphis institutioncode:SAMA" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "genus:Pedionomus" ; Times: 2
+	Query: "76847" ; Times: 1
+	Query: "Dave Long" ; Times: 2
+	Query: "pterodroma pycrofti" ; Times: 4
+	Query: "polygrammicus" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "Pteruthius flaviscapis India" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:truncatus" ; Times: 1
+	Query: "Scotorepens sanborni" ; Times: 1
+	Query: "catalognumber:B55923" ; Times: 1
+	Query: "antaresia stimsoni institutioncode:SAMA" ; Times: 1
+	Query: "Nyctimystes eucavatus" ; Times: 1
+	Query: "Pteropus caniceps" ; Times: 1
+	Query: "catalognumber:B42972" ; Times: 1
+	Query: "Nyctimene robinsoni" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "aspidites ramsayi institutioncode:SAMA" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "Dobsonia moluccensis" ; Times: 1
+	Query: "Nyctophilus major" ; Times: 1
+	Query: "Acerodon mackloti" ; Times: 1
+	Query: "Craterocephalus lacustris mappable:1" ; Times: 1
+	Query: "Miniopterus inflatus" ; Times: 2
+	Query: "R57365" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 3
+	Query: "diomedea crozet" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 18
+	Query: "Myotis moluccarum" ; Times: 2
+	Query: "turtur campbell" ; Times: 1
+	Query: "Miniopterus minor" ; Times: 2
+	Query: "r65401" ; Times: 1
+	Query: "r65400" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "liasis fuscus institutioncode:SAMA" ; Times: 1
+	Query: "Melanotaenia nigrans mappable:1" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "Macroderma gigas" ; Times: 2
+	Query: "morelia amethistina institutioncode:SAMA" ; Times: 1
+	Query: "Melanotaenia fluviatilis mappable:1" ; Times: 1
+	Query: "Miniopterus natalensis" ; Times: 2
+	Query: "genus:Oreotragus specificepithet:oreotragus" ; Times: 2
+	Query: "Crotalus vegrandis" ; Times: 1
+	Query: "Pipistrellus adamsi" ; Times: 1
+	Query: "notechis scutatus institutioncode:SAMA" ; Times: 2
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "Scarus schlegeli mappable:1" ; Times: 1
+	Query: "aspidites institutioncode:SAMA" ; Times: 1
+	Query: "equine" ; Times: 1
+	Query: "Psittacidae &#34;breeding condition&#34;" ; Times: 1
+	Query: "Vespadelus caurinus" ; Times: 1
+	Query: "Miniopterus medius" ; Times: 2
+	Query: "motacilla citreola india" ; Times: 1
+	Query: "catalognumber:B26505" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "Hipposideros cervinus" ; Times: 1
+	Query: "Chalinolobus morio" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "Taphozous hilli" ; Times: 1
+	Query: "Rhinopoma microphyllum" ; Times: 1
+	Query: "aspidites melanocephalus institutioncode:SAMA" ; Times: 1
+	Query: "poicephalus robustus" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "Taphozous australis" ; Times: 1
+	Query: "Chaerephon bregullae" ; Times: 1
+	Query: "tangara guttata" ; Times: 1
+	Query: "Craterocephalus stramineus mappable:1" ; Times: 1
+	Query: "Miniopterus tristis" ; Times: 2
+	Query: "recordedby:r johnstone" ; Times: 1
+	Query: "Kestratherina esox mappable:1" ; Times: 1
+	Query: "Taphozous georgianus" ; Times: 1
+	Query: "R27452" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "oligosoma" ; Times: 2
+	Query: "Mormopterus loriae" ; Times: 2
+	Query: "Pteropus woodfordi" ; Times: 1
+	Query: "pedionomus" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "Melanotaenia angfa mappable:1" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 2
+	Query: "cacophis institutioncode:SAMA" ; Times: 1
+	Query: "Mormopterus planiceps" ; Times: 2
+	Query: "diomedea exulans crozet" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 1
+	Query: "Nyctophilus timoriensis" ; Times: 1
+	Query: "Naja siamensis" ; Times: 1
+	Query: "specificepithet:putorius genus:Mustela haslength:1" ; Times: 1
+	Query: "Hipposideros semoni" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Mormopterus cobourgianus" ; Times: 2
+	Query: "callithrix jacchus" ; Times: 4
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "(19565)" ; Times: 1
+	Query: "macronectes halli year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "Atherinosoma microstoma mappable:1" ; Times: 1
+	Query: "Hipposideros diadema" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "Vespadelus finlaysoni" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Emballonura beccarii" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "Thoopterus nigrescens" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "Emballonura dianae" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "catalognumber:B56356" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Atherinomorus vaigiensis mappable:1" ; Times: 1
+	Query: "Leptatherina presbyteroides mappable:1" ; Times: 1
+	Query: "Miniopterus macrocneme" ; Times: 2
+	Query: "Craterocephalus fulvus mappable:1" ; Times: 1
+	Query: "Acrocephalus stentoreus" ; Times: 5
+	Query: "Hipposideros ater" ; Times: 1
+	Query: "Pteropus scapulatus" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Vespadelus regulus" ; Times: 1
+	Query: "catalognumber:B41557" ; Times: 1
+	Query: "Vespadelus baverstocki" ; Times: 1
+	Query: "Atherinason hepsetoides mappable:1" ; Times: 1
+	Query: "Hipposideros galeritus" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "Lagenorhynchus obliquidens" ; Times: 1
+	Query: "Atherinosoma elongata mappable:1" ; Times: 1
+	Query: "B13397" ; Times: 1
+	Query: "malayemys subtrijuga" ; Times: 1
+	Query: "Craterocephalus stercusmuscarum mappable:1" ; Times: 1
+	Query: "TRING" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:agilis genus:hylobates" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "77071" ; Times: 1
+	Query: "Melanotaenia splendida inornata mappable:1" ; Times: 1
+	Query: "Hipposideros calcaratus" ; Times: 1
+	Query: "Falsistrellus tasmaniensis" ; Times: 1
+	Query: "Evolutionary Biology Unit" ; Times: 2
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "pachyptila crassirostris" ; Times: 2
+	Query: "Melanotaenia trifasciata mappable:1" ; Times: 1
+	Query: "Craterocephalus honoriae mappable:1" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus year &lt;= 1930" ; Times: 1
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "Emballonura raffrayana" ; Times: 1
+	Query: "notechis institutioncode:SAMA" ; Times: 1
+	Query: "Craterocephalus gloveri mappable:1" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "Vespadelus troughtoni" ; Times: 1
+	Query: "Craterocephalus dalhousiensis mappable:1" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "Rhinolophus megaphyllus" ; Times: 1
+	Query: "Indriidae" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 4
+	Query: "SAMA Mammalogy M15802" ; Times: 1
+	Query: "Craterocephalus eyresii mappable:1" ; Times: 2
+	Query: "83646" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 853 download events in this period)
+Total number of records downloaded: 263
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 17
+	Country: Australia ; Times: 1
+	Country: Cuba ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-02 ; Times: 4
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 6
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Hyla punctata" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "ozotoceros bezoarticus" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Osteopilus brunneus" ; Times: 1
+	Query: "genus:Rana specificepithet:cascadae" ; Times: 1
+	Query: "Atelopus chiriquiensis" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "shinisaurus" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "family:Dibamidae country:&#34;Philippines&#34;" ; Times: 1
+	Query: "tangara guttata" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
