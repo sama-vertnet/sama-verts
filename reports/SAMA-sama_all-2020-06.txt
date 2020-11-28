@@ -1,0 +1,224 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 523
+Number of records retrieved in searches: 5427
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 185
+	Country: Australia ; Times: 5
+	Country: Ireland ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 15
+	Country: United Kingdom ; Times: 283
+	Country: Sweden ; Times: 23
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-08 ; Times: 56
+	Date: 2020-06-09 ; Times: 34
+	Date: 2020-06-06 ; Times: 5
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 15
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 9
+	Date: 2020-06-03 ; Times: 10
+	Date: 2020-06-01 ; Times: 6
+	Date: 2020-06-15 ; Times: 42
+	Date: 2020-06-10 ; Times: 147
+	Date: 2020-06-11 ; Times: 96
+	Date: 2020-06-12 ; Times: 44
+	Date: 2020-06-17 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco jugger" ; Times: 1
+	Query: "Salmo salar" ; Times: 9
+	Query: "Gyrinocheilus pennocki" ; Times: 6
+	Query: "chrysocomus" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "paraplotosus albilabris" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "astrapia nigra" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Emoia ponapea" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "neocyttus rhomboidalis" ; Times: 2
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Cairina moschata" ; Times: 3
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "82441" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "specificepithet:ocellata genus:Rheinardia" ; Times: 2
+	Query: "B43329" ; Times: 2
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "Varanus similis" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "periophthalmodon schlosseri" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "phycodurus eques" ; Times: 1
+	Query: "rhombosolea tapirina" ; Times: 2
+	Query: "Plotosus canius" ; Times: 6
+	Query: "Agkistrodon piscivorous" ; Times: 4
+	Query: "Sialia sialis hasmass:1" ; Times: 1
+	Query: "genus:niviventer specificepithet:fulvescens" ; Times: 1
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "macruronus novaezelandiae" ; Times: 1
+	Query: "Mystacoleucus marginatus" ; Times: 12
+	Query: "persparsia kopua" ; Times: 1
+	Query: "genus:hylomys" ; Times: 13
+	Query: "Astatotilapia burtoni" ; Times: 6
+	Query: "bunomys fratrorum" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "lesueurina platycephala" ; Times: 1
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Arius arius" ; Times: 12
+	Query: "Anas penelope" ; Times: 6
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Epimachus" ; Times: 13
+	Query: "pelotretis flavilatus" ; Times: 1
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "thinornis rubricollis" ; Times: 3
+	Query: "bunomys" ; Times: 63
+	Query: "lampanyctodes hectoris" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 4
+	Query: "Scomber colias" ; Times: 6
+	Query: "Falco peregrinus hasmass:1" ; Times: 1
+	Query: "rhinochimaera pacifica" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "21719" ; Times: 2
+	Query: "Emoia adspersa" ; Times: 1
+	Query: "selenotoca multifasciata" ; Times: 1
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "genus:Breviceps year &lt;= 1990" ; Times: 1
+	Query: "ophisurus serpens" ; Times: 1
+	Query: "prionodraco evansii" ; Times: 6
+	Query: "phosichthys argenteus" ; Times: 1
+	Query: "B8441" ; Times: 1
+	Query: "genus:bunomys" ; Times: 12
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Yellow-billed Duck" ; Times: 1
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "ailurus fulgens" ; Times: 12
+	Query: "niviventer cremoriventer" ; Times: 1
+	Query: "pataecus fronto" ; Times: 1
+	Query: "lepidorhynchus denticulatus" ; Times: 1
+	Query: "Emoia brongersmai" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "B45791 Aves" ; Times: 1
+	Query: "B24297" ; Times: 1
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Microhierax caerulescens" ; Times: 1
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "orcinus" ; Times: 1
+	Query: "metavelifer multiradiatus" ; Times: 1
+	Query: "genus:mus specificepithet:caroli" ; Times: 1
+	Query: "Pisodonophis boro" ; Times: 6
+	Query: "Phelsuma guentheri" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "Oreochromis tanganicae" ; Times: 6
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "bunomys penitus" ; Times: 16
+	Query: "genus:maxomys" ; Times: 2
+	Query: "Anas formosa" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "penitus" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "meuschenia trachylepis" ; Times: 1
+	Query: "genus:bunomys specificepithet:penitus" ; Times: 4
+	Query: "bunomys chrysocomus" ; Times: 11
+	Query: "Falco peregrinus mass OR weight" ; Times: 2
+	Query: "Xiphophorus variatus" ; Times: 6
+	Query: "paruromys" ; Times: 2
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "catalognumber:R22597 institutioncode:SAMA" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 474 download events in this period)
+Total number of records downloaded: 409
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Australia ; Times: 7
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 11
+	Date: 2020-06-10 ; Times: 12
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Emoia adspersa" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:ocellata genus:Rheinardia" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "Emoia ponapea" ; Times: 1
+	Query: "Emoia schmidti" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "bunomys" ; Times: 2
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "bunomys chrysocomus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Emoia samoensis" ; Times: 1
+	Query: "Lestoros" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Emoia brongersmai" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Sphenomorphus brunneus" ; Times: 1
+
+
+End of report.
