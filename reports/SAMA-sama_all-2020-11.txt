@@ -1,0 +1,521 @@
+Report for Institution Code SAMA, Resource sama_all
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 570
+Number of records retrieved in searches: 5295
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 236
+	Country: Australia ; Times: 11
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 27
+	Country: United Kingdom ; Times: 243
+	Country: Netherlands ; Times: 1
+	Country: China ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Brazil ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 5
+	Date: 2020-11-21 ; Times: 3
+	Date: 2020-11-22 ; Times: 9
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-24 ; Times: 4
+	Date: 2020-11-25 ; Times: 4
+	Date: 2020-11-08 ; Times: 7
+	Date: 2020-11-09 ; Times: 7
+	Date: 2020-11-06 ; Times: 7
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 13
+	Date: 2020-11-05 ; Times: 6
+	Date: 2020-11-02 ; Times: 220
+	Date: 2020-11-03 ; Times: 6
+	Date: 2020-11-01 ; Times: 7
+	Date: 2020-11-26 ; Times: 22
+	Date: 2020-11-27 ; Times: 18
+	Date: 2020-11-28 ; Times: 13
+	Date: 2020-11-29 ; Times: 4
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-18 ; Times: 10
+	Date: 2020-11-30 ; Times: 8
+	Date: 2020-11-15 ; Times: 6
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 7
+	Date: 2020-11-16 ; Times: 9
+	Date: 2020-11-11 ; Times: 5
+	Date: 2020-11-10 ; Times: 135
+	Date: 2020-11-13 ; Times: 14
+	Date: 2020-11-12 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterocles namaqua" ; Times: 2
+	Query: "Cormobates leucophaeus" ; Times: 1
+	Query: "Salmo salar" ; Times: 5
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "specificepithet:mesomelas genus:canis" ; Times: 3
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Indri indri" ; Times: 1
+	Query: "uncia" ; Times: 1
+	Query: "oreotragus oreotragus" ; Times: 2
+	Query: "mappable:1 scientificname:Boselaphus tragocamelus" ; Times: 1
+	Query: "scientificname:Orcinus orca" ; Times: 2
+	Query: "family:Myrmecophagidae hasmass:1" ; Times: 2
+	Query: "63396" ; Times: 1
+	Query: "Turdus cardis" ; Times: 1
+	Query: "Muraenesox bagio" ; Times: 3
+	Query: "Gonorynchus greyi" ; Times: 2
+	Query: "scientificname:Didelphis virginiana" ; Times: 2
+	Query: "Lutjanus vitta" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "Arothron manilensis" ; Times: 4
+	Query: "Arenigobius frenatus" ; Times: 2
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "scientificname:Canis lupus" ; Times: 16
+	Query: "Cephalopholis boenak" ; Times: 2
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 3
+	Query: "scientificname:Phoca vitulina" ; Times: 2
+	Query: "order:Diprotodontia hasmass:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 2
+	Query: "Coenocorypha pusilla" ; Times: 1
+	Query: "Himantopus novaezelandiae" ; Times: 1
+	Query: "Sphenomorphus tanneri" ; Times: 2
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "canis mesomelas" ; Times: 3
+	Query: "sulphur crested cockatoos" ; Times: 1
+	Query: "Remora australis" ; Times: 1
+	Query: "Platax teira" ; Times: 2
+	Query: "Rattus tiomanicus" ; Times: 2
+	Query: "62435" ; Times: 2
+	Query: "Cephalopholis urodeta" ; Times: 2
+	Query: "Sphenomorphus woodfordi" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Elops hawaiensis" ; Times: 1
+	Query: "notoryctes" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 3
+	Query: "dasyuromorphia haslength:1" ; Times: 8
+	Query: "scientificname:Balaenoptera borealis" ; Times: 2
+	Query: "Psammogobius biocellatus" ; Times: 1
+	Query: "scientificname:Ziphius cavirostris" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "Hyporhamphus regularis" ; Times: 2
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis" ; Times: 3
+	Query: "Lutjanus lemniscatus" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:burmeisteri" ; Times: 1
+	Query: "turnix olivii" ; Times: 1
+	Query: "hymenolaimus hymenolaimus" ; Times: 1
+	Query: "sterna melanogaster" ; Times: 1
+	Query: "genus:Leucocarbo" ; Times: 1
+	Query: "(staph)" ; Times: 1
+	Query: "Lonchura cucullata" ; Times: 2
+	Query: "Anguilla reinhardtii" ; Times: 2
+	Query: "Acipenser schrenckii" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Sphyraena obtusata" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "kakapo" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 2
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "Coris caudimacula" ; Times: 2
+	Query: "scientificname:Martes americana" ; Times: 2
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "scientificname:Balaenoptera physalus" ; Times: 8
+	Query: "scientificname:Lepus americanus" ; Times: 2
+	Query: "Decapterus russelli" ; Times: 2
+	Query: "Gnathanodon speciosus" ; Times: 2
+	Query: "scientificname:Felis catus" ; Times: 4
+	Query: "Lemur Catta" ; Times: 1
+	Query: "elephas maximus skeleton" ; Times: 1
+	Query: "Apus caffer" ; Times: 1
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "ailurus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "Barbatula barbatula" ; Times: 2
+	Query: "specificepithet:pictus genus:lycaon" ; Times: 2
+	Query: "scientificname:Smilisca baudinii" ; Times: 3
+	Query: "leopard seal" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 13
+	Query: "20507" ; Times: 1
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "Onychogalea lunata" ; Times: 1
+	Query: "Petroica goodenovii" ; Times: 1
+	Query: "scientificname:Mustela erminea" ; Times: 2
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Cacomantis sonneratii" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Petroica macrocephala" ; Times: 1
+	Query: "Murexia" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 2
+	Query: "flying speed" ; Times: 1
+	Query: "Cyrtodactylus serratus" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 3
+	Query: "scientificname:Eptesicus fuscus" ; Times: 1
+	Query: "calonectris diomedea" ; Times: 1
+	Query: "Apalopteron familiare" ; Times: 2
+	Query: "22086" ; Times: 1
+	Query: "Astatotilapia burtoni" ; Times: 1
+	Query: "scientificname:Myotis sodalis" ; Times: 2
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "monster" ; Times: 8
+	Query: "scientificname:Myotis lucifugus" ; Times: 4
+	Query: "scientificname:Marmota monax" ; Times: 2
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "Cephalopholis sonnerati" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "scientificname:Megaptera novaeangliae" ; Times: 2
+	Query: "scientificname:Cervus elaphus" ; Times: 4
+	Query: "Terapon jarbua" ; Times: 4
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 2
+	Query: "Amblygobius phalaena" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "scientificname:Lasiurus borealis" ; Times: 2
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Cypsiurus balasiensis" ; Times: 1
+	Query: "Numida meleagris" ; Times: 2
+	Query: "20227" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Martes foina" ; Times: 3
+	Query: "83586" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "scientificname:Physeter macrocephalus" ; Times: 2
+	Query: "mappable:1 scientificname:Choloepus didactylus" ; Times: 1
+	Query: "scientificname:Rattus norvegicus" ; Times: 8
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Spratelloides robustus" ; Times: 2
+	Query: "scientificname:Tursiops truncatus" ; Times: 2
+	Query: "Acanthopagrus latus" ; Times: 2
+	Query: "Sphenomorphus brunneus" ; Times: 1
+	Query: "Acrocephalus dumetorum" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 2
+	Query: "genus:Cosmocampus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Notoryctes typhlops" ; Times: 2
+	Query: "Apus pacificus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1930 year &lt;= 1934" ; Times: 1
+	Query: "c. Tachyglossidae" ; Times: 1
+	Query: "scientificname:Sus scrofa" ; Times: 3
+	Query: "ommatophoca" ; Times: 1
+	Query: "vntype:specimen genus:Pongo continent:Asia" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "Beryx splendens" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Bostrychus sinensis" ; Times: 2
+	Query: "Lagorchestes leporides" ; Times: 1
+	Query: "potoroidae hasmass:1" ; Times: 5
+	Query: "Gonocephalus chamaeleontinus" ; Times: 1
+	Query: "hydrurga" ; Times: 1
+	Query: "boselaphus" ; Times: 1
+	Query: "scientificname:Condylura cristata" ; Times: 2
+	Query: "scientificname:Delphinus delphis" ; Times: 8
+	Query: "Sus scrofa" ; Times: 6
+	Query: "scientificname:Balaenoptera acutorostrata" ; Times: 3
+	Query: "Dalatias licha" ; Times: 1
+	Query: "DAMA DAMA" ; Times: 2
+	Query: "Apistus carinatus" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "lycaon pictus" ; Times: 2
+	Query: "gazella dorcas" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "Ellochelon vaigiensis" ; Times: 5
+	Query: "Betta splendens" ; Times: 1
+	Query: "Scomberoides lysan" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Dactyloptena orientalis" ; Times: 2
+	Query: "Rhynchobatus australiae" ; Times: 2
+	Query: "Delichon urbica" ; Times: 1
+	Query: "Lutjanus decussatus" ; Times: 1
+	Query: "Micromys minutus" ; Times: 2
+	Query: "Pterois volitans" ; Times: 2
+	Query: "Pastinachus sephen" ; Times: 1
+	Query: "mappable:1 scientificname:Bradypus tridactylus" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 3
+	Query: "B38654" ; Times: 1
+	Query: "Tribolonotus ponceleti" ; Times: 1
+	Query: "Pycnonotus finlaysoni" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Sphenomorphus leptofasciatus" ; Times: 1
+	Query: "elephas maximus" ; Times: 2
+	Query: "Abudefduf vaigiensis" ; Times: 1
+	Query: "sterna acuticauda" ; Times: 2
+	Query: "Anguilla obscura" ; Times: 1
+	Query: "pitfalls" ; Times: 1
+	Query: "R3096" ; Times: 1
+	Query: "scientificname:Castor Canadensis" ; Times: 2
+	Query: "Gerres oyena" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Indri" ; Times: 3
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 3
+	Query: "Castor fiber" ; Times: 3
+	Query: "Megaptera novaeangliae" ; Times: 4
+	Query: "Weevil" ; Times: 1
+	Query: "scientificname:Manis javanica" ; Times: 11
+	Query: "scientificname:Myotis septentrionalis" ; Times: 2
+	Query: "15255" ; Times: 1
+	Query: "scientificname:Grampus griseus" ; Times: 2
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "vntype:specimen specificepithet:maura genus:Macaca" ; Times: 3
+	Query: "scientificname:Globicephala melas" ; Times: 6
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "Ephippiorhynchus senegalensis vntype:specimen" ; Times: 1
+	Query: "planigale hasmass:1" ; Times: 3
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 2
+	Query: "vntype:specimen specificepithet:natalensis genus:Cephalophus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "12415" ; Times: 2
+	Query: "Pisodonophis boro" ; Times: 2
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Helogale parvula" ; Times: 1
+	Query: "lemur catta" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Polychrus" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 1
+	Query: "ash tree" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Pegasus volitans" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 1
+	Query: "golden pheasant" ; Times: 2
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Actophilornis africanus" ; Times: 2
+	Query: "Megalops cyprinoides" ; Times: 2
+	Query: "Coris julis" ; Times: 1
+	Query: "scientificname:Merops apiaster" ; Times: 1
+	Query: "Caesio cuning" ; Times: 2
+	Query: "Oreochromis tanganicae" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "scientificname:Kogia breviceps" ; Times: 4
+	Query: "60802" ; Times: 1
+	Query: "Yeates" ; Times: 1
+	Query: "Lutjanus carponotatus" ; Times: 1
+	Query: "Hypsipetes leucocephalus" ; Times: 1
+	Query: "order:Dasyuromorphia hasmass:1" ; Times: 1
+	Query: "scientificname:Balaenoptera musculus" ; Times: 2
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2003" ; Times: 1
+	Query: "Kyphosus sydneyanus" ; Times: 1
+	Query: "Rana dalmatina" ; Times: 2
+	Query: "vntype:specimen genus:Pongo" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "scientificname:Phocoena phocoena" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 3
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 2
+	Query: "Petroica multicolor" ; Times: 1
+	Query: "scientificname:Mephitis mephitis" ; Times: 2
+	Query: "order:Pilosa hasmass:1" ; Times: 1
+	Query: "genus:Hemiphractus specificepithet:proboscideus" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "TD 4213" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 1
+	Query: "Canis mesomelas" ; Times: 3
+	Query: "Gnathonemus longibarbis" ; Times: 1
+	Query: "Falco tinnunculus" ; Times: 2
+	Query: "Glis glis" ; Times: 2
+	Query: "13425" ; Times: 1
+	Query: "scientificname:Bison bison" ; Times: 2
+	Query: "Stomias boa" ; Times: 2
+	Query: "scientificname:Scaphiopus couchii" ; Times: 1
+	Query: "Aldrichetta forsteri" ; Times: 1
+	Query: "scientificname:Ursus americanus" ; Times: 3
+	Query: "Carassius carassius" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 3
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Lethrinus nebulosus" ; Times: 2
+	Query: "Turtur chalcospilos" ; Times: 2
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 3
+	Query: "Monodactylus argenteus" ; Times: 5
+	Query: "Dendrocygna arcuata" ; Times: 2
+	Query: "Oreotragus oreotragus" ; Times: 2
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "Lutjanus fulviflamma" ; Times: 5
+	Query: "Plectorhinchus cinctus" ; Times: 4
+	Query: "mappable:1 scientificname:Callithrix jacchus" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "macrognathus aculeatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 122 (out of 842 download events in this period)
+Total number of records downloaded: 8870
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 105
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 4
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 12
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-06 ; Times: 7
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 8
+	Date: 2020-11-05 ; Times: 9
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-03 ; Times: 9
+	Date: 2020-11-01 ; Times: 2
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-28 ; Times: 4
+	Date: 2020-11-29 ; Times: 6
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-17 ; Times: 5
+	Date: 2020-11-16 ; Times: 4
+	Date: 2020-11-10 ; Times: 13
+	Date: 2020-11-13 ; Times: 5
+	Date: 2020-11-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Gerbillurus paeba" ; Times: 1
+	Query: "genus:Hyla class:Amphibia haslength:1" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "Litocranius walleri walleri" ; Times: 1
+	Query: "genus:Leucocarbo" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "Rhabdomys pumilio" ; Times: 1
+	Query: "lycaon pictus" ; Times: 2
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maura genus:Macaca" ; Times: 2
+	Query: "syncerus caffer" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Canis mesomelas" ; Times: 1
+	Query: "eublepharidae" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "myotis sodalis" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "Perameles Nasuta" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "Aepyceros melampus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Lagostomus maximus" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "camelopardalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "specificepithet:variegatus genus:coleonyx" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Pelobates fuscus" ; Times: 3
+	Query: "Antidorcas marsupialis" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "panthera Leo" ; Times: 1
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Tachyglossus aculeatus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:Cerberus" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "Perameles nasuta" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Aethomys chrysophilus" ; Times: 1
+	Query: "vntype:specimen specificepithet:natalensis genus:Cephalophus" ; Times: 1
+	Query: "Helogale parvula" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "golden pheasant" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2003" ; Times: 1
+	Query: "Oreotragus oreotragus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia massing &gt;= 8000 hasmass:1" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "vntype:specimen genus:Pongo continent:Asia" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "philander opossum" ; Times: 2
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "chrysoscelis" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+
+
+End of report.
